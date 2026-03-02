@@ -8,6 +8,7 @@ import enApac from './locales/en/apac.json';
 import enInvolve from './locales/en/involve.json';
 import enAbout from './locales/en/about.json';
 import enContact from './locales/en/contact.json';
+import enApps from './locales/en/apps.json';
 
 import zhCommon from './locales/zh-cn/common.json';
 import zhHome from './locales/zh-cn/home.json';
@@ -16,12 +17,13 @@ import zhApac from './locales/zh-cn/apac.json';
 import zhInvolve from './locales/zh-cn/involve.json';
 import zhAbout from './locales/zh-cn/about.json';
 import zhContact from './locales/zh-cn/contact.json';
+import zhApps from './locales/zh-cn/apps.json';
 
 type TranslationDict = Record<string, string | Record<string, unknown>>;
 
 const translations: Record<Locale, TranslationDict> = {
-  en: { ...enCommon, ...enHome, ...enSmart, ...enApac, ...enInvolve, ...enAbout, ...enContact },
-  'zh-cn': { ...zhCommon, ...zhHome, ...zhSmart, ...zhApac, ...zhInvolve, ...zhAbout, ...zhContact },
+  en: { ...enCommon, ...enHome, ...enSmart, ...enApac, ...enInvolve, ...enAbout, ...enContact, ...enApps },
+  'zh-cn': { ...zhCommon, ...zhHome, ...zhSmart, ...zhApac, ...zhInvolve, ...zhAbout, ...zhContact, ...zhApps },
 };
 
 /**
