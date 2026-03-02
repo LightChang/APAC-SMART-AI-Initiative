@@ -1,0 +1,50 @@
+{
+  "involve": {
+    "pageTitle": "参与其中",
+    "pageDescription": "探索适合您的参与路径，加入亚太数字健康变革",
+    "heroTitle": "找到您的参与路径",
+    "heroSubtitle": "无论您的角色是什么，都能在亚太数字健康生态中找到属于自己的位置",
+    "paths": {
+      "title": "三大参与路径",
+      "subtitle": "选择最适合您的方式开始"
+    },
+    "healthcare": {
+      "title": "医疗机构",
+      "subtitle": "评估准备度，规划导入路径",
+      "item1": "SMART on FHIR 导入评估工具",
+      "item2": "分阶段实施路线图",
+      "item3": "成功案例与最佳实践",
+      "item4": "专家咨询服务",
+      "cta": "获取导入指南"
+    },
+    "developer": {
+      "title": "开发者",
+      "subtitle": "获取工具和资源，开始构建",
+      "item1": "FHIR API 快速入门教程",
+      "item2": "免费沙盒测试环境",
+      "item3": "开源项目与代码示例",
+      "item4": "开发者社区与论坛",
+      "cta": "开始开发"
+    },
+    "policy": {
+      "title": "政策制定者",
+      "subtitle": "了解标准化互操作性的政策价值",
+      "item1": "国际采纳案例分析",
+      "item2": "政策框架白皮书",
+      "item3": "经济影响评估报告",
+      "item4": "跨国协作机会",
+      "cta": "下载白皮书"
+    },
+    "resources": {
+      "title": "资源下载",
+      "subtitle": "获取最新的研究报告、技术文档和政策白皮书"
+    },
+    "newsletter": {
+      "title": "订阅电子报",
+      "subtitle": "获取最新的亚太 SMART on FHIR 动态、活动信息和资源更新",
+      "placeholder": "输入您的邮箱地址",
+      "button": "订阅",
+      "privacy": "我们尊重您的隐私，随时可以退订。"
+    }
+  }
+}

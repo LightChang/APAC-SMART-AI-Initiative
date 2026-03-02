@@ -1,0 +1,26 @@
+{
+  "about": {
+    "pageTitle": "About",
+    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
+    "heroTitle": "About APAC Precision Health Initiative",
+    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "mission": {
+      "title": "Mission & Vision",
+      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
+      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+    },
+    "values": {
+      "title": "Core Values",
+      "value1Title": "Open Standards",
+      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
+      "value2Title": "Regional Collaboration",
+      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
+      "value3Title": "Patient-Centered",
+      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+    },
+    "team": {
+      "title": "Founding Team",
+      "subtitle": "An interdisciplinary team from health informatics, technology, and policy"
+    }
+  }
+}

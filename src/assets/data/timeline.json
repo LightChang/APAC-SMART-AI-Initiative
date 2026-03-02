@@ -1,0 +1,47 @@
+[
+  {
+    "year": "2009",
+    "en": "Harvard Medical School & Boston Children's Hospital launch the SMART project (Substitutable Medical Applications, Reusable Technologies)",
+    "zh-cn": "哈佛医学院与波士顿儿童医院启动 SMART 项目（可替换医疗应用，可重用技术）"
+  },
+  {
+    "year": "2011",
+    "en": "HL7 begins developing the FHIR (Fast Healthcare Interoperability Resources) standard",
+    "zh-cn": "HL7 开始开发 FHIR（快速健康互操作资源）标准"
+  },
+  {
+    "year": "2014",
+    "en": "SMART on FHIR framework officially published, combining the SMART app model with FHIR APIs",
+    "zh-cn": "SMART on FHIR 框架正式发布，将 SMART 应用模型与 FHIR API 结合"
+  },
+  {
+    "year": "2015",
+    "en": "U.S. ONC incorporates FHIR into Meaningful Use regulations; Epic, Cerner begin FHIR support",
+    "zh-cn": "美国 ONC 将 FHIR 纳入 Meaningful Use 法规；Epic、Cerner 开始支持 FHIR"
+  },
+  {
+    "year": "2018",
+    "en": "Apple Health Records launches with SMART on FHIR, connecting patients to 500+ hospitals",
+    "zh-cn": "Apple 健康记录基于 SMART on FHIR 上线，连接患者与 500+ 家医院"
+  },
+  {
+    "year": "2019",
+    "en": "HL7 FHIR R4 published as the first normative release; CMS Interoperability Rule mandates FHIR",
+    "zh-cn": "HL7 FHIR R4 发布为首个规范性版本；CMS 互操作性法规强制要求 FHIR"
+  },
+  {
+    "year": "2020",
+    "en": "Microsoft, Google, Amazon launch FHIR-based cloud healthcare APIs; COVID-19 accelerates digital health adoption",
+    "zh-cn": "微软、谷歌、亚马逊推出基于 FHIR 的云端医疗 API；新冠疫情加速数字健康采纳"
+  },
+  {
+    "year": "2022",
+    "en": "TEFCA framework launched in the US; Australia, Singapore, Japan begin national FHIR adoption programs",
+    "zh-cn": "美国启动 TEFCA 框架；澳大利亚、新加坡、日本启动国家级 FHIR 采纳计划"
+  },
+  {
+    "year": "2023",
+    "en": "SMART Health Links and SMART on FHIR v2 advance; APAC becomes the fastest-growing FHIR market",
+    "zh-cn": "SMART Health Links 和 SMART on FHIR v2 推进；亚太成为全球 FHIR 增长最快的市场"
+  }
+]

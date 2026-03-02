@@ -1,0 +1,50 @@
+{
+  "smart": {
+    "pageTitle": "SMART on FHIR",
+    "pageDescription": "了解 SMART on FHIR 开放医疗标准平台",
+    "heroTitle": "理解 SMART on FHIR",
+    "heroSubtitle": "医疗数据互操作性的全球开放标准",
+    "whatIsFhir": {
+      "title": "什么是 FHIR？",
+      "description": "FHIR（Fast Healthcare Interoperability Resources）是由 HL7 国际组织制定的医疗数据交换标准。它使用现代 Web 技术（RESTful API、JSON、OAuth2），让不同的医疗系统能够以标准化的方式交换数据。"
+    },
+    "whatIsSmart": {
+      "title": "SMART 加了什么？",
+      "description": "SMART（Substitutable Medical Applications, Reusable Technologies）在 FHIR 之上添加了应用层框架。它定义了应用如何安全地连接到 EHR 系统、如何进行身份认证和授权——让医疗应用可以像手机 App 一样即插即用。"
+    },
+    "whyMatters": {
+      "title": "为什么这很重要？",
+      "description": "目前全球大多数医疗系统是封闭的、互不兼容的。SMART on FHIR 打破了数据孤岛，让患者数据在不同医院、不同系统之间安全流动，为精准医疗、远程医疗和 AI 辅助诊断奠定了基础。"
+    },
+    "conceptDiagram": {
+      "ehr": "电子健康记录 (EHR)",
+      "smartLayer": "SMART 平台层",
+      "apps": "医疗应用",
+      "ehrDesc": "医院现有系统",
+      "smartDesc": "安全认证 + API 标准",
+      "appsDesc": "第三方创新应用"
+    },
+    "timeline": {
+      "title": "发展里程碑",
+      "subtitle": "从学术研究到全球标准的历程"
+    },
+    "ecosystem": {
+      "title": "全球生态系统",
+      "subtitle": "SMART on FHIR 已获得全球顶级组织的支持与采纳",
+      "standards": "标准组织",
+      "government": "政府机构",
+      "vendors": "EHR 厂商",
+      "cloud": "云平台"
+    },
+    "resources": {
+      "title": "技术资源",
+      "subtitle": "开始您的 SMART on FHIR 之旅",
+      "officialDocs": "官方文档",
+      "officialDocsDesc": "SMART Health IT 官方开发者文档与指南",
+      "fhirSpec": "FHIR 规范",
+      "fhirSpecDesc": "HL7 FHIR R4 完整规范文档",
+      "sandbox": "沙盒环境",
+      "sandboxDesc": "免费的 FHIR 测试服务器，立即开始开发"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[
+  { "name": "HL7 International", "category": "standards" },
+  { "name": "SMART Health IT", "category": "standards" },
+  { "name": "IHE International", "category": "standards" },
+  { "name": "WHO", "category": "government" },
+  { "name": "US ONC", "category": "government" },
+  { "name": "Australian Digital Health Agency", "category": "government" },
+  { "name": "Epic Systems", "category": "vendor" },
+  { "name": "Oracle Health (Cerner)", "category": "vendor" },
+  { "name": "MEDITECH", "category": "vendor" },
+  { "name": "Microsoft Azure Health", "category": "cloud" },
+  { "name": "Google Cloud Healthcare", "category": "cloud" },
+  { "name": "AWS HealthLake", "category": "cloud" },
+  { "name": "Apple Health", "category": "cloud" }
+]

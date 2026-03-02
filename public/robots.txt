@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apac-smart.org/sitemap-index.xml

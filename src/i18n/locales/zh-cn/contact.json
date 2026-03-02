@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "pageTitle": "联系我们",
+    "pageDescription": "与 APAC 精准健康计划取得联系",
+    "heroTitle": "联系我们",
+    "heroSubtitle": "有问题或想合作？我们很乐意听到您的声音",
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "namePlaceholder": "请输入您的姓名",
+      "email": "邮箱",
+      "emailPlaceholder": "请输入您的邮箱",
+      "org": "所属机构",
+      "orgPlaceholder": "请输入您所属的机构名称",
+      "role": "您的角色",
+      "rolePlaceholder": "请选择",
+      "roleHealthcare": "医疗机构管理者",
+      "roleDeveloper": "开发者/技术人员",
+      "rolePolicy": "政策制定者",
+      "roleResearcher": "研究人员",
+      "roleOther": "其他",
+      "message": "留言内容",
+      "messagePlaceholder": "请描述您的问题或合作意向",
+      "submit": "发送消息",
+      "success": "消息已发送！我们会尽快回复您。",
+      "error": "发送失败，请稍后重试。"
+    },
+    "social": {
+      "title": "关注我们",
+      "subtitle": "在社交媒体上与我们互动"
+    },
+    "faq": {
+      "title": "常见问题",
+      "q1": "SMART on FHIR 是免费的吗？",
+      "a1": "是的，SMART on FHIR 是一个开放标准，任何人都可以免费使用。底层的 FHIR 规范和 SMART 应用框架都是开源的。",
+      "q2": "我的医院需要多长时间才能实施 SMART on FHIR？",
+      "a2": "这取决于现有系统的情况。基础的 FHIR 接口通常可以在 3-6 个月内完成，完整的 SMART 平台集成可能需要 6-12 个月。我们提供分阶段实施指南来帮助您规划。",
+      "q3": "APAC 精准健康计划提供哪些具体支持？",
+      "a3": "我们提供技术咨询、导入评估工具、开发者培训、政策建议和跨国协作网络。所有基础资源都是免费的。",
+      "q4": "数据安全和隐私如何保障？",
+      "a4": "SMART on FHIR 内建 OAuth2 安全认证框架，支持细粒度的数据访问控制。我们遵循各国的数据保护法规（如中国《数据安全法》、日本 APPI、澳大利亚 Privacy Act 等）。",
+      "q5": "如何参与社区贡献？",
+      "a5": "您可以通过 GitHub 参与开源项目、加入在线论坛讨论、参加线下活动、或申请成为区域大使。详情请查看「参与其中」页面。"
+    }
+  }
+}

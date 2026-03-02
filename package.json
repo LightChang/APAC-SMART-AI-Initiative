@@ -1,0 +1,24 @@
+{
+  "name": "apac-smart-ai-initiative",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "APAC Precision Health Initiative - Promoting SMART on FHIR in Asia-Pacific",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/alpinejs": "^0.4.9",
+    "@astrojs/sitemap": "^3.7.0",
+    "@fontsource-variable/inter": "^5.2.8",
+    "@fontsource-variable/noto-sans-sc": "^5.2.10",
+    "@iconify-json/lucide": "^1.2.95",
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/alpinejs": "^3.13.11",
+    "alpinejs": "^3.15.8",
+    "astro": "^5.18.0",
+    "astro-icon": "^1.1.5",
+    "tailwindcss": "^4.2.1"
+  }
+}

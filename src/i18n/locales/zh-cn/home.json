@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "用开放标准重塑亚太医疗",
+    "subtitle": "APAC 精准健康计划推动 SMART on FHIR 在亚太地区的采纳，让医疗数据安全互通，赋能精准医疗创新。",
+    "cta1": "了解 SMART on FHIR",
+    "cta2": "加入我们"
+  },
+  "metrics": {
+    "title": "亚太数字健康的增长机遇",
+    "subtitle": "亚太地区正在成为全球 SMART on FHIR 增长最快的区域",
+    "hospitals": "合作医院",
+    "hospitalsValue": "500+",
+    "market": "市场规模",
+    "marketValue": "$7.8B",
+    "growth": "年复合增长率",
+    "growthValue": "27%"
+  },
+  "smartIntro": {
+    "title": "什么是 SMART on FHIR？",
+    "description": "SMART on FHIR 是由波士顿儿童医院计算健康信息学项目（CHIP）开发的开放标准平台。它让第三方应用能够安全地读写电子健康记录（EHR），就像智能手机上的应用商店一样——任何开发者都可以构建医疗应用，在任何支持 FHIR 标准的医疗系统上运行。",
+    "link": "深入了解 SMART on FHIR →"
+  },
+  "apacPreview": {
+    "title": "为什么是亚太？",
+    "subtitle": "亚太地区拥有全球 60% 的人口，面临着医疗数据碎片化、人口老龄化、医疗成本上升等严峻挑战。SMART on FHIR 提供了一个统一、开放的解决方案。",
+    "pain1Title": "数据碎片化",
+    "pain1Desc": "90% 的亚太医疗机构使用不兼容的系统，数据孤岛严重阻碍了协作医疗。",
+    "pain2Title": "人口老龄化",
+    "pain2Desc": "到 2050 年，亚太 65 岁以上人口将翻倍，慢性病管理需要互联互通的数字基础设施。",
+    "pain3Title": "成本压力",
+    "pain3Desc": "标准化互操作性可为每家医院每年节省数百万美元的系统集成与维护成本。",
+    "link": "探索亚太机遇 →"
+  },
+  "partners": {
+    "title": "全球生态合作伙伴",
+    "subtitle": "与顶级医疗标准组织、科技公司和政府机构携手共建"
+  },
+  "bottomCta": {
+    "title": "准备好加入亚太数字健康变革了吗？",
+    "subtitle": "无论您是医疗机构、开发者还是政策制定者，都能在这里找到参与路径。",
+    "button": "立即参与"
+  }
+}

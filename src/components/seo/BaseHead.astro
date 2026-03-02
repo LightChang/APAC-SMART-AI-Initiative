@@ -1,0 +1,67 @@
+---
+import { getAlternateUrls, getLocaleConfig } from '@/i18n/utils';
+import type { Locale } from '@/i18n/config';
+
+interface Props {
+  title: string;
+  description: string;
+  locale: Locale;
+  path?: string;
+  ogImage?: string;
+}
+
+const { title, description, locale, path = '', ogImage = '/og-image.png' } = Astro.props;
+const config = getLocaleConfig(locale);
+const alternates = getAlternateUrls(path);
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+---
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content={Astro.generator} />
+
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="author" content="APAC Precision Health Initiative" />
+
+<link rel="canonical" href={canonicalUrl.href} />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="sitemap" href="/sitemap-index.xml" />
+
+<!-- Language alternates -->
+{alternates.map(({ locale: altLocale, url }) => (
+  <link
+    rel="alternate"
+    hreflang={getLocaleConfig(altLocale).lang}
+    href={new URL(url, Astro.site).href}
+  />
+))}
+<link rel="alternate" hreflang="x-default" href={new URL('/zh-cn/', Astro.site).href} />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonicalUrl.href} />
+<meta property="og:image" content={new URL(ogImage, Astro.site).href} />
+<meta property="og:locale" content={config.lang} />
+<meta property="og:site_name" content="APAC Precision Health Initiative" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={new URL(ogImage, Astro.site).href} />
+
+<!-- JSON-LD -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "APAC Precision Health Initiative",
+  "url": Astro.site?.href,
+  "description": "Advancing SMART on FHIR open healthcare standards across the Asia-Pacific region",
+  "sameAs": [
+    "https://github.com/apac-smart",
+    "https://linkedin.com/company/apac-smart"
+  ]
+})} />

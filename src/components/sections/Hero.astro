@@ -1,0 +1,46 @@
+---
+import Button from '@/components/ui/Button.astro';
+import { t, getLocalizedPath } from '@/i18n/utils';
+import type { Locale } from '@/i18n/config';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+---
+
+<section class="relative overflow-hidden bg-gradient-to-br from-navy via-navy-light to-navy py-20 sm:py-28 lg:py-36">
+  <!-- Background pattern -->
+  <div class="absolute inset-0 opacity-10">
+    <svg class="h-full w-full" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <pattern id="hero-grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+          <circle cx="1" cy="1" r="1" fill="currentColor" class="text-cyan" />
+        </pattern>
+      </defs>
+      <rect fill="url(#hero-grid)" width="100%" height="100%" />
+    </svg>
+  </div>
+
+  <!-- Gradient orbs -->
+  <div class="absolute top-20 left-1/4 h-72 w-72 rounded-full bg-cyan/20 blur-3xl"></div>
+  <div class="absolute bottom-10 right-1/4 h-64 w-64 rounded-full bg-emerald/15 blur-3xl"></div>
+
+  <div class="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
+    <h1 class="font-heading text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
+      {t(locale, 'hero.title')}
+    </h1>
+    <p class="mx-auto mt-6 max-w-3xl text-lg leading-relaxed text-white/70 sm:text-xl">
+      {t(locale, 'hero.subtitle')}
+    </p>
+    <div class="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+      <Button href={getLocalizedPath(locale, 'smart-on-fhir')} variant="primary" size="lg">
+        {t(locale, 'hero.cta1')}
+      </Button>
+      <Button href={getLocalizedPath(locale, 'get-involved')} variant="outline" size="lg">
+        {t(locale, 'hero.cta2')}
+      </Button>
+    </div>
+  </div>
+</section>

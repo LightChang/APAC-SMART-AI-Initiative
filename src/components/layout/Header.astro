@@ -1,0 +1,103 @@
+---
+import { Icon } from 'astro-icon/components';
+import { t, getLocalizedPath } from '@/i18n/utils';
+import { navItems, type Locale } from '@/i18n/config';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const currentPath = Astro.url.pathname;
+
+function isActive(path: string): boolean {
+  const localized = getLocalizedPath(locale, path);
+  if (path === '') return currentPath === localized;
+  return currentPath.startsWith(localized);
+}
+---
+
+<header
+  class="sticky top-0 z-50 border-b border-border bg-warm-white/95 backdrop-blur-sm"
+  x-data="{ mobileOpen: false }"
+>
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="flex h-16 items-center justify-between">
+      <!-- Logo -->
+      <a href={getLocalizedPath(locale)} class="flex items-center gap-2 font-heading text-lg font-bold text-navy">
+        <Icon name="lucide:heart-pulse" class="h-7 w-7 text-cyan" />
+        <span class="hidden sm:inline">APAC Precision Health</span>
+        <span class="sm:hidden">APAC PH</span>
+      </a>
+
+      <!-- Desktop Nav -->
+      <nav class="hidden lg:flex items-center gap-1">
+        {navItems.map(({ key, path }) => (
+          <a
+            href={getLocalizedPath(locale, path)}
+            class:list={[
+              'rounded-lg px-3 py-2 text-sm font-medium transition-colors',
+              isActive(path)
+                ? 'bg-cyan/10 text-cyan'
+                : 'text-body hover:bg-slate-bg hover:text-navy',
+            ]}
+          >
+            {t(locale, key)}
+          </a>
+        ))}
+      </nav>
+
+      <!-- Actions -->
+      <div class="flex items-center gap-2">
+        <!-- Language Switcher -->
+        <a
+          href={locale === 'zh-cn' ? getLocalizedPath('en', currentPath.replace(/^\/(zh-cn|en)\/?/, '')) : getLocalizedPath('zh-cn', currentPath.replace(/^\/(zh-cn|en)\/?/, ''))}
+          class="rounded-lg px-3 py-1.5 text-sm font-medium text-muted hover:bg-slate-bg hover:text-navy transition-colors"
+          title={t(locale, 'lang.switch')}
+        >
+          <Icon name="lucide:globe" class="inline h-4 w-4 mr-1" />
+          {locale === 'zh-cn' ? 'EN' : '中文'}
+        </a>
+
+        <!-- Mobile Menu Toggle -->
+        <button
+          @click="mobileOpen = !mobileOpen"
+          class="lg:hidden rounded-lg p-2 text-muted hover:bg-slate-bg"
+          :aria-label="mobileOpen ? 'Close menu' : 'Open menu'"
+        >
+          <Icon x-show="!mobileOpen" name="lucide:menu" class="h-5 w-5" />
+          <Icon x-show="mobileOpen" name="lucide:x" class="h-5 w-5" x-cloak />
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Nav -->
+  <div
+    x-show="mobileOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="opacity-0 -translate-y-2"
+    x-transition:enter-end="opacity-100 translate-y-0"
+    x-transition:leave="transition ease-in duration-150"
+    x-transition:leave-start="opacity-100 translate-y-0"
+    x-transition:leave-end="opacity-0 -translate-y-2"
+    x-cloak
+    class="border-t border-border bg-warm-white lg:hidden"
+  >
+    <nav class="mx-auto max-w-7xl px-4 py-3 space-y-1">
+      {navItems.map(({ key, path }) => (
+        <a
+          href={getLocalizedPath(locale, path)}
+          class:list={[
+            'block rounded-lg px-4 py-2.5 text-sm font-medium transition-colors',
+            isActive(path)
+              ? 'bg-cyan/10 text-cyan'
+              : 'text-body hover:bg-slate-bg',
+          ]}
+        >
+          {t(locale, key)}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>

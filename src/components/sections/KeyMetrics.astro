@@ -1,0 +1,39 @@
+---
+import MetricCard from '@/components/ui/MetricCard.astro';
+import SectionHeading from '@/components/ui/SectionHeading.astro';
+import { t } from '@/i18n/utils';
+import type { Locale } from '@/i18n/config';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+---
+
+<section class="py-16 sm:py-24 bg-white">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <SectionHeading
+      title={t(locale, 'metrics.title')}
+      subtitle={t(locale, 'metrics.subtitle')}
+    />
+
+    <div class="grid gap-8 sm:grid-cols-3 mt-4">
+      <MetricCard
+        value={t(locale, 'metrics.hospitalsValue')}
+        label={t(locale, 'metrics.hospitals')}
+        icon="🏥"
+      />
+      <MetricCard
+        value={t(locale, 'metrics.marketValue')}
+        label={t(locale, 'metrics.market')}
+        icon="📈"
+      />
+      <MetricCard
+        value={t(locale, 'metrics.growthValue')}
+        label={t(locale, 'metrics.growth')}
+        icon="🚀"
+      />
+    </div>
+  </div>
+</section>

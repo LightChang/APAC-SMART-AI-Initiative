@@ -1,0 +1,87 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SectionHeading from '@/components/ui/SectionHeading.astro';
+import Card from '@/components/ui/Card.astro';
+import { Icon } from 'astro-icon/components';
+import { t } from '@/i18n/utils';
+
+const locale = 'en';
+
+const values = [
+  { key: 'value1', icon: 'lucide:lock-open' },
+  { key: 'value2', icon: 'lucide:handshake' },
+  { key: 'value3', icon: 'lucide:heart' },
+];
+
+const team = [
+  { name: 'Dr. Minghui Zhang', title: 'Executive Director', desc: 'PhD in Health Informatics, former hospital CIO with 15 years of digital health experience' },
+  { name: 'Sarah Chen', title: 'CTO', desc: 'HL7 FHIR core contributor and early SMART on FHIR developer' },
+  { name: 'Taro Tanaka', title: 'APAC Strategy Director', desc: 'Former digital health advisor to Japan\'s Ministry of Health, expert in APAC health policy' },
+  { name: 'Dr. Priya Sharma', title: 'Policy Director', desc: 'Public health PhD specializing in APAC health data governance and privacy compliance' },
+];
+---
+
+<BaseLayout
+  title={`${t(locale, 'about.pageTitle')} - ${t(locale, 'site.title')}`}
+  description={t(locale, 'about.pageDescription')}
+  locale={locale}
+  path="about"
+>
+  <section class="bg-gradient-to-br from-navy to-navy-light py-16 sm:py-24 text-center">
+    <div class="mx-auto max-w-4xl px-4">
+      <h1 class="font-heading text-4xl font-bold text-white sm:text-5xl">{t(locale, 'about.heroTitle')}</h1>
+      <p class="mt-4 text-lg text-white/70">{t(locale, 'about.heroSubtitle')}</p>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24">
+    <div class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
+      <SectionHeading title={t(locale, 'about.mission.title')} />
+      <div class="grid gap-8 md:grid-cols-2 mt-8">
+        <Card hover={false}>
+          <div class="inline-flex rounded-xl p-3 bg-cyan/10 text-cyan mb-4"><Icon name="lucide:target" class="h-6 w-6" /></div>
+          <h3 class="font-heading text-lg font-bold text-navy mb-2">Mission</h3>
+          <p class="text-muted leading-relaxed">{t(locale, 'about.mission.mission')}</p>
+        </Card>
+        <Card hover={false}>
+          <div class="inline-flex rounded-xl p-3 bg-emerald/10 text-emerald mb-4"><Icon name="lucide:eye" class="h-6 w-6" /></div>
+          <h3 class="font-heading text-lg font-bold text-navy mb-2">Vision</h3>
+          <p class="text-muted leading-relaxed">{t(locale, 'about.mission.vision')}</p>
+        </Card>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24 bg-slate-bg">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <SectionHeading title={t(locale, 'about.values.title')} />
+      <div class="grid gap-6 sm:grid-cols-3 mt-8">
+        {values.map(({ key, icon }) => (
+          <Card>
+            <Icon name={icon} class="h-8 w-8 text-cyan mb-4" />
+            <h3 class="font-heading text-lg font-bold text-navy">{t(locale, `about.values.${key}Title`)}</h3>
+            <p class="mt-2 text-sm text-muted leading-relaxed">{t(locale, `about.values.${key}Desc`)}</p>
+          </Card>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <SectionHeading title={t(locale, 'about.team.title')} subtitle={t(locale, 'about.team.subtitle')} />
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 mt-8">
+        {team.map((member) => (
+          <Card class="text-center">
+            <div class="mx-auto mb-4 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-br from-cyan/20 to-emerald/20">
+              <Icon name="lucide:user" class="h-8 w-8 text-cyan" />
+            </div>
+            <h3 class="font-heading text-base font-bold text-navy">{member.name}</h3>
+            <p class="text-sm font-medium text-cyan">{member.title}</p>
+            <p class="mt-2 text-xs text-muted leading-relaxed">{member.desc}</p>
+          </Card>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

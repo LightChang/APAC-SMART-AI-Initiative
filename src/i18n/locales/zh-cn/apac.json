@@ -1,0 +1,48 @@
+{
+  "apac": {
+    "pageTitle": "亚太机遇",
+    "pageDescription": "了解亚太地区 SMART on FHIR 的市场机遇与发展潜力",
+    "heroTitle": "亚太：全球数字健康的新前沿",
+    "heroSubtitle": "拥有全球 60% 人口的亚太地区，正面临医疗互操作性的关键转折点",
+    "painPoints": {
+      "title": "三大核心挑战",
+      "subtitle": "亚太医疗系统面临的结构性难题"
+    },
+    "pain1": {
+      "title": "数据碎片化",
+      "description": "90% 以上的亚太医疗机构使用互不兼容的信息系统。患者在不同医院间就诊时，病历无法自动共享，导致重复检查、信息丢失和医疗差错。"
+    },
+    "pain2": {
+      "title": "人口老龄化",
+      "description": "到 2050 年，亚太地区 65 岁以上人口将突破 13 亿，是目前的两倍。慢性病管理和长期护理需要跨机构、跨区域的无缝数据流动。"
+    },
+    "pain3": {
+      "title": "医疗成本上升",
+      "description": "亚太地区医疗支出年增长率达 7-10%，远超 GDP 增速。系统间重复建设和手动数据整合每年浪费数十亿美元。"
+    },
+    "market": {
+      "title": "市场数据",
+      "subtitle": "亚太 SMART on FHIR 市场正在高速增长",
+      "size": "亚太 FHIR 市场规模",
+      "sizeValue": "$7.8B",
+      "sizeYear": "2025 年预估",
+      "cagr": "年复合增长率",
+      "cagrValue": "27%",
+      "cagrPeriod": "2023-2030",
+      "adoption": "FHIR 采纳率",
+      "adoptionValue": "45%",
+      "adoptionDesc": "亚太主要医院"
+    },
+    "map": {
+      "title": "亚太各国采纳状态",
+      "subtitle": "各国和地区 SMART on FHIR 部署进展",
+      "statusAdvanced": "深度采纳",
+      "statusGrowing": "快速成长",
+      "statusEmerging": "起步探索"
+    },
+    "countries": {
+      "title": "各国聚焦",
+      "subtitle": "探索亚太各国的 FHIR 采纳进展与独特优势"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+---
+interface Props {
+  value: string;
+  label: string;
+  icon: string;
+}
+
+const { value, label, icon } = Astro.props;
+---
+
+<div class="text-center">
+  <div class="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-cyan/10">
+    <span class="text-2xl">{icon}</span>
+  </div>
+  <div
+    class="font-heading text-4xl font-bold text-cyan sm:text-5xl"
+    x-data={`{ shown: false, count: 0, target: '${value}' }`}
+    x-intersect.once="shown = true"
+  >
+    <span x-show="shown" class="animate-count-up">{value}</span>
+    <span x-show="!shown" x-cloak>&nbsp;</span>
+  </div>
+  <p class="mt-2 text-sm font-medium text-muted">{label}</p>
+</div>

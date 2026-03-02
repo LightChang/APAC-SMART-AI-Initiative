@@ -1,0 +1,98 @@
+[
+  {
+    "code": "AU",
+    "status": "advanced",
+    "en": {
+      "name": "Australia",
+      "highlights": "Australian Digital Health Agency mandates FHIR for My Health Record. National FHIR implementation guides published. 85%+ of GPs connected."
+    },
+    "zh-cn": {
+      "name": "澳大利亚",
+      "highlights": "澳大利亚数字健康局强制要求 My Health Record 使用 FHIR。已发布国家级 FHIR 实施指南。85% 以上全科医生已接入。"
+    }
+  },
+  {
+    "code": "SG",
+    "status": "advanced",
+    "en": {
+      "name": "Singapore",
+      "highlights": "National Electronic Health Record (NEHR) integrating FHIR. Smart Nation initiative driving health data standards. Strong government investment in digital health infrastructure."
+    },
+    "zh-cn": {
+      "name": "新加坡",
+      "highlights": "国家电子健康记录（NEHR）正在整合 FHIR。智慧国家计划推动健康数据标准化。政府大力投资数字健康基础设施。"
+    }
+  },
+  {
+    "code": "JP",
+    "status": "growing",
+    "en": {
+      "name": "Japan",
+      "highlights": "MHLW promoting standardized health data exchange. HL7 FHIR JP Core published. Major hospital systems piloting SMART on FHIR applications."
+    },
+    "zh-cn": {
+      "name": "日本",
+      "highlights": "厚生劳动省推进标准化健康数据交换。HL7 FHIR JP Core 已发布。大型医院系统正在试点 SMART on FHIR 应用。"
+    }
+  },
+  {
+    "code": "KR",
+    "status": "growing",
+    "en": {
+      "name": "South Korea",
+      "highlights": "HIRA driving interoperability standards. Growing FHIR adoption in major hospital networks. Active HL7 Korea chapter."
+    },
+    "zh-cn": {
+      "name": "韩国",
+      "highlights": "健保审查评估院推动互操作性标准。主要医院网络 FHIR 采纳增长中。HL7 韩国分会活跃。"
+    }
+  },
+  {
+    "code": "TW",
+    "status": "growing",
+    "en": {
+      "name": "Taiwan",
+      "highlights": "National Health Insurance integrating FHIR. Active FHIR community with government support. Hospital Information System modernization underway."
+    },
+    "zh-cn": {
+      "name": "中国台湾",
+      "highlights": "全民健保正在整合 FHIR。在政府支持下拥有活跃的 FHIR 社区。医院信息系统现代化进行中。"
+    }
+  },
+  {
+    "code": "IN",
+    "status": "growing",
+    "en": {
+      "name": "India",
+      "highlights": "Ayushman Bharat Digital Mission (ABDM) adopting FHIR. Unified Health Interface being developed. Massive scale opportunity with 1.4B population."
+    },
+    "zh-cn": {
+      "name": "印度",
+      "highlights": "Ayushman Bharat 数字健康使命（ABDM）采纳 FHIR。统一健康接口开发中。14 亿人口带来巨大规模机遇。"
+    }
+  },
+  {
+    "code": "TH",
+    "status": "emerging",
+    "en": {
+      "name": "Thailand",
+      "highlights": "Thailand 4.0 digital strategy includes health IT modernization. Growing interest in FHIR standards. Medical tourism sector driving interoperability needs."
+    },
+    "zh-cn": {
+      "name": "泰国",
+      "highlights": "泰国 4.0 数字战略包含健康 IT 现代化。对 FHIR 标准兴趣日增。医疗旅游行业推动互操作性需求。"
+    }
+  },
+  {
+    "code": "ID",
+    "status": "emerging",
+    "en": {
+      "name": "Indonesia",
+      "highlights": "SATUSEHAT national health data platform launched. 270M population with vast underserved areas. Digital health startup ecosystem growing rapidly."
+    },
+    "zh-cn": {
+      "name": "印度尼西亚",
+      "highlights": "SATUSEHAT 国家健康数据平台已启动。2.7 亿人口中存在大量服务不足地区。数字健康创业生态快速增长。"
+    }
+  }
+]

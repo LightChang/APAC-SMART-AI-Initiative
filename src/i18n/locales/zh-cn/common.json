@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "APAC 精准健康计划",
+    "description": "推动亚太地区 SMART on FHIR 开放医疗标准的采纳与创新",
+    "tagline": "开放标准 · 互联健康 · 亚太未来"
+  },
+  "nav": {
+    "home": "首页",
+    "smart": "SMART on FHIR",
+    "apac": "亚太机遇",
+    "involve": "参与其中",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "footer": {
+    "description": "APAC 精准健康计划致力于在亚太地区推广 SMART on FHIR 开放医疗标准，连接医疗机构、开发者和政策制定者，共建互联互通的数字健康生态。",
+    "quickLinks": "快速链接",
+    "resources": "资源",
+    "resourceDoc": "开发者文档",
+    "resourceFhir": "FHIR 规范",
+    "resourceSandbox": "沙盒环境",
+    "resourceGithub": "GitHub",
+    "connect": "联系方式",
+    "newsletter": "订阅电子报",
+    "emailPlaceholder": "输入邮箱地址",
+    "subscribe": "订阅",
+    "copyright": "© 2026 APAC Precision Health Initiative. 保留所有权利。"
+  },
+  "cta": {
+    "learnMore": "了解更多",
+    "getStarted": "开始参与",
+    "contactUs": "联系我们",
+    "readMore": "阅读详情",
+    "download": "下载",
+    "viewAll": "查看全部"
+  },
+  "lang": {
+    "switch": "切换语言",
+    "current": "简体中文"
+  }
+}
