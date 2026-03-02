@@ -1,6 +1,5 @@
 ---
 // Root route: redirect to detected or default locale
-// Client-side detection happens via the inline script below
-// Server-side (SSG) default: redirect to zh-cn
-return Astro.redirect('/zh-cn/');
+const base = import.meta.env.BASE_URL.replace(/\/+$/, '');
+return Astro.redirect(`${base}/zh-cn/`);
 ---

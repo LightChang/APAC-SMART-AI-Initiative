@@ -53,11 +53,15 @@ export function t(locale: Locale, key: string): string {
   return key;
 }
 
+/** Base path from Astro config (for GitHub Pages subpath deployment) */
+const BASE = import.meta.env.BASE_URL.replace(/\/+$/, '');
+
 /**
- * Get locale from URL pathname
+ * Get locale from URL pathname (strips base path first)
  */
 export function getLocaleFromPath(pathname: string): Locale {
-  const segments = pathname.split('/').filter(Boolean);
+  const stripped = pathname.replace(new RegExp(`^${BASE}/?`), '');
+  const segments = stripped.split('/').filter(Boolean);
   const first = segments[0];
   if (first && localeKeys.includes(first as Locale)) {
     return first as Locale;
@@ -66,11 +70,11 @@ export function getLocaleFromPath(pathname: string): Locale {
 }
 
 /**
- * Build a localized path
+ * Build a localized path, prepending the base path
  */
 export function getLocalizedPath(locale: Locale, path: string = ''): string {
   const cleanPath = path.replace(/^\/+|\/+$/g, '');
-  return `/${locale}${cleanPath ? `/${cleanPath}` : ''}/`;
+  return `${BASE}/${locale}${cleanPath ? `/${cleanPath}` : ''}/`;
 }
 
 /**
