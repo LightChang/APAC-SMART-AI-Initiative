@@ -1,5 +1,56 @@
 ---
-// Root route: redirect to detected or default locale
-const base = import.meta.env.BASE_URL.replace(/\/+$/, '');
-return Astro.redirect(`${base}/zh-cn/`);
+// Root route: instant client-side redirect to detected locale
+// No Astro.redirect() — that generates a 2-second meta refresh page in static mode
+const base = (import.meta.env.BASE_URL || '').replace(/\/+$/, '');
 ---
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <script is:inline define:vars={{ base }}>
+      (function () {
+        var STORAGE_KEY = 'apac-preferred-locale';
+        var DEFAULT_LOCALE = 'zh-cn';
+        var SUPPORTED = ['zh-cn', 'en'];
+        var MAP = {
+          'zh-cn': 'zh-cn', 'zh-hans': 'zh-cn', 'zh': 'zh-cn',
+          'en': 'en', 'en-us': 'en', 'en-gb': 'en', 'en-au': 'en',
+          'en-nz': 'en', 'en-sg': 'en', 'en-in': 'en'
+        };
+
+        // 1. Check saved preference
+        var saved = null;
+        try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+        if (saved && SUPPORTED.indexOf(saved) !== -1) {
+          localStorage.setItem(STORAGE_KEY, saved);
+          window.location.replace(base + '/' + saved + '/');
+          return;
+        }
+
+        // 2. Detect from browser language
+        var langs = navigator.languages || [navigator.language || ''];
+        for (var i = 0; i < langs.length; i++) {
+          var l = langs[i].toLowerCase();
+          if (MAP[l]) {
+            localStorage.setItem(STORAGE_KEY, MAP[l]);
+            window.location.replace(base + '/' + MAP[l] + '/');
+            return;
+          }
+          var prefix = l.split('-')[0];
+          if (MAP[prefix]) {
+            localStorage.setItem(STORAGE_KEY, MAP[prefix]);
+            window.location.replace(base + '/' + MAP[prefix] + '/');
+            return;
+          }
+        }
+
+        // 3. Fallback
+        localStorage.setItem(STORAGE_KEY, DEFAULT_LOCALE);
+        window.location.replace(base + '/' + DEFAULT_LOCALE + '/');
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
