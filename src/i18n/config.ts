@@ -24,6 +24,7 @@ export const languageMap: Record<string, Locale> = {
 export const navItems = [
   { key: 'nav.home', path: '' },
   { key: 'nav.smart', path: 'smart-on-fhir' },
+  { key: 'nav.apps', path: 'smarthealth-apps' },
   { key: 'nav.apac', path: 'apac-opportunity' },
   { key: 'nav.involve', path: 'get-involved' },
   { key: 'nav.about', path: 'about' },

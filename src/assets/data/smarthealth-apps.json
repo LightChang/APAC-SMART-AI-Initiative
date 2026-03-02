@@ -1,0 +1,1935 @@
+[
+  {
+    "category": "clinical-decision-support",
+    "icon": "lucide:stethoscope",
+    "apps": [
+      {
+        "name": "ASCVD Risk Calculator",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/ascvd-risk-calculator",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Cardiac Risk (Reynolds Risk Score)",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/cardiac-risk",
+        "fhir": [
+          "DSTU 2"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Atrial Fibrillation Tool",
+        "developer": "AHRQ",
+        "url": "https://apps.smarthealthit.org/app/atrial-fibrillation-tool",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "EBMcalc",
+        "developer": "Foundation Internet Services",
+        "url": "https://apps.smarthealthit.org/app/ebmcalc-fhir-app",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "CDS Connect: Pain Management Summary",
+        "developer": "AHRQ / MITRE",
+        "url": "https://apps.smarthealthit.org/app/cds-connect",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Colchicine CYP3A4/PGP Interaction App",
+        "developer": "University of Utah",
+        "url": "https://apps.smarthealthit.org/app/colchicine-cyp3a4-pgp-interaction-app",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Risk Benefit",
+        "developer": "risk:BENEFIT",
+        "url": "https://apps.smarthealthit.org/app/risk-benefit",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Cerner",
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Chest Pain App",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/chest-pain-app",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "CRC Prediction Tool",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/crc-prediction-tool",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Rx Studio",
+        "developer": "Rx Studio",
+        "url": "https://apps.smarthealthit.org/app/rx-studio",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "DoseMeRx",
+        "developer": "DoseMe",
+        "url": "https://apps.smarthealthit.org/app/dosemerx",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Healthsuite",
+        "developer": "Healthsuite",
+        "url": "https://apps.smarthealthit.org/app/healthsuite",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Stone LogiK",
+        "developer": "Stone LogiK",
+        "url": "https://apps.smarthealthit.org/app/stone-logik",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "PE Calculator",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/pe-calculator",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "YouScript",
+        "developer": "YouScript",
+        "url": "https://apps.smarthealthit.org/app/youscript",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HMS Library of Evidence",
+        "developer": "First Databank",
+        "url": "https://apps.smarthealthit.org/app/hms-library-of-evidence",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Childhood Obesity Risk",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/childhood-obesity-risk",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "VisualDx Diagnostic CDS",
+        "developer": "VisualDx",
+        "url": "https://apps.smarthealthit.org/app/visualdx-diagnostic-cds",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HEART Pathway",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/heart-pathway",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthDecision",
+        "developer": "HealthDecision",
+        "url": "https://apps.smarthealthit.org/app/healthdecision",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ai-analytics",
+    "icon": "lucide:brain",
+    "apps": [
+      {
+        "name": "AI-Powered Health Chart",
+        "developer": "AI Health Chart",
+        "url": "https://apps.smarthealthit.org/app/ai-powered-health-chart",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "AutoMed Query",
+        "developer": "AutoMed",
+        "url": "https://apps.smarthealthit.org/app/automed-query",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Abstractive Health",
+        "developer": "Abstractive Health",
+        "url": "https://apps.smarthealthit.org/app/abstractive-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "DxPrime",
+        "developer": "DxPrime",
+        "url": "https://apps.smarthealthit.org/app/dxprime-diagnosis-and-procedure-suggestions",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "NLP2FHIR",
+        "developer": "Mayo Clinic",
+        "url": "https://apps.smarthealthit.org/app/nlp2fhir-a-fhir-based-clinical-data-normalization-pipeline",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Kickcall AI",
+        "developer": "Kickcall",
+        "url": "https://apps.smarthealthit.org/app/kickcall-ai",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "CHF Predictive Analytics",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/chf-predictive-analytics",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "AI-Driven Medical Summaries",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/ai-driven-medical-summaries",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthConnect AI Cardiovascular Risk",
+        "developer": "HealthConnect",
+        "url": "https://apps.smarthealthit.org/app/healthconnect-ai-cardiovascular-risk",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthConnect AI Chat Questionnaires",
+        "developer": "HealthConnect",
+        "url": "https://apps.smarthealthit.org/app/healthconnect-ai-chat-questionnaires",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthConnect Form Templates",
+        "developer": "HealthConnect",
+        "url": "https://apps.smarthealthit.org/app/healthconnect-form-based-templates",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthConnect AI Care Plan Generator",
+        "developer": "HealthConnect",
+        "url": "https://apps.smarthealthit.org/app/healthconnect-ai-care-plan-generator",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthCheck AI",
+        "developer": "HealthCheck",
+        "url": "https://apps.smarthealthit.org/app/healthcheck-ai",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "patient-engagement",
+    "icon": "lucide:users",
+    "apps": [
+      {
+        "name": "CommonHealth",
+        "developer": "The Commons Project",
+        "url": "https://apps.smarthealthit.org/app/commonhealth",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Android"
+        ]
+      },
+      {
+        "name": "MyLinks",
+        "developer": "MyLinks",
+        "url": "https://apps.smarthealthit.org/app/mylinks",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "1upHealth",
+        "developer": "1upHealth",
+        "url": "https://apps.smarthealthit.org/app/aggregated-patient-data",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Fasten Health",
+        "developer": "Fasten Health",
+        "url": "https://apps.smarthealthit.org/app/fasten-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Allscripts",
+          "Athena Health",
+          "Cerner",
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "OneRecord",
+        "developer": "OneRecord",
+        "url": "https://apps.smarthealthit.org/app/onerecord",
+        "fhir": [
+          "DSTU 2",
+          "STU 3",
+          "R4"
+        ],
+        "ehr": [
+          "Allscripts",
+          "Athena Health",
+          "Cerner",
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "PatientCare Portal",
+        "developer": "PatientCare",
+        "url": "https://apps.smarthealthit.org/app/patientcare-portal",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "Carefluence Patient Portal",
+        "developer": "Carefluence",
+        "url": "https://apps.smarthealthit.org/app/carefluence-patient-portal",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "C-Now",
+        "developer": "C-Now",
+        "url": "https://apps.smarthealthit.org/app/c-now",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Flexpa",
+        "developer": "Flexpa",
+        "url": "https://apps.smarthealthit.org/app/flexpa",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "AppScript",
+        "developer": "IQVIA",
+        "url": "https://apps.smarthealthit.org/app/appscript-on-fhir",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "b.well Connected Health",
+        "developer": "b.well",
+        "url": "https://apps.smarthealthit.org/app/bwell-connected-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "PatientShare",
+        "developer": "PatientShare",
+        "url": "https://apps.smarthealthit.org/app/patientshare",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Guava",
+        "developer": "Guava Health",
+        "url": "https://apps.smarthealthit.org/app/guava",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "MyFHR",
+        "developer": "MyFHR",
+        "url": "https://apps.smarthealthit.org/app/myfhr",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS"
+        ]
+      },
+      {
+        "name": "Mere Medical",
+        "developer": "Mere Medical",
+        "url": "https://apps.smarthealthit.org/app/mere-medical",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Allscripts",
+          "Athena Health",
+          "Cerner",
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "CarePassport",
+        "developer": "CarePassport",
+        "url": "https://apps.smarthealthit.org/app/carepassport",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "Doctor Care Portal",
+        "developer": "PatientCare",
+        "url": "https://apps.smarthealthit.org/app/doctor-care-portal",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Complete Patient Portal",
+        "developer": "Carefluence",
+        "url": "https://apps.smarthealthit.org/app/complete-patient-portal",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "pediatrics",
+    "icon": "lucide:baby",
+    "apps": [
+      {
+        "name": "Bilirubin App",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/bilirubin-app",
+        "fhir": [
+          "DSTU 2"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "SMART BP Centiles",
+        "developer": "Boston Children's Hospital",
+        "url": "https://apps.smarthealthit.org/app/bp-centiles",
+        "fhir": [
+          "DSTU 2",
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "BP Centiles (Updated)",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/bp-centiles-updated",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Growth Chart",
+        "developer": "SMART / Fjord / Interopion",
+        "url": "https://apps.smarthealthit.org/app/growth-chart",
+        "fhir": [
+          "DSTU 2"
+        ],
+        "ehr": [
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Growth Chart and Immunizations",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/growth-chart-and-immunizations",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Pediatric Growth Chart for iOS",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/pediatric-growth-chart-for-ios",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "iOS"
+        ]
+      },
+      {
+        "name": "Growth Chart for Infants",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/growth-chart-for-infants",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Handtevy Hospital",
+        "developer": "Handtevy",
+        "url": "https://apps.smarthealthit.org/app/handtevy-hospital",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "care-coordination",
+    "icon": "lucide:git-merge",
+    "apps": [
+      {
+        "name": "AristaMD",
+        "developer": "AristaMD",
+        "url": "https://apps.smarthealthit.org/app/aristamd",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Convergent Provider Search",
+        "developer": "Convergent",
+        "url": "https://apps.smarthealthit.org/app/convergent-provider-search",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Cozeva",
+        "developer": "Cozeva",
+        "url": "https://apps.smarthealthit.org/app/cozeva",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Current Health",
+        "developer": "Best Buy Health",
+        "url": "https://apps.smarthealthit.org/app/current-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "ACT.md",
+        "developer": "ACT.md",
+        "url": "https://apps.smarthealthit.org/app/actmd",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HIE InContext",
+        "developer": "HIE InContext",
+        "url": "https://apps.smarthealthit.org/app/hie-incontext",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Physician Sign Out",
+        "developer": "Physician Sign Out",
+        "url": "https://apps.smarthealthit.org/app/physician-sign-out",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "T System SMART App",
+        "developer": "T System",
+        "url": "https://apps.smarthealthit.org/app/t-system-smart-app",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Doximity on FHIR",
+        "developer": "Doximity",
+        "url": "https://apps.smarthealthit.org/app/doximity-on-fhir",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Hale Health",
+        "developer": "Hale",
+        "url": "https://apps.smarthealthit.org/app/hale-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthConnect Referral Manager",
+        "developer": "HealthConnect",
+        "url": "https://apps.smarthealthit.org/app/healthconnect-patient-referral-manager",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Carefluence Open HIE",
+        "developer": "Carefluence",
+        "url": "https://apps.smarthealthit.org/app/carefluence-open-hie",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "NuboHealth",
+        "developer": "NuboHealth",
+        "url": "https://apps.smarthealthit.org/app/nubohealth",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "uPerform for Healthcare",
+        "developer": "uPerform",
+        "url": "https://apps.smarthealthit.org/app/uperform-for-healthcare",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Curation Health",
+        "developer": "Curation Health",
+        "url": "https://apps.smarthealthit.org/app/curation-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Smartlist Platform",
+        "developer": "Smartlist",
+        "url": "https://apps.smarthealthit.org/app/smartlist-platform",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "medication-management",
+    "icon": "lucide:pill",
+    "apps": [
+      {
+        "name": "Fullscript",
+        "developer": "Fullscript",
+        "url": "https://apps.smarthealthit.org/app/fullscript",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Meducation RS",
+        "developer": "Meducation",
+        "url": "https://apps.smarthealthit.org/app/meducation-rs",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "MPR Monitor",
+        "developer": "Boston Children's Hospital",
+        "url": "https://apps.smarthealthit.org/app/mpr-monitor",
+        "fhir": [
+          "DSTU 2"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "RxOrbit InWorkflow",
+        "developer": "RxOrbit",
+        "url": "https://apps.smarthealthit.org/app/rxorbit-inworkflow-app",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "MedTrue",
+        "developer": "MedTrue",
+        "url": "https://apps.smarthealthit.org/app/medtrue",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "COSRI",
+        "developer": "MITRE",
+        "url": "https://apps.smarthealthit.org/app/cosri",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "DMEscripts",
+        "developer": "DMEscripts",
+        "url": "https://apps.smarthealthit.org/app/dmehub",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Duke PillBox",
+        "developer": "Duke University",
+        "url": "https://apps.smarthealthit.org/app/duke-pillbox",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "RxPrime",
+        "developer": "RxPrime",
+        "url": "https://apps.smarthealthit.org/app/rxprime",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Surescripts Medication Management",
+        "developer": "Surescripts",
+        "url": "https://apps.smarthealthit.org/app/surescripts-medication-management",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "MedActionPlan",
+        "developer": "MedActionPlan",
+        "url": "https://apps.smarthealthit.org/app/medactionplan",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Warfarin/NSAID Risk Tool",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/warfarin-nsaid-risk-tool",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Drug Education (eDosing)",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/drug-education-edosing",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "telehealth-remote-monitoring",
+    "icon": "lucide:video",
+    "apps": [
+      {
+        "name": "Meta Care AI",
+        "developer": "Meta Care",
+        "url": "https://apps.smarthealthit.org/app/meta-care-ai",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "MoleCare",
+        "developer": "MoleCare",
+        "url": "https://apps.smarthealthit.org/app/molecare",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "Caren mHealth",
+        "developer": "Caren",
+        "url": "https://apps.smarthealthit.org/app/caren-mhealth",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "Caren RPM",
+        "developer": "Caren",
+        "url": "https://apps.smarthealthit.org/app/caren-rpm",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Propeller Health",
+        "developer": "Propeller",
+        "url": "https://apps.smarthealthit.org/app/propeller-health",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "Visiontree",
+        "developer": "Visiontree",
+        "url": "https://apps.smarthealthit.org/app/visiontree",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Rimidi",
+        "developer": "Rimidi",
+        "url": "https://apps.smarthealthit.org/app/rimidi",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Medocity",
+        "developer": "Medocity",
+        "url": "https://apps.smarthealthit.org/app/medocity",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "CLINIA",
+        "developer": "CLINIA",
+        "url": "https://apps.smarthealthit.org/app/clinia",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "data-visualization",
+    "icon": "lucide:bar-chart-3",
+    "apps": [
+      {
+        "name": "Avatachart",
+        "developer": "Avatachart",
+        "url": "https://apps.smarthealthit.org/app/avatachart",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Lush SMART on FHIR",
+        "developer": "Lush",
+        "url": "https://apps.smarthealthit.org/app/lush-smart-on-fhir-app",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "iOS",
+          "Android",
+          "Windows"
+        ]
+      },
+      {
+        "name": "Aidbox Forms",
+        "developer": "Health Samurai",
+        "url": "https://apps.smarthealthit.org/app/aidbox-forms",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Krames On FHIR",
+        "developer": "Krames/StayWell",
+        "url": "https://apps.smarthealthit.org/app/krames-on-fhir",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "SMART Precision Cancer Medicine",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/smart-precision-cancer-medicine",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "eDocSS",
+        "developer": "American College of Surgeons",
+        "url": "https://apps.smarthealthit.org/app/edocss",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Diabetes Monograph",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/diabetes-monograph",
+        "fhir": [
+          "DSTU 2"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "MazikCare Timeline on FHIR",
+        "developer": "MazikCare",
+        "url": "https://apps.smarthealthit.org/app/mazikcare-timeline-on-fhir",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Smart Forms",
+        "developer": "CSIRO",
+        "url": "https://apps.smarthealthit.org/app/smart-forms",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "LHC-Forms SDC Questionnaire",
+        "developer": "NLM / LHNCBC",
+        "url": "https://apps.smarthealthit.org/app/lhc-forms-sdc-questionnaire",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "PHQ-9 Depression Tracker",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/phq9-depression-tracker",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "seeCOLe",
+        "developer": "seeCOLe",
+        "url": "https://apps.smarthealthit.org/app/seecole",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Diabetes EMR (DBEMR)",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/diabetes-emr-dbemr",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "ClinView",
+        "developer": "ClinView",
+        "url": "https://apps.smarthealthit.org/app/clinview",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "HealthConnect AI Medical Summary",
+        "developer": "HealthConnect",
+        "url": "https://apps.smarthealthit.org/app/healthconnect-ai-medical-summary",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Synoptic Operative Report",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/synoptic-operative-report",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "clinical-research",
+    "icon": "lucide:flask-conical",
+    "apps": [
+      {
+        "name": "Clinical Trial Finder",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/clinical-trial-finder",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Clinical Trials Search",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/clinical-trials-search",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "ClinTrial Connector",
+        "developer": "ClinTrial",
+        "url": "https://apps.smarthealthit.org/app/clintrial-connector",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "SMART on FHIR Appointment Scheduler",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/smart-on-fhir-appointment-scheduler",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "CDASH on FHIR",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/cdash",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Clinical Pipe",
+        "developer": "Clinical Pipe",
+        "url": "https://apps.smarthealthit.org/app/clinical-pipe",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "NGS Quality Reporting",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/ngs-quality-reporting",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "FHIR Data Capture Tool",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/fhir-data-capture-tool",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "population-health",
+    "icon": "lucide:activity",
+    "apps": [
+      {
+        "name": "SMART-PopHealth",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/smart-pophealth",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "SMART Cardiac Risk Population",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/smart-cardiac-risk-population",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Population Health Analytics",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/population-cardiac-analytics",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Health Quality Dashboard",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/health-quality-dashboard",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Care Gaps Dashboard",
+        "developer": "Cozeva",
+        "url": "https://apps.smarthealthit.org/app/care-gaps-dashboard",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [
+          "Epic",
+          "Cerner"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Bulk Data Analytics",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/bulk-data-analytics",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "fhir-developer-tools",
+    "icon": "lucide:code-2",
+    "apps": [
+      {
+        "name": "PDemo",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/pdemo",
+        "fhir": [
+          "DSTU 2"
+        ],
+        "ehr": [
+          "Cerner",
+          "Epic"
+        ],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Records",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/records",
+        "fhir": [
+          "DSTU 1",
+          "DSTU 2",
+          "STU 3",
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Shrimp",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/shrimp",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "FHIR Terminology Browser",
+        "developer": "NLM",
+        "url": "https://apps.smarthealthit.org/app/fhir-terminology-browser",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Bulk Data Client",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/bulk-data-client",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Bulk Data Tester",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/bulk-data-tester",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "OpenHRE",
+        "developer": "OpenHRE",
+        "url": "https://apps.smarthealthit.org/app/openhre",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Patient Data Fetcher",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/patient-data-fetcher",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "FHIR Terminology Server Dashboard",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/fhir-terminology-server-dashboard",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Genomics Advisor",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/genomics-advisor",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "covid19-public-health",
+    "icon": "lucide:shield-check",
+    "apps": [
+      {
+        "name": "LA Wallet",
+        "developer": "Envoc",
+        "url": "https://apps.smarthealthit.org/app/la-wallet",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "name": "VizCat SMART Card Verifier",
+        "developer": "VizCat",
+        "url": "https://apps.smarthealthit.org/app/vizcat-smart-card-verifier",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "Have I Been Tested",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/have-i-been-tested",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "COVID Vaccination QR Scanner",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/covid-vaccination-qr-scanner",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "SMART Health Card Verifier",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/smart-health-card-verifier",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      },
+      {
+        "name": "VariantMapper",
+        "developer": "SMART Health IT",
+        "url": "https://apps.smarthealthit.org/app/variantmapper",
+        "fhir": [
+          "R4"
+        ],
+        "ehr": [],
+        "os": [
+          "Web"
+        ]
+      }
+    ]
+  }
+]
