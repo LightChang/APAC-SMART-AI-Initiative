@@ -5,8 +5,7 @@ import alpinejs from '@astrojs/alpinejs';
 import icon from 'astro-icon';
 
 export default defineConfig({
-  site: 'https://lightchang.github.io',
-  base: '/APAC-SMART-AI-Initiative',
+  site: 'https://apac.health',
   output: 'static',
   vite: {
     plugins: [tailwindcss()],
