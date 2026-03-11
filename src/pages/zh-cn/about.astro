@@ -13,12 +13,6 @@ const values = [
   { key: 'value3', icon: 'lucide:heart' },
 ];
 
-const team = [
-  { name: '张明辉', titleZh: '执行总监', titleEn: 'Executive Director', desc: '医疗信息学博士，曾任大型医院 CIO，15 年数字健康经验' },
-  { name: 'Sarah Chen', titleZh: '技术总监', titleEn: 'CTO', desc: 'HL7 FHIR 核心贡献者，SMART on FHIR 早期开发者' },
-  { name: '田中太郎', titleZh: '亚太战略总监', titleEn: 'APAC Strategy Director', desc: '前日本厚生劳动省数字健康顾问，精通亚太医疗政策' },
-  { name: 'Dr. Priya Sharma', titleZh: '政策与合规总监', titleEn: 'Policy Director', desc: '公共卫生博士，专注亚太地区医疗数据治理与隐私合规' },
-];
 ---
 
 <BaseLayout
@@ -132,25 +126,4 @@ const team = [
     </div>
   </section>
 
-  <!-- Team -->
-  <section class="py-16 sm:py-24 bg-slate-bg">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <SectionHeading
-        title={t(locale, 'about.team.title')}
-        subtitle={t(locale, 'about.team.subtitle')}
-      />
-      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 mt-8">
-        {team.map((member) => (
-          <Card class="text-center">
-            <div class="mx-auto mb-4 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-br from-cyan/20 to-emerald/20">
-              <Icon name="lucide:user" class="h-8 w-8 text-cyan" />
-            </div>
-            <h3 class="font-heading text-base font-bold text-navy">{member.name}</h3>
-            <p class="text-sm font-medium text-cyan">{member.titleZh}</p>
-            <p class="mt-2 text-xs text-muted leading-relaxed">{member.desc}</p>
-          </Card>
-        ))}
-      </div>
-    </div>
-  </section>
 </BaseLayout>

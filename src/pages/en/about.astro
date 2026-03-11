@@ -13,12 +13,6 @@ const values = [
   { key: 'value3', icon: 'lucide:heart' },
 ];
 
-const team = [
-  { name: 'Dr. Minghui Zhang', title: 'Executive Director', desc: 'PhD in Health Informatics, former hospital CIO with 15 years of digital health experience' },
-  { name: 'Sarah Chen', title: 'CTO', desc: 'HL7 FHIR core contributor and early SMART on FHIR developer' },
-  { name: 'Taro Tanaka', title: 'APAC Strategy Director', desc: 'Former digital health advisor to Japan\'s Ministry of Health, expert in APAC health policy' },
-  { name: 'Dr. Priya Sharma', title: 'Policy Director', desc: 'Public health PhD specializing in APAC health data governance and privacy compliance' },
-];
 ---
 
 <BaseLayout
@@ -122,21 +116,4 @@ const team = [
     </div>
   </section>
 
-  <section class="py-16 sm:py-24 bg-slate-bg">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <SectionHeading title={t(locale, 'about.team.title')} subtitle={t(locale, 'about.team.subtitle')} />
-      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 mt-8">
-        {team.map((member) => (
-          <Card class="text-center">
-            <div class="mx-auto mb-4 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-br from-cyan/20 to-emerald/20">
-              <Icon name="lucide:user" class="h-8 w-8 text-cyan" />
-            </div>
-            <h3 class="font-heading text-base font-bold text-navy">{member.name}</h3>
-            <p class="text-sm font-medium text-cyan">{member.title}</p>
-            <p class="mt-2 text-xs text-muted leading-relaxed">{member.desc}</p>
-          </Card>
-        ))}
-      </div>
-    </div>
-  </section>
 </BaseLayout>
