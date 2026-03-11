@@ -36,6 +36,17 @@
       "vendors": "EHR Vendors",
       "cloud": "Cloud Platforms"
     },
+    "caseStudy": {
+      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
+      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
+      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
+      "benefit1Title": "Cross-Border Interoperability",
+      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
+      "benefit2Title": "Compliance by Design",
+      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
+      "benefit3Title": "Seamless Referrals",
+      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+    },
     "resources": {
       "title": "Technical Resources",
       "subtitle": "Start your SMART on FHIR journey",

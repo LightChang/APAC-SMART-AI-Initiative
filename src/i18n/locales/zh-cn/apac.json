@@ -40,6 +40,17 @@
       "statusGrowing": "快速成长",
       "statusEmerging": "起步探索"
     },
+    "caseStudy": {
+      "title": "案例聚焦：东帝汶 AI 医学影像服务",
+      "subtitle": "以开放标准将 AI 辅助诊断带入医疗资源薄弱地区",
+      "description": "在医疗资源匮乏的东帝汶，我们率先部署了 AI 医学影像辅助诊断服务，显著提升了当地的诊断能力。通过整合「FHIR + GB/T」双标准数据体系，当地产生的患者数据可与跨境医疗系统无缝对接，实现高效的跨国转诊与后续治疗跟进。",
+      "stat1Label": "诊断精度",
+      "stat1Value": "AI 驱动",
+      "stat2Label": "数据标准",
+      "stat2Value": "FHIR + GB/T",
+      "stat3Label": "跨境医疗",
+      "stat3Value": "已打通"
+    },
     "countries": {
       "title": "各国聚焦",
       "subtitle": "探索亚太各国的 FHIR 采纳进展与独特优势"

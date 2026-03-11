@@ -142,8 +142,36 @@ const categories = {
     </div>
   </section>
 
-  <!-- Resources -->
+  <!-- Case Study: FHIR + GB/T -->
   <section class="py-16 sm:py-24">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <SectionHeading
+        title={t(locale, 'smart.caseStudy.title')}
+        subtitle={t(locale, 'smart.caseStudy.subtitle')}
+      />
+      <div class="mt-8 rounded-2xl border border-cyan/20 bg-gradient-to-br from-cyan/5 to-emerald/5 p-8 sm:p-10">
+        <p class="text-muted leading-relaxed mb-8">{t(locale, 'smart.caseStudy.description')}</p>
+        <div class="grid gap-6 sm:grid-cols-3">
+          {[
+            { key: 'benefit1', icon: 'lucide:globe' },
+            { key: 'benefit2', icon: 'lucide:shield-check' },
+            { key: 'benefit3', icon: 'lucide:arrow-right-left' },
+          ].map(({ key, icon }) => (
+            <div class="flex gap-3">
+              <Icon name={icon} class="h-5 w-5 text-cyan shrink-0 mt-0.5" />
+              <div>
+                <h4 class="font-heading text-sm font-bold text-navy">{t(locale, `smart.caseStudy.${key}Title`)}</h4>
+                <p class="mt-1 text-sm text-muted">{t(locale, `smart.caseStudy.${key}Desc`)}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Resources -->
+  <section class="py-16 sm:py-24 bg-slate-bg">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <SectionHeading
         title={t(locale, 'smart.resources.title')}
