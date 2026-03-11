@@ -36,6 +36,17 @@
       "vendors": "EHR 厂商",
       "cloud": "云平台"
     },
+    "caseStudy": {
+      "title": "实践案例：FHIR + GB/T 双标准数据体系",
+      "subtitle": "打通国际标准与中国国家标准，实现跨境医疗数据无缝互通",
+      "description": "我们创新性地构建了「FHIR + GB/T」双标准数据体系，实现国际 FHIR 标准与中国 GB/T 国家标准的完全兼容互通。当患者在不同国家间就医时，其健康档案可在两套标准体系间无缝流转，消除数据格式壁垒，真正实现跨国医疗数据的互联互通。",
+      "benefit1Title": "跨境互操作性",
+      "benefit1Desc": "患者病历在基于 FHIR 的国际系统与基于 GB/T 的中国系统之间无缝流通。",
+      "benefit2Title": "双重合规保障",
+      "benefit2Desc": "同时满足国际与中国医疗环境的监管合规要求。",
+      "benefit3Title": "顺畅跨国转诊",
+      "benefit3Desc": "消除数据格式障碍，实现患者在不同国家间的顺畅转诊。"
+    },
     "resources": {
       "title": "技术资源",
       "subtitle": "开始您的 SMART on FHIR 之旅",

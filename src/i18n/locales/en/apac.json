@@ -40,6 +40,17 @@
       "statusGrowing": "Rapid Growth",
       "statusEmerging": "Early Exploration"
     },
+    "caseStudy": {
+      "title": "Case Spotlight: AI Medical Imaging in Timor-Leste",
+      "subtitle": "Bringing AI-powered diagnostics to underserved regions through open standards",
+      "description": "In Timor-Leste, where medical resources are scarce, we have deployed AI-assisted medical imaging diagnostic services to elevate local diagnostic capabilities. By integrating our dual-standard data architecture (FHIR + GB/T), patient data generated locally can seamlessly connect with healthcare systems across borders — enabling efficient cross-country referrals and follow-up care.",
+      "stat1Label": "Diagnostic Accuracy",
+      "stat1Value": "AI-Powered",
+      "stat2Label": "Data Standard",
+      "stat2Value": "FHIR + GB/T",
+      "stat3Label": "Cross-Border",
+      "stat3Value": "Enabled"
+    },
     "countries": {
       "title": "Country Spotlight",
       "subtitle": "Explore FHIR adoption progress and unique strengths across APAC"
