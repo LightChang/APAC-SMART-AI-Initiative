@@ -1,7 +1,8 @@
 ---
 import { Icon } from 'astro-icon/components';
 import { t, getLocalizedPath } from '@/i18n/utils';
-import { navItems, type Locale } from '@/i18n/config';
+import { navItems, localeKeys, type Locale } from '@/i18n/config';
+import LanguageSwitcher from '@/components/ui/LanguageSwitcher.astro';
 
 interface Props {
   locale: Locale;
@@ -9,9 +10,6 @@ interface Props {
 
 const { locale } = Astro.props;
 const currentPath = Astro.url.pathname;
-const base = import.meta.env.BASE_URL.replace(/\/+$/, '');
-// Strip base + locale prefix to get the raw page path for language switching
-const rawPagePath = currentPath.replace(new RegExp(`^${base}/(zh-cn|en)/?`), '').replace(/\/+$/, '');
 
 function isActive(path: string): boolean {
   const localized = getLocalizedPath(locale, path);
@@ -53,14 +51,7 @@ function isActive(path: string): boolean {
       <!-- Actions -->
       <div class="flex items-center gap-2">
         <!-- Language Switcher -->
-        <a
-          href={locale === 'zh-cn' ? getLocalizedPath('en', rawPagePath) : getLocalizedPath('zh-cn', rawPagePath)}
-          class="rounded-lg px-3 py-1.5 text-sm font-medium text-muted hover:bg-slate-bg hover:text-navy transition-colors"
-          title={t(locale, 'lang.switch')}
-        >
-          <Icon name="lucide:globe" class="inline h-4 w-4 mr-1" />
-          {locale === 'zh-cn' ? 'EN' : '中文'}
-        </a>
+        <LanguageSwitcher locale={locale} currentPath={currentPath} />
 
         <!-- Mobile Menu Toggle -->
         <button

@@ -5,17 +5,95 @@
 
 const STORAGE_KEY = 'apac-preferred-locale';
 const DEFAULT_LOCALE = 'zh-cn';
-const SUPPORTED_LOCALES = ['zh-cn', 'en'];
+
+const SUPPORTED_LOCALES = [
+  'zh-cn', 'zh-TW', 'zh-HK', 'ja', 'ko', 'mn',
+  'ms-MY', 'ms-SG', 'id', 'th', 'vi', 'fil', 'km', 'lo', 'my',
+  'hi', 'bn', 'ur', 'si', 'ne',
+  'en', 'en-NZ',
+];
 
 const LANGUAGE_MAP: Record<string, string> = {
+  // Chinese variants
   'zh-cn': 'zh-cn',
   'zh-hans': 'zh-cn',
   'zh': 'zh-cn',
+  'zh-tw': 'zh-TW',
+  'zh-hant': 'zh-TW',
+  'zh-hk': 'zh-HK',
+
+  // Japanese
+  'ja': 'ja',
+  'ja-jp': 'ja',
+
+  // Korean
+  'ko': 'ko',
+  'ko-kr': 'ko',
+
+  // Mongolian
+  'mn': 'mn',
+
+  // Malay variants
+  'ms': 'ms-MY',
+  'ms-my': 'ms-MY',
+  'ms-sg': 'ms-SG',
+
+  // Indonesian
+  'id': 'id',
+  'id-id': 'id',
+
+  // Thai
+  'th': 'th',
+  'th-th': 'th',
+
+  // Vietnamese
+  'vi': 'vi',
+  'vi-vn': 'vi',
+
+  // Filipino / Tagalog
+  'fil': 'fil',
+  'tl': 'fil',
+  'tl-ph': 'fil',
+
+  // Khmer
+  'km': 'km',
+  'km-kh': 'km',
+
+  // Lao
+  'lo': 'lo',
+  'lo-la': 'lo',
+
+  // Burmese
+  'my': 'my',
+  'my-mm': 'my',
+
+  // Hindi
+  'hi': 'hi',
+  'hi-in': 'hi',
+
+  // Bengali
+  'bn': 'bn',
+  'bn-bd': 'bn',
+  'bn-in': 'bn',
+
+  // Urdu
+  'ur': 'ur',
+  'ur-pk': 'ur',
+
+  // Sinhala
+  'si': 'si',
+  'si-lk': 'si',
+
+  // Nepali
+  'ne': 'ne',
+  'ne-np': 'ne',
+
+  // English variants
   'en': 'en',
   'en-us': 'en',
   'en-gb': 'en',
   'en-au': 'en',
-  'en-nz': 'en',
+  'en-nz': 'en-NZ',
   'en-sg': 'en',
   'en-in': 'en',
 };

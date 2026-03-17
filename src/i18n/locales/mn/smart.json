@@ -1,0 +1,61 @@
+{
+  "smart": {
+    "pageTitle": "SMART on FHIR",
+    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
+    "heroTitle": "Understanding SMART on FHIR",
+    "heroSubtitle": "The global open standard for health data interoperability",
+    "whatIsFhir": {
+      "title": "What is FHIR?",
+      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+    },
+    "whatIsSmart": {
+      "title": "What Does SMART Add?",
+      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+    },
+    "whyMatters": {
+      "title": "Why Does This Matter?",
+      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+    },
+    "conceptDiagram": {
+      "ehr": "Electronic Health Records (EHR)",
+      "smartLayer": "SMART Platform Layer",
+      "apps": "Healthcare Apps",
+      "ehrDesc": "Existing hospital systems",
+      "smartDesc": "Secure auth + API standards",
+      "appsDesc": "Third-party innovation"
+    },
+    "timeline": {
+      "title": "Key Milestones",
+      "subtitle": "The journey from academic research to global standard"
+    },
+    "ecosystem": {
+      "title": "Global Ecosystem",
+      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
+      "standards": "Standards Bodies",
+      "government": "Government",
+      "vendors": "EHR Vendors",
+      "cloud": "Cloud Platforms"
+    },
+    "caseStudy": {
+      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
+      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
+      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
+      "benefit1Title": "Cross-Border Interoperability",
+      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
+      "benefit2Title": "Compliance by Design",
+      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
+      "benefit3Title": "Seamless Referrals",
+      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+    },
+    "resources": {
+      "title": "Technical Resources",
+      "subtitle": "Start your SMART on FHIR journey",
+      "officialDocs": "Official Documentation",
+      "officialDocsDesc": "SMART Health IT official developer docs and guides",
+      "fhirSpec": "FHIR Specification",
+      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
+      "sandbox": "Sandbox Environment",
+      "sandboxDesc": "Free FHIR test servers — start developing today"
+    }
+  }
+}
