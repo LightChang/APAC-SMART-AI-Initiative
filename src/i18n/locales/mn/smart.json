@@ -1,61 +1,61 @@
 {
   "smart": {
     "pageTitle": "SMART on FHIR",
-    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
-    "heroTitle": "Understanding SMART on FHIR",
-    "heroSubtitle": "The global open standard for health data interoperability",
+    "pageDescription": "SMART on FHIR нээлттэй эрүүл мэндийн стандартын платформыг ойлгох",
+    "heroTitle": "SMART on FHIR-ийг Ойлгох",
+    "heroSubtitle": "Эрүүл мэндийн өгөгдлийн харилцан ажиллагааны дэлхийн нээлттэй стандарт",
     "whatIsFhir": {
-      "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "title": "FHIR гэж юу вэ?",
+      "description": "FHIR (Fast Healthcare Interoperability Resources) нь HL7 International-аас боловсруулсан эрүүл мэндийн өгөгдөл солилцооны стандарт юм. Орчин үеийн вэб технологиуд (RESTful APIs, JSON, OAuth2) ашиглан янз бүрийн эрүүл мэндийн системүүдэд стандартчилсан аргаар өгөгдөл солилцох боломж олгодог."
     },
     "whatIsSmart": {
-      "title": "What Does SMART Add?",
-      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+      "title": "SMART юу нэмдэг вэ?",
+      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) нь FHIR-ийн дээр аппликейшний давхаргын фрэймворк нэмдэг. Энэ нь аппликейшнууд EHR системүүдтэй хэрхэн аюулгүй холбогдох, баталгаажуулалт болон зөвшөөрлийг хэрхэн зохицуулахыг тодорхойлдог — эрүүл мэндийн аппликейшнуудыг ухаалаг гар утсан дээрх апп шиг plug-and-play болгодог."
     },
     "whyMatters": {
-      "title": "Why Does This Matter?",
-      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+      "title": "Энэ яагаад чухал вэ?",
+      "description": "Дэлхий даяар ихэнх эрүүл мэндийн системүүд хаалттай бөгөөд нийцдэггүй. SMART on FHIR өгөгдлийн тусгаарлалтыг эвдэж, өвчтөний өгөгдөл эмнэлгүүд болон системүүдийн хооронд аюулгүй урсах боломжийг олгодог — нарийвчилсан анагаах ухаан, телемедицин, AI-тусламжтай оношилгооны суурийг тавьдаг."
     },
     "conceptDiagram": {
-      "ehr": "Electronic Health Records (EHR)",
-      "smartLayer": "SMART Platform Layer",
-      "apps": "Healthcare Apps",
-      "ehrDesc": "Existing hospital systems",
-      "smartDesc": "Secure auth + API standards",
-      "appsDesc": "Third-party innovation"
+      "ehr": "Цахим Эрүүл Мэндийн Бүртгэл (EHR)",
+      "smartLayer": "SMART Платформын Давхарга",
+      "apps": "Эрүүл Мэндийн Аппликейшнууд",
+      "ehrDesc": "Одоогийн эмнэлгийн системүүд",
+      "smartDesc": "Аюулгүй баталгаажуулалт + API стандартууд",
+      "appsDesc": "Гуравдагч талын инноваци"
     },
     "timeline": {
-      "title": "Key Milestones",
-      "subtitle": "The journey from academic research to global standard"
+      "title": "Түлхүүр Үе Шатууд",
+      "subtitle": "Академик судалгаанаас дэлхийн стандарт болох зам"
     },
     "ecosystem": {
-      "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
-      "standards": "Standards Bodies",
-      "government": "Government",
-      "vendors": "EHR Vendors",
-      "cloud": "Cloud Platforms"
+      "title": "Дэлхийн Экосистем",
+      "subtitle": "SMART on FHIR-ийг дэлхийн тэргүүлэгч байгууллагууд дэмжиж, нэвтрүүлж байна",
+      "standards": "Стандартын Байгууллагууд",
+      "government": "Засгийн Газар",
+      "vendors": "EHR Нийлүүлэгчид",
+      "cloud": "Үүлэн Платформууд"
     },
     "caseStudy": {
-      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
-      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
-      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
-      "benefit1Title": "Cross-Border Interoperability",
-      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
-      "benefit2Title": "Compliance by Design",
-      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
-      "benefit3Title": "Seamless Referrals",
-      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+      "title": "Практик дээр: FHIR + GB/T Давхар Стандартын Архитектур",
+      "subtitle": "Олон улсын болон Хятадын үндэсний стандартуудыг хил дамнасан саадгүй өгөгдөл солилцоонд холбох",
+      "description": "Манай санаачилга нь олон улсын FHIR стандарт болон Хятадын GB/T үндэсний стандартын хооронд бүрэн нийцтэй байдлыг хангадаг давхар стандартын өгөгдлийн архитектурыг анх удаа боловсруулсан. Энэ инноваци нь анагаах ухааны өгөгдлийг хил дамнуулан саадгүй урсгах боломжийг олгодог — өвчтөн улс хооронд шилжихэд тэдний эрүүл мэндийн бүртгэл орон нутгийн систем ямар стандарт ашигладагаас үл хамааран хандах боломжтой, харилцан ажиллагаатай хэвээр байна.",
+      "benefit1Title": "Хил Дамнасан Харилцан Ажиллагаа",
+      "benefit1Desc": "Өвчтөний бүртгэл FHIR-д суурилсан олон улсын системүүд болон GB/T-д суурилсан Хятадын системүүдийн хооронд саадгүй урсдаг.",
+      "benefit2Title": "Дизайнаар Нийцэл",
+      "benefit2Desc": "Олон улсын болон Хятадын эрүүл мэндийн орчинд зохицуулалтын шаардлагуудыг нэгэн зэрэг хангадаг.",
+      "benefit3Title": "Саадгүй Илгээлт",
+      "benefit3Desc": "Өгөгдлийн формат саадгүйгээр улс хооронд өвчтөн илгээхийг боломжтой болгодог."
     },
     "resources": {
-      "title": "Technical Resources",
-      "subtitle": "Start your SMART on FHIR journey",
-      "officialDocs": "Official Documentation",
-      "officialDocsDesc": "SMART Health IT official developer docs and guides",
-      "fhirSpec": "FHIR Specification",
-      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
-      "sandbox": "Sandbox Environment",
-      "sandboxDesc": "Free FHIR test servers — start developing today"
+      "title": "Техникийн Нөөцүүд",
+      "subtitle": "SMART on FHIR аялалаа эхлүүлэх",
+      "officialDocs": "Албан Ёсны Баримт Бичиг",
+      "officialDocsDesc": "SMART Health IT-ийн албан ёсны хөгжүүлэгчийн баримт бичиг, гарын авлага",
+      "fhirSpec": "FHIR Тодорхойлолт",
+      "fhirSpecDesc": "HL7 FHIR R4 бүрэн тодорхойлолт",
+      "sandbox": "Sandbox Орчин",
+      "sandboxDesc": "Үнэгүй FHIR туршилтын серверүүд — өнөөдөр хөгжүүлж эхлэх"
     }
   }
 }

@@ -1,61 +1,61 @@
 {
   "smart": {
     "pageTitle": "SMART on FHIR",
-    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
-    "heroTitle": "Understanding SMART on FHIR",
-    "heroSubtitle": "The global open standard for health data interoperability",
+    "pageDescription": "SMART on FHIR ওপেন হেলথকেয়ার স্ট্যান্ডার্ড প্ল্যাটফর্ম বোঝা",
+    "heroTitle": "SMART on FHIR বোঝা",
+    "heroSubtitle": "স্বাস্থ্য ডেটা ইন্টারঅপারেবিলিটির জন্য বৈশ্বিক মুক্ত মানদণ্ড",
     "whatIsFhir": {
-      "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "title": "FHIR কী?",
+      "description": "FHIR (Fast Healthcare Interoperability Resources) হলো HL7 International দ্বারা উন্নত একটি স্বাস্থ্য ডেটা বিনিময় মানদণ্ড। আধুনিক ওয়েব প্রযুক্তি (RESTful APIs, JSON, OAuth2) ব্যবহার করে, এটি বিভিন্ন স্বাস্থ্য সিস্টেমকে মানসম্মত উপায়ে ডেটা বিনিময় করতে সক্ষম করে।"
     },
     "whatIsSmart": {
-      "title": "What Does SMART Add?",
-      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+      "title": "SMART কী যোগ করে?",
+      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) FHIR-এর উপরে একটি অ্যাপ্লিকেশন লেয়ার ফ্রেমওয়ার্ক যোগ করে। এটি নির্ধারণ করে কিভাবে অ্যাপস নিরাপদে EHR সিস্টেমে সংযুক্ত হবে, অথেন্টিকেশন এবং অথরাইজেশন পরিচালনা করবে — স্বাস্থ্য অ্যাপগুলোকে প্লাগ-অ্যান্ড-প্লে করে, স্মার্টফোনে অ্যাপের মতো।"
     },
     "whyMatters": {
-      "title": "Why Does This Matter?",
-      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+      "title": "এটি কেন গুরুত্বপূর্ণ?",
+      "description": "বিশ্বব্যাপী বেশিরভাগ স্বাস্থ্য সিস্টেম বন্ধ এবং অসামঞ্জস্যপূর্ণ। SMART on FHIR ডেটা সাইলো ভেঙে দেয়, রোগীর ডেটা হাসপাতাল এবং সিস্টেমের মধ্যে নিরাপদে প্রবাহিত হতে সক্ষম করে — প্রিসিশন মেডিসিন, টেলিমেডিসিন এবং AI-সহায়তা প্রাপ্ত রোগ নির্ণয়ের ভিত্তি স্থাপন করে।"
     },
     "conceptDiagram": {
-      "ehr": "Electronic Health Records (EHR)",
-      "smartLayer": "SMART Platform Layer",
-      "apps": "Healthcare Apps",
-      "ehrDesc": "Existing hospital systems",
-      "smartDesc": "Secure auth + API standards",
-      "appsDesc": "Third-party innovation"
+      "ehr": "ইলেকট্রনিক হেলথ রেকর্ডস (EHR)",
+      "smartLayer": "SMART প্ল্যাটফর্ম লেয়ার",
+      "apps": "হেলথকেয়ার অ্যাপস",
+      "ehrDesc": "বিদ্যমান হাসপাতাল সিস্টেম",
+      "smartDesc": "নিরাপদ অথ + API মানদণ্ড",
+      "appsDesc": "থার্ড-পার্টি উদ্ভাবন"
     },
     "timeline": {
-      "title": "Key Milestones",
-      "subtitle": "The journey from academic research to global standard"
+      "title": "মূল মাইলফলক",
+      "subtitle": "একাডেমিক গবেষণা থেকে বৈশ্বিক মানদণ্ডে যাত্রা"
     },
     "ecosystem": {
-      "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
-      "standards": "Standards Bodies",
-      "government": "Government",
-      "vendors": "EHR Vendors",
-      "cloud": "Cloud Platforms"
+      "title": "বৈশ্বিক ইকোসিস্টেম",
+      "subtitle": "SMART on FHIR বিশ্বব্যাপী শীর্ষস্থানীয় সংস্থাগুলো দ্বারা সমর্থিত এবং গৃহীত",
+      "standards": "মানদণ্ড সংস্থা",
+      "government": "সরকার",
+      "vendors": "EHR বিক্রেতা",
+      "cloud": "ক্লাউড প্ল্যাটফর্ম"
     },
     "caseStudy": {
-      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
-      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
-      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
-      "benefit1Title": "Cross-Border Interoperability",
-      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
-      "benefit2Title": "Compliance by Design",
-      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
-      "benefit3Title": "Seamless Referrals",
-      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+      "title": "বাস্তবে: FHIR + GB/T ডুয়াল-স্ট্যান্ডার্ড আর্কিটেকচার",
+      "subtitle": "নিরবচ্ছিন্ন সীমান্ত-পার ডেটা বিনিময়ের জন্য আন্তর্জাতিক এবং চীনা জাতীয় মানদণ্ড সেতুবন্ধন",
+      "description": "আমাদের উদ্যোগ একটি ডুয়াল-স্ট্যান্ডার্ড ডেটা আর্কিটেকচারের পথিকৃৎ যা আন্তর্জাতিক FHIR মানদণ্ড এবং চীনের GB/T জাতীয় মানদণ্ডের মধ্যে সম্পূর্ণ সামঞ্জস্য নিশ্চিত করে। এই উদ্ভাবন মেডিকেল ডেটাকে সীমান্ত জুড়ে নিরবচ্ছিন্নভাবে প্রবাহিত হতে সক্ষম করে — যখন একজন রোগী দেশের মধ্যে চলাচল করেন, তাদের স্বাস্থ্য রেকর্ড অ্যাক্সেসযোগ্য এবং ইন্টারঅপারেবল থাকে, স্থানীয় সিস্টেম যে মানদণ্ড ব্যবহার করুক না কেন।",
+      "benefit1Title": "সীমান্ত-পার ইন্টারঅপারেবিলিটি",
+      "benefit1Desc": "রোগীর রেকর্ড FHIR-ভিত্তিক আন্তর্জাতিক সিস্টেম এবং GB/T-ভিত্তিক চীনা সিস্টেমের মধ্যে নিরবচ্ছিন্নভাবে প্রবাহিত হয়।",
+      "benefit2Title": "ডিজাইন দ্বারা সম্মতি",
+      "benefit2Desc": "আন্তর্জাতিক এবং চীনা উভয় স্বাস্থ্য পরিবেশে একই সাথে নিয়ন্ত্রক প্রয়োজনীয়তা পূরণ করে।",
+      "benefit3Title": "নিরবচ্ছিন্ন রেফারেল",
+      "benefit3Desc": "ডেটা ফরম্যাট বাধা ছাড়াই দেশ জুড়ে মসৃণ রোগী রেফারেল সক্ষম করে।"
     },
     "resources": {
-      "title": "Technical Resources",
-      "subtitle": "Start your SMART on FHIR journey",
-      "officialDocs": "Official Documentation",
-      "officialDocsDesc": "SMART Health IT official developer docs and guides",
-      "fhirSpec": "FHIR Specification",
-      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
-      "sandbox": "Sandbox Environment",
-      "sandboxDesc": "Free FHIR test servers — start developing today"
+      "title": "প্রযুক্তিগত রিসোর্স",
+      "subtitle": "আপনার SMART on FHIR যাত্রা শুরু করুন",
+      "officialDocs": "অফিসিয়াল ডকুমেন্টেশন",
+      "officialDocsDesc": "SMART Health IT অফিসিয়াল ডেভেলপার ডকস এবং গাইড",
+      "fhirSpec": "FHIR স্পেসিফিকেশন",
+      "fhirSpecDesc": "HL7 FHIR R4 সম্পূর্ণ স্পেসিফিকেশন",
+      "sandbox": "স্যান্ডবক্স পরিবেশ",
+      "sandboxDesc": "বিনামূল্যে FHIR টেস্ট সার্ভার — আজই ডেভেলপমেন্ট শুরু করুন"
     }
   }
 }

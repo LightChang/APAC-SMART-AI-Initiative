@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "සහභාගී වන්න",
+    "pageDescription": "APAC ඩිජිටල් සෞඛ්‍ය පරිවර්තනයට සහභාගී වීමට ඔබගේ මාර්ගය සොයන්න",
+    "heroTitle": "ඔබගේ මාර්ගය සොයන්න",
+    "heroSubtitle": "ඔබගේ කාර්යභාරය කුමක් වුවත්, APAC ඩිජිටල් සෞඛ්‍ය පරිසර පද්ධතියේ ඔබට ස්ථානයක් ඇත",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "සහභාගීත්වයට මාර්ග තුනක්",
+      "subtitle": "ආරම්භ කිරීමට හොඳම ක්‍රමය තෝරන්න"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
-      "item1": "SMART on FHIR readiness assessment tool",
-      "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
-      "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "title": "සෞඛ්‍ය ආයතන",
+      "subtitle": "සූදානම තක්සේරු කර ඔබගේ අනුවර්තන ගමන සැලසුම් කරන්න",
+      "item1": "SMART on FHIR සූදානම තක්සේරු මෙවලම",
+      "item2": "අදියර යෙදවීමේ මාර්ග සිතියම",
+      "item3": "සාර්ථක කතා සහ හොඳම පරිචයන්",
+      "item4": "විශේෂඥ උපදේශන සේවා",
+      "cta": "යෙදවීමේ මාර්ගෝපදේශය ලබාගන්න"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
-      "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "title": "සංවර්ධකයින්",
+      "subtitle": "ගොඩනැගීම ආරම්භ කිරීමට මෙවලම් සහ සම්පත් ලබාගන්න",
+      "item1": "FHIR API ක්ෂණික-ආරම්භ නිබන්ධන",
+      "item2": "නොමිලේ සෑන්ඩ්බොක්ස් පරීක්ෂණ පරිසරය",
+      "item3": "විවෘත-මූලාශ්‍ර ව්‍යාපෘති සහ කේත සාම්පල",
+      "item4": "සංවර්ධක ප්‍රජාව සහ සංසද",
+      "cta": "සංවර්ධනය ආරම්භ කරන්න"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
-      "item1": "International adoption case studies",
-      "item2": "Policy framework white papers",
-      "item3": "Economic impact assessment reports",
-      "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "title": "ප්‍රතිපත්ති සම්පාදකයින්",
+      "subtitle": "ප්‍රමිතිගත අන්තර්ක්‍රියාකාරීත්වයේ ප්‍රතිපත්ති වටිනාකම අවබෝධ කරගන්න",
+      "item1": "ජාත්‍යන්තර අනුවර්තන නඩු අධ්‍යයන",
+      "item2": "ප්‍රතිපත්ති රාමු සුදු පත්‍ර",
+      "item3": "ආර්ථික බලපෑම් තක්සේරු වාර්තා",
+      "item4": "සීමා-පාර සහයෝගීතා අවස්ථා",
+      "cta": "සුදු පත්‍රය බාගත කරන්න"
     },
     "resources": {
-      "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "title": "සම්පත් බාගත කිරීම්",
+      "subtitle": "නවතම පර්යේෂණ වාර්තා, තාක්ෂණික ලේඛන සහ ප්‍රතිපත්ති සුදු පත්‍ර වෙත ප්‍රවේශ වන්න"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "අපගේ පුවත් පත්‍රිකාවට දායක වන්න",
+      "subtitle": "APAC SMART on FHIR පුවත්, සිදුවීම් සහ සම්පත් යාවත්කාලීන ගැන දැනුවත් වන්න",
+      "placeholder": "ඔබගේ ඊමේල් ලිපිනය ඇතුළත් කරන්න",
+      "button": "දායක වන්න",
+      "privacy": "අපි ඔබගේ පෞද්ගලිකත්වයට ගරු කරමු. ඕනෑම වේලාවක දායකත්වය අවලංගු කරන්න."
     }
   }
 }

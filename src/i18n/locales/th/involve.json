@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "ร่วมเป็นส่วนหนึ่ง",
+    "pageDescription": "ค้นหาเส้นทางการมีส่วนร่วมในการเปลี่ยนแปลงสุขภาพดิจิทัลเอเชียแปซิฟิก",
+    "heroTitle": "ค้นหาเส้นทางของคุณ",
+    "heroSubtitle": "ไม่ว่าบทบาทของคุณจะเป็นอย่างไร มีที่สำหรับคุณในระบบนิเวศสุขภาพดิจิทัลเอเชียแปซิฟิก",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "3 เส้นทางการมีส่วนร่วม",
+      "subtitle": "เลือกวิธีที่เหมาะสมที่สุดในการเริ่มต้น"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
-      "item1": "SMART on FHIR readiness assessment tool",
-      "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
-      "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "title": "สถานพยาบาล",
+      "subtitle": "ประเมินความพร้อมและวางแผนการนำไปใช้",
+      "item1": "เครื่องมือประเมินความพร้อม SMART on FHIR",
+      "item2": "แผนงานการดำเนินการแบบแบ่งเฟส",
+      "item3": "กรณีศึกษาความสำเร็จและแนวปฏิบัติที่ดีที่สุด",
+      "item4": "บริการให้คำปรึกษาจากผู้เชี่ยวชาญ",
+      "cta": "รับคู่มือการดำเนินการ"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
-      "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "title": "นักพัฒนา",
+      "subtitle": "รับเครื่องมือและทรัพยากรเพื่อเริ่มสร้างสรรค์",
+      "item1": "บทเรียนเริ่มต้น FHIR API อย่างรวดเร็ว",
+      "item2": "สภาพแวดล้อมทดสอบ Sandbox ฟรี",
+      "item3": "โปรเจกต์โอเพนซอร์สและตัวอย่างโค้ด",
+      "item4": "ชุมชนนักพัฒนาและฟอรัม",
+      "cta": "เริ่มพัฒนา"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
-      "item1": "International adoption case studies",
-      "item2": "Policy framework white papers",
-      "item3": "Economic impact assessment reports",
-      "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "title": "ผู้กำหนดนโยบาย",
+      "subtitle": "ทำความเข้าใจคุณค่าเชิงนโยบายของการเชื่อมต่อข้อมูลตามมาตรฐาน",
+      "item1": "กรณีศึกษาการนำไปใช้ในต่างประเทศ",
+      "item2": "เอกสารสมุดปกขาวด้านนโยบาย",
+      "item3": "รายงานการประเมินผลกระทบทางเศรษฐกิจ",
+      "item4": "โอกาสความร่วมมือข้ามพรมแดน",
+      "cta": "ดาวน์โหลดสมุดปกขาว"
     },
     "resources": {
-      "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "title": "ดาวน์โหลดทรัพยากร",
+      "subtitle": "เข้าถึงรายงานวิจัยล่าสุด เอกสารเทคนิค และสมุดปกขาวด้านนโยบาย"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "สมัครรับจดหมายข่าว",
+      "subtitle": "ติดตามข่าวสาร กิจกรรม และการอัปเดตทรัพยากรล่าสุดเกี่ยวกับ SMART on FHIR ในเอเชียแปซิฟิก",
+      "placeholder": "กรอกอีเมลของคุณ",
+      "button": "สมัครรับข่าวสาร",
+      "privacy": "เราเคารพความเป็นส่วนตัวของคุณ ยกเลิกการสมัครได้ทุกเมื่อ"
     }
   }
 }

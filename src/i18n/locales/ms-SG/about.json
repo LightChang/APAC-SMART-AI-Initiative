@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "Tentang Kami",
+    "pageDescription": "Ketahui tentang misi, visi, dan pasukan di sebalik Inisiatif Kesihatan Presisi APAC",
+    "heroTitle": "Tentang Inisiatif Kesihatan Presisi APAC",
+    "heroSubtitle": "Menghubungkan Asia-Pasifik untuk membina ekosistem kesihatan digital yang terbuka, boleh saling beroperasi, dan berpusatkan pesakit",
     "founder": {
-      "sectionTitle": "Message from the Founder",
+      "sectionTitle": "Pesan dari Pengasas",
       "name": "Yongjun Zhao",
-      "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "title": "Pengasas",
+      "quote": "Menghubungkan sumber perubatan China dengan dunia melalui inovasi teknologi — benar-benar memenuhi misi kami 'Perubatan Tanpa Sempadan'.",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "Asas Teknologi & Inovasi",
+        "text": "Sebagai syarikat teknologi perubatan AI yang didorong oleh inovasi sebagai teras, kami telah membina kepakaran yang kukuh melalui komitmen bertahun-tahun dalam dua domain utama: R&D farmaseutikal dan pengimejan perubatan. Dalam bidang farmaseutikal, kami telah mengumpulkan rizab bahan perantara farmaseutikal yang luas dan penemuan penyelidikan eksklusif. Pada tahun 2026, kami secara sistematik memulakan permohonan paten nasional untuk melindungi harta intelek teras kami, sambil memajukan penyelidikan 'penggunaan semula ubat' untuk menemui petunjuk dan aplikasi baharu bagi sebatian sedia ada. Dalam pengimejan perubatan, perisian diagnostik berbantuan AI yang kami bangunkan sendiri memberikan analisis imej berketepatan tinggi dan pintar, dengan pensijilan NMPA yang sedang berjalan pada tahun 2026 untuk memastikan pelaksanaan klinikal yang mematuhi peraturan."
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "Perkongsian Strategik & Pengkomersialan",
+        "text": "Kami mengejar strategi dwi-enjin: sinergi domestik dan kerjasama antarabangsa. Di dalam negara, kami berintegrasi dengan platform pengimejan perubatan berasaskan awan China General Technology Group dan bekerjasama dengan China National United Corporation dan Sinopharm Group untuk membina platform borong dan runcit farmaseutikal digital, memacu pengurusan pengedaran ubat yang pintar dan terperinci. Di peringkat antarabangsa, kami secara aktif memajukan perkongsian dengan pemimpin penjagaan kesihatan global seperti Siemens, terus mengembangkan kehadiran pasaran global kami."
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "Amalan Luar Negara & Seni Bina Data Dwi-Piawaian",
+        "text": "Di pasaran luar negara, kami telah merintis pelaksanaan perkhidmatan diagnostik pengimejan perubatan berbantuan AI di kawasan yang kurang mendapat perkhidmatan seperti Timor-Leste, secara inovatif memperkenalkan seni bina data dwi-piawaian 'FHIR + GB/T' yang memastikan keserasian antara piawaian antarabangsa (FHIR) dan piawaian nasional China (GB/T). Seni bina ini bukan sahaja meningkatkan keupayaan diagnostik tempatan tetapi juga membina jambatan untuk pertukaran data perubatan rentas sempadan, membolehkan rujukan pesakit yang lancar antara negara."
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "Misi Kami",
+        "text": "Seiring dengan permintaan penjagaan kesihatan rentas sempadan global yang terus meningkat, kami menempa seni bina data dwi-piawaian kami menjadi kelebihan daya saing teras — meletakkan diri kami sebagai titik perhubungan sumber perubatan China dengan dunia, dan benar-benar memenuhi misi 'Perubatan Tanpa Sempadan'."
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "Misi & Visi",
+      "mission": "Memacu penggunaan meluas piawaian terbuka penjagaan kesihatan SMART on FHIR di seluruh Asia-Pasifik, memecahkan silo data dan memperkasakan inovasi perubatan presisi.",
+      "vision": "Menjelang 2030, setiap pesakit di Asia-Pasifik akan mendapat manfaat daripada kesalingoperasian data kesihatan yang lancar — menerima penjagaan kesihatan yang lebih tepat, cekap, dan saksama."
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
-      "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
-      "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "title": "Nilai Teras",
+      "value1Title": "Piawaian Terbuka",
+      "value1Desc": "Komited kepada piawaian teknologi yang terbuka dan telus. Tiada penguncian data. Menggalakkan persaingan industri yang adil.",
+      "value2Title": "Kerjasama Serantau",
+      "value2Desc": "Membina platform kerjasama rentas sempadan untuk berkongsi amalan terbaik dan menangani cabaran penjagaan kesihatan APAC bersama-sama.",
+      "value3Title": "Berpusatkan Pesakit",
+      "value3Desc": "Setiap keputusan teknologi dipandu oleh matlamat akhir untuk meningkatkan pengalaman pesakit dan hasil kesihatan."
     }
   }
 }

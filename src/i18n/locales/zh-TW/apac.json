@@ -1,59 +1,59 @@
 {
   "apac": {
-    "pageTitle": "APAC Opportunity",
-    "pageDescription": "Discover the SMART on FHIR market opportunity in Asia-Pacific",
-    "heroTitle": "Asia-Pacific: The New Frontier of Digital Health",
-    "heroSubtitle": "Home to 60% of the world's population, Asia-Pacific is at a critical inflection point for health interoperability",
+    "pageTitle": "亞太商機",
+    "pageDescription": "探索亞太地區 SMART on FHIR 市場機會",
+    "heroTitle": "亞太：數位健康的新疆界",
+    "heroSubtitle": "亞太地區擁有全球 60% 的人口，正處於健康互通性的關鍵轉捩點",
     "painPoints": {
-      "title": "Three Core Challenges",
-      "subtitle": "Structural challenges facing APAC healthcare systems"
+      "title": "三大核心挑戰",
+      "subtitle": "亞太醫療體系面臨的結構性難題"
     },
     "pain1": {
-      "title": "Data Fragmentation",
-      "description": "Over 90% of APAC healthcare facilities use incompatible information systems. When patients visit different hospitals, records cannot be shared automatically — leading to duplicate tests, lost information, and medical errors."
+      "title": "資料碎片化",
+      "description": "超過 90% 的亞太醫療機構使用互不相容的資訊系統。當病患到不同醫院就診時，病歷無法自動共享——導致重複檢查、資訊遺失與醫療疏失。"
     },
     "pain2": {
-      "title": "Aging Population",
-      "description": "By 2050, APAC's 65+ population will exceed 1.3 billion — double the current figure. Chronic disease management and long-term care demand seamless cross-institutional data flow."
+      "title": "人口老化",
+      "description": "到 2050 年，亞太 65 歲以上人口將超過 13 億——是目前的兩倍。慢性病管理與長照需要跨機構的資料無縫流通。"
     },
     "pain3": {
-      "title": "Rising Healthcare Costs",
-      "description": "APAC healthcare spending grows 7-10% annually, far exceeding GDP growth. Redundant system builds and manual data integration waste billions of dollars each year."
+      "title": "醫療成本攀升",
+      "description": "亞太醫療支出年成長 7-10%，遠超 GDP 成長。重複建置系統與人工資料整合每年浪費數十億美元。"
     },
     "market": {
-      "title": "Market Data",
-      "subtitle": "The APAC SMART on FHIR market is growing rapidly",
-      "size": "APAC FHIR Market Size",
-      "sizeValue": "$7.8B",
-      "sizeYear": "2025 Estimate",
-      "cagr": "Annual Growth Rate",
+      "title": "市場數據",
+      "subtitle": "亞太 SMART on FHIR 市場正在快速成長",
+      "size": "亞太 FHIR 市場規模",
+      "sizeValue": "78 億美元",
+      "sizeYear": "2025 年預估",
+      "cagr": "年成長率",
       "cagrValue": "27%",
       "cagrPeriod": "2023-2030",
-      "adoption": "FHIR Adoption Rate",
+      "adoption": "FHIR 採用率",
       "adoptionValue": "45%",
-      "adoptionDesc": "Major APAC Hospitals"
+      "adoptionDesc": "亞太主要醫院"
     },
     "map": {
-      "title": "APAC Adoption Status",
-      "subtitle": "SMART on FHIR deployment progress across countries and regions",
-      "statusAdvanced": "Advanced Adoption",
-      "statusGrowing": "Rapid Growth",
-      "statusEmerging": "Early Exploration"
+      "title": "亞太採用狀態",
+      "subtitle": "各國家與地區的 SMART on FHIR 部署進度",
+      "statusAdvanced": "領先採用",
+      "statusGrowing": "快速成長",
+      "statusEmerging": "早期探索"
     },
     "caseStudy": {
-      "title": "Case Spotlight: AI Medical Imaging in Timor-Leste",
-      "subtitle": "Bringing AI-powered diagnostics to underserved regions through open standards",
-      "description": "In Timor-Leste, where medical resources are scarce, we have deployed AI-assisted medical imaging diagnostic services to elevate local diagnostic capabilities. By integrating our dual-standard data architecture (FHIR + GB/T), patient data generated locally can seamlessly connect with healthcare systems across borders — enabling efficient cross-country referrals and follow-up care.",
-      "stat1Label": "Diagnostic Accuracy",
-      "stat1Value": "AI-Powered",
-      "stat2Label": "Data Standard",
+      "title": "案例焦點：東帝汶 AI 醫學影像",
+      "subtitle": "透過開放標準，將 AI 診斷帶入醫療資源不足的地區",
+      "description": "在醫療資源匱乏的東帝汶，我們部署了 AI 輔助醫學影像診斷服務，提升當地的診斷能力。透過整合我們的雙標準資料架構（FHIR + GB/T），在當地產生的病患資料能無縫連接跨境醫療系統——實現高效的跨國轉診與後續照護。",
+      "stat1Label": "診斷準確度",
+      "stat1Value": "AI 驅動",
+      "stat2Label": "資料標準",
       "stat2Value": "FHIR + GB/T",
-      "stat3Label": "Cross-Border",
-      "stat3Value": "Enabled"
+      "stat3Label": "跨境照護",
+      "stat3Value": "已啟用"
     },
     "countries": {
-      "title": "Country Spotlight",
-      "subtitle": "Explore FHIR adoption progress and unique strengths across APAC"
+      "title": "各國焦點",
+      "subtitle": "探索亞太各國的 FHIR 採用進度與獨特優勢"
     }
   }
 }

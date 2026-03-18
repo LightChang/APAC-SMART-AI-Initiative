@@ -1,59 +1,59 @@
 {
   "apac": {
-    "pageTitle": "APAC Opportunity",
-    "pageDescription": "Discover the SMART on FHIR market opportunity in Asia-Pacific",
-    "heroTitle": "Asia-Pacific: The New Frontier of Digital Health",
-    "heroSubtitle": "Home to 60% of the world's population, Asia-Pacific is at a critical inflection point for health interoperability",
+    "pageTitle": "Peluang APAC",
+    "pageDescription": "Temui peluang pasaran SMART on FHIR di Asia-Pasifik",
+    "heroTitle": "Asia-Pasifik: Sempadan Baharu Kesihatan Digital",
+    "heroSubtitle": "Sebagai tempat tinggal 60% populasi dunia, Asia-Pasifik berada di titik perubahan kritikal untuk kesalingoperasian kesihatan",
     "painPoints": {
-      "title": "Three Core Challenges",
-      "subtitle": "Structural challenges facing APAC healthcare systems"
+      "title": "Tiga Cabaran Utama",
+      "subtitle": "Cabaran struktur yang dihadapi sistem penjagaan kesihatan APAC"
     },
     "pain1": {
-      "title": "Data Fragmentation",
-      "description": "Over 90% of APAC healthcare facilities use incompatible information systems. When patients visit different hospitals, records cannot be shared automatically — leading to duplicate tests, lost information, and medical errors."
+      "title": "Pecahan Data",
+      "description": "Lebih 90% kemudahan penjagaan kesihatan APAC menggunakan sistem maklumat yang tidak serasi. Apabila pesakit melawat hospital yang berbeza, rekod tidak dapat dikongsi secara automatik — menyebabkan ujian berulang, kehilangan maklumat, dan kesilapan perubatan."
     },
     "pain2": {
-      "title": "Aging Population",
-      "description": "By 2050, APAC's 65+ population will exceed 1.3 billion — double the current figure. Chronic disease management and long-term care demand seamless cross-institutional data flow."
+      "title": "Populasi Menua",
+      "description": "Menjelang 2050, populasi 65+ di APAC akan melebihi 1.3 bilion — dua kali ganda angka semasa. Pengurusan penyakit kronik dan penjagaan jangka panjang memerlukan aliran data merentas institusi yang lancar."
     },
     "pain3": {
-      "title": "Rising Healthcare Costs",
-      "description": "APAC healthcare spending grows 7-10% annually, far exceeding GDP growth. Redundant system builds and manual data integration waste billions of dollars each year."
+      "title": "Kos Penjagaan Kesihatan yang Meningkat",
+      "description": "Perbelanjaan penjagaan kesihatan APAC berkembang 7-10% setiap tahun, jauh melebihi pertumbuhan KDNK. Pembinaan sistem berulang dan integrasi data manual membazirkan berbilion dolar setiap tahun."
     },
     "market": {
-      "title": "Market Data",
-      "subtitle": "The APAC SMART on FHIR market is growing rapidly",
-      "size": "APAC FHIR Market Size",
+      "title": "Data Pasaran",
+      "subtitle": "Pasaran SMART on FHIR di APAC berkembang dengan pesat",
+      "size": "Saiz Pasaran FHIR APAC",
       "sizeValue": "$7.8B",
-      "sizeYear": "2025 Estimate",
-      "cagr": "Annual Growth Rate",
+      "sizeYear": "Anggaran 2025",
+      "cagr": "Kadar Pertumbuhan Tahunan",
       "cagrValue": "27%",
       "cagrPeriod": "2023-2030",
-      "adoption": "FHIR Adoption Rate",
+      "adoption": "Kadar Penggunaan FHIR",
       "adoptionValue": "45%",
-      "adoptionDesc": "Major APAC Hospitals"
+      "adoptionDesc": "Hospital Utama APAC"
     },
     "map": {
-      "title": "APAC Adoption Status",
-      "subtitle": "SMART on FHIR deployment progress across countries and regions",
-      "statusAdvanced": "Advanced Adoption",
-      "statusGrowing": "Rapid Growth",
-      "statusEmerging": "Early Exploration"
+      "title": "Status Penggunaan APAC",
+      "subtitle": "Kemajuan pelaksanaan SMART on FHIR di pelbagai negara dan wilayah",
+      "statusAdvanced": "Penggunaan Maju",
+      "statusGrowing": "Pertumbuhan Pesat",
+      "statusEmerging": "Penerokaan Awal"
     },
     "caseStudy": {
-      "title": "Case Spotlight: AI Medical Imaging in Timor-Leste",
-      "subtitle": "Bringing AI-powered diagnostics to underserved regions through open standards",
-      "description": "In Timor-Leste, where medical resources are scarce, we have deployed AI-assisted medical imaging diagnostic services to elevate local diagnostic capabilities. By integrating our dual-standard data architecture (FHIR + GB/T), patient data generated locally can seamlessly connect with healthcare systems across borders — enabling efficient cross-country referrals and follow-up care.",
-      "stat1Label": "Diagnostic Accuracy",
-      "stat1Value": "AI-Powered",
-      "stat2Label": "Data Standard",
+      "title": "Sorotan Kes: Pengimejan Perubatan AI di Timor-Leste",
+      "subtitle": "Membawa diagnostik berkuasa AI ke kawasan yang kurang mendapat perkhidmatan melalui piawaian terbuka",
+      "description": "Di Timor-Leste, di mana sumber perubatan adalah terhad, kami telah melaksanakan perkhidmatan diagnostik pengimejan perubatan berbantuan AI untuk meningkatkan keupayaan diagnostik tempatan. Dengan mengintegrasikan seni bina data dwi-piawaian kami (FHIR + GB/T), data pesakit yang dijana secara tempatan dapat bersambung dengan lancar ke sistem penjagaan kesihatan merentasi sempadan — membolehkan rujukan dan susulan rentas negara yang cekap.",
+      "stat1Label": "Ketepatan Diagnostik",
+      "stat1Value": "Berkuasa AI",
+      "stat2Label": "Piawaian Data",
       "stat2Value": "FHIR + GB/T",
-      "stat3Label": "Cross-Border",
-      "stat3Value": "Enabled"
+      "stat3Label": "Rentas Sempadan",
+      "stat3Value": "Diaktifkan"
     },
     "countries": {
-      "title": "Country Spotlight",
-      "subtitle": "Explore FHIR adoption progress and unique strengths across APAC"
+      "title": "Sorotan Negara",
+      "subtitle": "Terokai kemajuan penggunaan FHIR dan kekuatan unik di seluruh APAC"
     }
   }
 }

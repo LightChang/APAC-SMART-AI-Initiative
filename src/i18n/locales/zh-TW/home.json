@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "以開放標準重塑亞太醫療",
+    "subtitle": "亞太精準健康倡議推動 SMART on FHIR 於亞太地區落地，實現安全的健康資料互通與精準醫療創新。",
+    "cta1": "認識 SMART on FHIR",
+    "cta2": "加入倡議"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
+    "title": "亞太數位健康的成長契機",
+    "subtitle": "亞太地區是全球 SMART on FHIR 採用成長最快的區域",
+    "hospitals": "合作醫院",
     "hospitalsValue": "500+",
-    "market": "Market Size",
-    "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
+    "market": "市場規模",
+    "marketValue": "78 億美元",
+    "growth": "年成長率",
     "growthValue": "27%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "什麼是 SMART on FHIR？",
+    "description": "SMART on FHIR 是由波士頓兒童醫院計算健康資訊學程（CHIP）開發的開放標準平台。它讓第三方應用程式能夠安全地讀寫電子病歷——就像醫療版的 App Store，任何開發者都能打造可在任何支援 FHIR 系統上運行的醫療應用。",
+    "link": "深入瞭解 SMART on FHIR →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "為什麼是亞太？",
+    "subtitle": "亞太地區擁有全球 60% 的人口，正面臨資料碎片化、人口老化與醫療成本攀升等關鍵挑戰。SMART on FHIR 提供了一個統一、開放的解決方案。",
+    "pain1Title": "資料碎片化",
+    "pain1Desc": "亞太地區 90% 的醫療機構使用互不相容的系統，資料孤島嚴重阻礙協同照護。",
+    "pain2Title": "人口老化",
+    "pain2Desc": "到 2050 年，亞太 65 歲以上人口將翻倍。慢性病管理亟需跨機構的數位基礎建設。",
+    "pain3Title": "成本壓力",
+    "pain3Desc": "標準化的互通性每年可為每家醫院節省數百萬美元的整合與維護成本。",
+    "link": "探索亞太商機 →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "全球生態系夥伴",
+    "subtitle": "與頂尖的醫療標準組織、科技公司及政府機構攜手共建"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
-    "name": "Yongjun Zhao",
-    "title": "Founder"
+    "quote": "用科技創新串聯中國醫療資源與世界——真正實踐「醫療無國界」的使命。",
+    "name": "趙勇軍",
+    "title": "創辦人"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "準備好加入亞太數位健康轉型了嗎？",
+    "subtitle": "無論您是醫療機構、開發者或政策制定者——這裡都有您的舞台。",
+    "button": "立即參與"
   }
 }

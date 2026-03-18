@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "Нээлттэй Стандартаар Ази-Номхон Далайн Эрүүл Мэндийг Өөрчлөх",
+    "subtitle": "APAC Нарийвчилсан Эрүүл Мэндийн Санаачилга нь бүс нутагт SMART on FHIR-ийн нэвтрэлтийг түргэсгэж — аюулгүй эрүүл мэндийн өгөгдлийн харилцан ажиллагаа болон нарийвчилсан анагаах ухааны инновацийг боломжтой болгодог.",
+    "cta1": "SMART on FHIR Судлах",
+    "cta2": "Санаачилгад Нэгдэх"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
+    "title": "APAC Дижитал Эрүүл Мэндийн Өсөлтийн Боломж",
+    "subtitle": "Ази-Номхон далай нь дэлхий даяар SMART on FHIR нэвтрэлтээр хамгийн хурдан өсч буй бүс нутаг юм",
+    "hospitals": "Түншлэгч Эмнэлгүүд",
     "hospitalsValue": "500+",
-    "market": "Market Size",
+    "market": "Зах Зээлийн Хэмжээ",
     "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
+    "growth": "Жилийн Өсөлтийн Хувь",
     "growthValue": "27%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "SMART on FHIR гэж юу вэ?",
+    "description": "SMART on FHIR нь Boston Хүүхдийн Эмнэлгийн Computational Health Informatics Program (CHIP)-аас боловсруулсан нээлттэй стандартын платформ юм. Энэ нь гуравдагч талын аппликейшнуудад цахим эрүүл мэндийн бүртгэлийг аюулгүй унших, бичих боломж олгодог — эрүүл мэндийн апп дэлгүүр шиг, хөгжүүлэгч бүр FHIR-д нийцсэн аливаа системд ажилладаг анагаах ухааны аппликейшн үүсгэж чадна.",
+    "link": "SMART on FHIR-ийн тухай дэлгэрэнгүй →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "Яагаад Ази-Номхон Далай вэ?",
+    "subtitle": "Дэлхийн хүн амын 60%-ийн нутаг болохын хувьд Ази-Номхон далай нь чухал сорилтуудтай тулгардаг — тасархай эрүүл мэндийн өгөгдөл, хөгшрөлт, өсөж буй зардал. SMART on FHIR нь нэгдсэн, нээлттэй шийдлийг санал болгодог.",
+    "pain1Title": "Өгөгдлийн Задаргаа",
+    "pain1Desc": "APAC-ийн эрүүл мэндийн байгууллагуудын 90% нь нийцдэггүй системүүд ашигладаг. Өгөгдлийн тусгаарлалт нь хамтарсан тусламж үйлчилгээг ихээхэн саатуулдаг.",
+    "pain2Title": "Хүн Амын Хөгшрөлт",
+    "pain2Desc": "2050 он гэхэд APAC-ийн 65+ насны хүн ам хоёр дахин нэмэгдэнэ. Архаг өвчний менежмент нь холбогдсон дижитал дэд бүтцийг шаарддаг.",
+    "pain3Title": "Зардлын Дарамт",
+    "pain3Desc": "Стандартчилсан харилцан ажиллагаа нь эмнэлэг бүрт жил бүр нэгтгэл, засвар үйлчилгээний зардалд сая саяыг хэмнэж чадна.",
+    "link": "APAC Боломжийг Судлах →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "Дэлхийн Экосистемийн Түншүүд",
+    "subtitle": "Тэргүүлэгч эрүүл мэндийн стандартын байгууллагууд, технологийн компаниуд, засгийн газрын агентлагуудтай хамтран бүтээж байна"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+    "quote": "Технологийн инновациар дамжуулан Хятадын анагаах ухааны нөөцийг дэлхийтэй холбож — 'Хил Хязгааргүй Анагаах Ухаан' эрхэм зорилгоо үнэхээр биелүүлж байна.",
     "name": "Yongjun Zhao",
-    "title": "Founder"
+    "title": "Үүсгэн Байгуулагч"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "Ази-Номхон Далайн Дижитал Эрүүл Мэндийн Өөрчлөлтөд Нэгдэхэд Бэлэн үү?",
+    "subtitle": "Та эрүүл мэндийн байгууллага, хөгжүүлэгч эсвэл бодлого боловсруулагч байсан ч — танд зориулсан зам байна.",
+    "button": "Одоо Нэгдэх"
   }
 }

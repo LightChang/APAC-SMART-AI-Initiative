@@ -1,59 +1,59 @@
 {
   "apac": {
-    "pageTitle": "APAC Opportunity",
-    "pageDescription": "Discover the SMART on FHIR market opportunity in Asia-Pacific",
-    "heroTitle": "Asia-Pacific: The New Frontier of Digital Health",
-    "heroSubtitle": "Home to 60% of the world's population, Asia-Pacific is at a critical inflection point for health interoperability",
+    "pageTitle": "APAC အခွင့်အလမ်း",
+    "pageDescription": "အာရှ-ပစိဖိတ်တွင် SMART on FHIR စျေးကွက်အခွင့်အလမ်းကို ရှာဖွေပါ",
+    "heroTitle": "အာရှ-ပစိဖိတ်: ဒီဂျစ်တယ်ကျန်းမာရေး၏ နယ်နိမိတ်သစ်",
+    "heroSubtitle": "ကမ္ဘာ့လူဦးရေ ၆၀% ၏အိမ်ရာအနေဖြင့် အာရှ-ပစိဖိတ်သည် ကျန်းမာရေးအပြန်အလှန်လုပ်ဆောင်နိုင်မှုအတွက် အရေးကြီးသောအချိုးအကွေ့၌ ရှိနေသည်",
     "painPoints": {
-      "title": "Three Core Challenges",
-      "subtitle": "Structural challenges facing APAC healthcare systems"
+      "title": "အဓိကစိန်ခေါ်မှု သုံးရပ်",
+      "subtitle": "APAC ကျန်းမာရေးစနစ်များ ရင်ဆိုင်နေရသော ဖွဲ့စည်းပုံဆိုင်ရာ စိန်ခေါ်မှုများ"
     },
     "pain1": {
-      "title": "Data Fragmentation",
-      "description": "Over 90% of APAC healthcare facilities use incompatible information systems. When patients visit different hospitals, records cannot be shared automatically — leading to duplicate tests, lost information, and medical errors."
+      "title": "ဒေတာပြိုကွဲမှု",
+      "description": "APAC ကျန်းမာရေးအဆောက်အအုံ ၉၀% ကျော်သည် အပြန်အလှန်လုပ်ဆောင်၍မရသော သတင်းအချက်အလက်စနစ်များကို အသုံးပြုသည်။ လူနာများ ဆေးရုံအမျိုးမျိုးသို့သွားသောအခါ မှတ်တမ်းများ အလိုအလျောက်မျှဝေ၍မရပါ — ထပ်နေသောစစ်ဆေးမှုများ၊ ပျောက်ဆုံးသောသတင်းအချက်အလက်နှင့် ဆေးဘက်ဆိုင်ရာအမှားများ ဖြစ်ပေါ်စေသည်။"
     },
     "pain2": {
-      "title": "Aging Population",
-      "description": "By 2050, APAC's 65+ population will exceed 1.3 billion — double the current figure. Chronic disease management and long-term care demand seamless cross-institutional data flow."
+      "title": "သက်ကြီးရွယ်အိုလူဦးရေ",
+      "description": "၂၀၅၀ တွင် APAC ၏ ၆၅ နှစ်အထက် လူဦးရေသည် ၁.၃ ဘီလီယံကျော်မည် — လက်ရှိအရေအတွက်၏ နှစ်ဆဖြစ်သည်။ နာတာရှည်ရောဂါစီမံခန့်ခွဲမှုနှင့် ရေရှည်စောင့်ရှောက်မှုအတွက် အဖွဲ့အစည်းများကြား ချောမွေ့သောဒေတာစီးဆင်းမှု လိုအပ်သည်။"
     },
     "pain3": {
-      "title": "Rising Healthcare Costs",
-      "description": "APAC healthcare spending grows 7-10% annually, far exceeding GDP growth. Redundant system builds and manual data integration waste billions of dollars each year."
+      "title": "ကျန်းမာရေးကုန်ကျစရိတ်တိုးမြင့်မှု",
+      "description": "APAC ကျန်းမာရေးအသုံးစရိတ်သည် နှစ်စဉ် ၇-၁၀% တိုးတက်နေပြီး GDP တိုးတက်မှုထက် များစွာကျော်လွန်သည်။ ထပ်နေသောစနစ်တည်ဆောက်မှုများနှင့် လက်ဖြင့်ဒေတာပေါင်းစပ်ခြင်းသည် နှစ်စဉ်ဒေါ်လာဘီလီယံများစွာ ဖြုန်းတီးသည်။"
     },
     "market": {
-      "title": "Market Data",
-      "subtitle": "The APAC SMART on FHIR market is growing rapidly",
-      "size": "APAC FHIR Market Size",
+      "title": "စျေးကွက်ဒေတာ",
+      "subtitle": "APAC SMART on FHIR စျေးကွက်သည် လျင်မြန်စွာတိုးတက်နေသည်",
+      "size": "APAC FHIR စျေးကွက်အရွယ်အစား",
       "sizeValue": "$7.8B",
-      "sizeYear": "2025 Estimate",
-      "cagr": "Annual Growth Rate",
+      "sizeYear": "၂၀၂၅ ခန့်မှန်းချက်",
+      "cagr": "နှစ်စဉ်တိုးတက်မှုနှုန်း",
       "cagrValue": "27%",
-      "cagrPeriod": "2023-2030",
-      "adoption": "FHIR Adoption Rate",
+      "cagrPeriod": "၂၀၂၃-၂၀၃၀",
+      "adoption": "FHIR အသုံးပြုမှုနှုန်း",
       "adoptionValue": "45%",
-      "adoptionDesc": "Major APAC Hospitals"
+      "adoptionDesc": "အဓိက APAC ဆေးရုံများ"
     },
     "map": {
-      "title": "APAC Adoption Status",
-      "subtitle": "SMART on FHIR deployment progress across countries and regions",
-      "statusAdvanced": "Advanced Adoption",
-      "statusGrowing": "Rapid Growth",
-      "statusEmerging": "Early Exploration"
+      "title": "APAC အသုံးပြုမှုအခြေအနေ",
+      "subtitle": "နိုင်ငံနှင့်ဒေသများတစ်လျှောက် SMART on FHIR အသုံးပြုမှုတိုးတက်မှု",
+      "statusAdvanced": "အဆင့်မြင့်အသုံးပြုမှု",
+      "statusGrowing": "လျင်မြန်သောတိုးတက်မှု",
+      "statusEmerging": "အစောပိုင်းစူးစမ်းမှု"
     },
     "caseStudy": {
-      "title": "Case Spotlight: AI Medical Imaging in Timor-Leste",
-      "subtitle": "Bringing AI-powered diagnostics to underserved regions through open standards",
-      "description": "In Timor-Leste, where medical resources are scarce, we have deployed AI-assisted medical imaging diagnostic services to elevate local diagnostic capabilities. By integrating our dual-standard data architecture (FHIR + GB/T), patient data generated locally can seamlessly connect with healthcare systems across borders — enabling efficient cross-country referrals and follow-up care.",
-      "stat1Label": "Diagnostic Accuracy",
-      "stat1Value": "AI-Powered",
-      "stat2Label": "Data Standard",
+      "title": "ဖြစ်ရပ်မီးမောင်းထိုး: တီမော-လက်စ်တေတွင် AI ဆေးဘက်ဆိုင်ရာပုံရိပ်ဖတ်ခြင်း",
+      "subtitle": "ပွင့်လင်းစံနှုန်းများဖြင့် ဝန်ဆောင်မှုမရသောဒေသများသို့ AI-အကူအညီ ရောဂါရှာဖွေခြင်းကို ယူဆောင်လာခြင်း",
+      "description": "ဆေးဘက်ဆိုင်ရာအရင်းအမြစ်ရှားပါးသော တီမော-လက်စ်တေတွင် ကျွန်ုပ်တို့သည် ဒေသခံရောဂါရှာဖွေနိုင်စွမ်းကို မြှင့်တင်ရန် AI-အကူအညီ ဆေးဘက်ဆိုင်ရာပုံရိပ်ရောဂါရှာဖွေခြင်းဝန်ဆောင်မှုများကို အသုံးပြုခဲ့သည်။ ကျွန်ုပ်တို့၏ နှစ်ထပ်စံနှုန်းဒေတာဗိသုကာ (FHIR + GB/T) ကို ပေါင်းစပ်ခြင်းဖြင့် ဒေသခံတွင်ထုတ်လုပ်သော လူနာဒေတာသည် နယ်စပ်များဖြတ်ကျော်၍ ကျန်းမာရေးစနစ်များနှင့် ချောမွေ့စွာချိတ်ဆက်နိုင်သည် — နိုင်ငံများကြား လွှဲပြောင်းမှုများနှင့် နောက်ဆက်တွဲစောင့်ရှောက်မှုကို ထိရောက်စွာဖြစ်နိုင်စေသည်။",
+      "stat1Label": "ရောဂါရှာဖွေတိကျမှု",
+      "stat1Value": "AI-အကူအညီ",
+      "stat2Label": "ဒေတာစံနှုန်း",
       "stat2Value": "FHIR + GB/T",
-      "stat3Label": "Cross-Border",
-      "stat3Value": "Enabled"
+      "stat3Label": "နယ်စပ်ဖြတ်ကျော်",
+      "stat3Value": "ဖြစ်နိုင်စေသည်"
     },
     "countries": {
-      "title": "Country Spotlight",
-      "subtitle": "Explore FHIR adoption progress and unique strengths across APAC"
+      "title": "နိုင်ငံမီးမောင်းထိုး",
+      "subtitle": "APAC တစ်လျှောက် FHIR အသုံးပြုမှုတိုးတက်မှုနှင့် ထူးခြားသောအားသာချက်များကို လေ့လာပါ"
     }
   }
 }

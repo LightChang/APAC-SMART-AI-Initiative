@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "Tungkol sa Amin",
+    "pageDescription": "Alamin ang tungkol sa misyon, bisyon, at koponan sa likod ng APAC Precision Health Initiative",
+    "heroTitle": "Tungkol sa APAC Precision Health Initiative",
+    "heroSubtitle": "Nag-uugnay sa Asia-Pacific upang bumuo ng isang bukas, interoperable, at patient-centered na digital health ecosystem",
     "founder": {
-      "sectionTitle": "Message from the Founder",
+      "sectionTitle": "Mensahe mula sa Founder",
       "name": "Yongjun Zhao",
       "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "quote": "Ikinokonekta ang mga medical resources ng China sa mundo sa pamamagitan ng technological innovation — tunay na tinutupad ang aming misyon ng 'Medicine Without Borders.'",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "Technological Foundation at Innovation",
+        "text": "Bilang isang AI medical technology company na hinihimok ng inobasyon sa kaibuturan nito, nakabuo kami ng malakas na kadalubhasaan sa pamamagitan ng mga taon ng malalim na commitment sa dalawang pangunahing domain: pharmaceutical R&D at medical imaging. Sa pharmaceuticals, naipon namin ang malawak na pharmaceutical intermediate reserves at mga proprietary research breakthroughs. Sa 2026, sistematiko kaming nagsisimula ng national patent applications upang protektahan ang aming core intellectual property, habang isinusulong ang 'drug repurposing' research upang matuklasan ang mga bagong indications at applications para sa mga existing compounds. Sa medical imaging, ang aming self-developed AI-assisted diagnostic software ay nagbibigay ng high-precision, intelligent image analysis, na may NMPA certification na isinasagawa sa 2026 upang matiyak ang regulatory-compliant clinical deployment."
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "Strategic Partnerships at Commercialization",
+        "text": "Pinagsisikapan namin ang dual-engine strategy ng domestic synergy at international collaboration. Sa loob ng bansa, nag-integrate kami sa cloud-based medical imaging platform ng China General Technology Group at nakikipagtulungan sa China National United Corporation at Sinopharm Group upang bumuo ng isang digital pharmaceutical wholesale at retail platform, na nagpapatakbo ng intelligent, refined na pamamahala ng drug distribution. Sa internasyonal, aktibo naming isinusulong ang mga pakikipagsosyo sa mga global healthcare leaders tulad ng Siemens, patuloy na pinapalawak ang aming global market presence."
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "Overseas Practice at Dual-Standard Data Architecture",
+        "text": "Sa mga overseas markets, nanguna kami sa deployment ng AI-assisted medical imaging diagnostic services sa mga underserved regions tulad ng Timor-Leste, na nag-introduce ng makabagong 'FHIR + GB/T' dual-standard data architecture na nagtitiyak ng compatibility sa pagitan ng international standards (FHIR) at Chinese national standards (GB/T). Ang architecture na ito ay hindi lamang nagpapataas ng lokal na diagnostic capabilities kundi bumubuo rin ng tulay para sa cross-border medical data exchange, na nagbibigay-daan sa seamless patient referrals sa mga bansa."
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "Ang Aming Misyon",
+        "text": "Habang ang global demand para sa cross-border healthcare ay patuloy na lumalaki, binubuo namin ang aming dual-standard data architecture bilang isang core competitive advantage — nagpoposisyon sa aming sarili bilang nexus na nag-uugnay sa mga medical resources ng China sa mundo, at tunay na tinutupad ang aming misyon ng 'Medicine Without Borders.'"
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "Misyon at Bisyon",
+      "mission": "Upang isulong ang malawakang adoption ng SMART on FHIR open healthcare standards sa buong Asia-Pacific, basagin ang mga data silos at bigyang-kapangyarihan ang precision medicine innovation.",
+      "vision": "Sa 2030, ang bawat pasyente sa Asia-Pacific ay makikinabang mula sa seamless health data interoperability — tumatanggap ng mas tumpak, mahusay, at pantay na healthcare."
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
+      "title": "Mga Pangunahing Halaga",
+      "value1Title": "Bukas na Pamantayan",
+      "value1Desc": "Nakatuon sa bukas at transparent na technology standards. Walang data lock-in. Nagtataguyod ng patas na kompetisyon sa industriya.",
       "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
+      "value2Desc": "Bumubuo ng mga cross-border cooperation platforms upang ibahagi ang mga best practices at sama-samang harapin ang mga hamon sa healthcare ng APAC.",
       "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "value3Desc": "Ang bawat desisyon sa teknolohiya ay ginagabayan ng ultimate goal na mapabuti ang karanasan ng pasyente at mga health outcomes."
     }
   }
 }

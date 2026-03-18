@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "កែទម្រង់សេវាសុខាភិបាលនៅអាស៊ី-ប៉ាស៊ីហ្វិកជាមួយស្តង់ដារបើកចំហ",
+    "subtitle": "APAC Precision Health Initiative ជំរុញការទទួលយក SMART on FHIR នៅទូទាំងតំបន់ — អាចធ្វើអន្តរប្រតិបត្តិការទិន្នន័យសុខភាពដោយសុវត្ថិភាព និងនវានុវត្តន៍វេជ្ជសាស្ត្រជាក់លាក់។",
+    "cta1": "ស្វែងយល់ SMART on FHIR",
+    "cta2": "ចូលរួមក្នុង Initiative"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
-    "hospitalsValue": "500+",
-    "market": "Market Size",
-    "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
-    "growthValue": "27%"
+    "title": "ឱកាសរីកចម្រើនក្នុងសុខភាពឌីជីថល APAC",
+    "subtitle": "អាស៊ី-ប៉ាស៊ីហ្វិកជាតំបន់រីកចម្រើនលឿនបំផុតសម្រាប់ការទទួលយក SMART on FHIR ទូទាំងពិភពលោក",
+    "hospitals": "មន្ទីរពេទ្យដៃគូ",
+    "hospitalsValue": "៥០០+",
+    "market": "ទំហំទីផ្សារ",
+    "marketValue": "$៧.៨B",
+    "growth": "អត្រាកំណើនប្រចាំឆ្នាំ",
+    "growthValue": "២៧%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "តើ SMART on FHIR ជាអ្វី?",
+    "description": "SMART on FHIR គឺជាវេទិកាស្តង់ដារបើកចំហដែលបង្កើតឡើងដោយកម្មវិធី Computational Health Informatics Program (CHIP) របស់ Boston Children's Hospital។ វាអនុញ្ញាតឱ្យកម្មវិធីភាគីទីបីអាន និងសរសេរកំណត់ត្រាសុខភាពអេឡិចត្រូនិកដោយសុវត្ថិភាព — ដូចជាហាង app សម្រាប់សេវាសុខាភិបាល ដែលអ្នកអភិវឌ្ឍន៍ណាក៏អាចបង្កើតកម្មវិធីវេជ្ជសាស្ត្រដែលដំណើរការលើប្រព័ន្ធដែលបើក FHIR ណាមួយ។",
+    "link": "ស្វែងយល់បន្ថែមអំពី SMART on FHIR →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "ហេតុអ្វីបានជាអាស៊ី-ប៉ាស៊ីហ្វិក?",
+    "subtitle": "ជាផ្ទះរបស់ប្រជាជន ៦០% នៃពិភពលោក អាស៊ី-ប៉ាស៊ីហ្វិកប្រឈមនឹងបញ្ហាប្រឈមសំខាន់ៗ — ទិន្នន័យសុខភាពខ្ចាត់ខ្ចាយ ប្រជាជនចាស់ និងការចំណាយកើនឡើង។ SMART on FHIR ផ្តល់ដំណោះស្រាយបើកចំហ និងរួបរួម។",
+    "pain1Title": "ការខ្ចាត់ខ្ចាយទិន្នន័យ",
+    "pain1Desc": "មូលដ្ឋានសុខាភិបាល APAC ៩០% ប្រើប្រព័ន្ធមិនឆបគ្នា។ silo ទិន្នន័យរារាំងការថែទាំសហការយ៉ាងធ្ងន់ធ្ងរ។",
+    "pain2Title": "ប្រជាជនចាស់",
+    "pain2Desc": "នៅឆ្នាំ ២០៥០ ប្រជាជន APAC អាយុ ៦៥+ នឹងកើនទ្វេដង។ ការគ្រប់គ្រងជំងឺរ៉ាំរ៉ៃត្រូវការហេដ្ឋារចនាសម្ព័ន្ធឌីជីថលដែលភ្ជាប់គ្នា។",
+    "pain3Title": "សម្ពាធការចំណាយ",
+    "pain3Desc": "អន្តរប្រតិបត្តិការស្តង់ដារអាចជួយមន្ទីរពេទ្យនីមួយៗសន្សំបាន រាប់លានដុល្លារប្រចាំឆ្នាំលើការចំណាយរួមបញ្ចូល និងថែទាំ។",
+    "link": "ស្វែងយល់ឱកាស APAC →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "ដៃគូប្រព័ន្ធអេកូពិភពលោក",
+    "subtitle": "កសាងរួមគ្នាជាមួយស្ថាប័នស្តង់ដារសុខាភិបាលឈានមុខ ក្រុមហ៊ុនបច្ចេកវិទ្យា និងភ្នាក់ងាររដ្ឋាភិបាល"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+    "quote": "ភ្ជាប់ធនធានវេជ្ជសាស្ត្រចិនជាមួយពិភពលោកតាមរយៈនវានុវត្តន៍បច្ចេកវិទ្យា — បំពេញបេសកកម្មរបស់យើង 'វេជ្ជសាស្ត្រគ្មានព្រំដែន' យ៉ាងពិតប្រាកដ។",
     "name": "Yongjun Zhao",
-    "title": "Founder"
+    "title": "ស្ថាបនិក"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "ត្រៀមខ្លួនចូលរួមការផ្លាស់ប្តូរសុខភាពឌីជីថលនៅអាស៊ី-ប៉ាស៊ីហ្វិក?",
+    "subtitle": "មិនថាអ្នកជាស្ថាប័នសុខាភិបាល អ្នកអភិវឌ្ឍន៍ ឬអ្នកបង្កើតគោលនយោបាយ — មានផ្លូវសម្រាប់អ្នក។",
+    "button": "ចូលរួមឥឡូវនេះ"
   }
 }

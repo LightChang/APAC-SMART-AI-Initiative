@@ -1,61 +1,61 @@
 {
   "smart": {
     "pageTitle": "SMART on FHIR",
-    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
-    "heroTitle": "Understanding SMART on FHIR",
-    "heroSubtitle": "The global open standard for health data interoperability",
+    "pageDescription": "Memahami platform piawaian terbuka penjagaan kesihatan SMART on FHIR",
+    "heroTitle": "Memahami SMART on FHIR",
+    "heroSubtitle": "Piawaian terbuka global untuk kesalingoperasian data kesihatan",
     "whatIsFhir": {
-      "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "title": "Apakah FHIR?",
+      "description": "FHIR (Fast Healthcare Interoperability Resources) adalah piawaian pertukaran data penjagaan kesihatan yang dibangunkan oleh HL7 International. Menggunakan teknologi web moden (API RESTful, JSON, OAuth2), FHIR membolehkan pelbagai sistem penjagaan kesihatan bertukar data secara terpiawai."
     },
     "whatIsSmart": {
-      "title": "What Does SMART Add?",
-      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+      "title": "Apakah yang Ditambah oleh SMART?",
+      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) menambah rangka kerja lapisan aplikasi di atas FHIR. SMART mentakrifkan bagaimana aplikasi bersambung secara selamat ke sistem rekod perubatan elektronik, mengendalikan pengesahan dan kebenaran — menjadikan aplikasi penjagaan kesihatan boleh digunakan terus, seperti aplikasi di telefon pintar."
     },
     "whyMatters": {
-      "title": "Why Does This Matter?",
-      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+      "title": "Mengapa Ini Penting?",
+      "description": "Kebanyakan sistem penjagaan kesihatan di seluruh dunia adalah tertutup dan tidak serasi. SMART on FHIR memecahkan silo data, membolehkan data pesakit mengalir dengan selamat antara hospital dan sistem — meletakkan asas untuk perubatan presisi, teleperubatan, dan diagnosis berbantuan AI."
     },
     "conceptDiagram": {
-      "ehr": "Electronic Health Records (EHR)",
-      "smartLayer": "SMART Platform Layer",
-      "apps": "Healthcare Apps",
-      "ehrDesc": "Existing hospital systems",
-      "smartDesc": "Secure auth + API standards",
-      "appsDesc": "Third-party innovation"
+      "ehr": "Rekod Perubatan Elektronik (RPE)",
+      "smartLayer": "Lapisan Platform SMART",
+      "apps": "Aplikasi Penjagaan Kesihatan",
+      "ehrDesc": "Sistem hospital sedia ada",
+      "smartDesc": "Pengesahan selamat + piawaian API",
+      "appsDesc": "Inovasi pihak ketiga"
     },
     "timeline": {
-      "title": "Key Milestones",
-      "subtitle": "The journey from academic research to global standard"
+      "title": "Pencapaian Utama",
+      "subtitle": "Perjalanan dari penyelidikan akademik menjadi piawaian global"
     },
     "ecosystem": {
-      "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
-      "standards": "Standards Bodies",
-      "government": "Government",
-      "vendors": "EHR Vendors",
-      "cloud": "Cloud Platforms"
+      "title": "Ekosistem Global",
+      "subtitle": "SMART on FHIR disokong dan diguna pakai oleh organisasi terkemuka di seluruh dunia",
+      "standards": "Badan Piawaian",
+      "government": "Kerajaan",
+      "vendors": "Vendor RPE",
+      "cloud": "Platform Awan"
     },
     "caseStudy": {
-      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
-      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
-      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
-      "benefit1Title": "Cross-Border Interoperability",
-      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
-      "benefit2Title": "Compliance by Design",
-      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
-      "benefit3Title": "Seamless Referrals",
-      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+      "title": "Dalam Amalan: Seni Bina Dwi-Piawaian FHIR + GB/T",
+      "subtitle": "Menjambatani piawaian antarabangsa dan nasional China untuk pertukaran data rentas sempadan yang lancar",
+      "description": "Inisiatif kami telah merintis seni bina data dwi-piawaian yang memastikan keserasian penuh antara piawaian antarabangsa FHIR dan piawaian nasional China GB/T. Inovasi ini membolehkan data perubatan mengalir dengan lancar merentasi sempadan — apabila pesakit berpindah antara negara, rekod kesihatan mereka kekal boleh diakses dan boleh saling beroperasi, tidak kira piawaian mana yang digunakan oleh sistem tempatan.",
+      "benefit1Title": "Kesalingoperasian Rentas Sempadan",
+      "benefit1Desc": "Rekod pesakit mengalir dengan lancar antara sistem antarabangsa berasaskan FHIR dan sistem China berasaskan GB/T.",
+      "benefit2Title": "Pematuhan Secara Reka Bentuk",
+      "benefit2Desc": "Memenuhi keperluan peraturan dalam persekitaran penjagaan kesihatan antarabangsa dan China secara serentak.",
+      "benefit3Title": "Rujukan yang Lancar",
+      "benefit3Desc": "Membolehkan rujukan pesakit yang lancar merentasi negara tanpa halangan format data."
     },
     "resources": {
-      "title": "Technical Resources",
-      "subtitle": "Start your SMART on FHIR journey",
-      "officialDocs": "Official Documentation",
-      "officialDocsDesc": "SMART Health IT official developer docs and guides",
-      "fhirSpec": "FHIR Specification",
-      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
-      "sandbox": "Sandbox Environment",
-      "sandboxDesc": "Free FHIR test servers — start developing today"
+      "title": "Sumber Teknikal",
+      "subtitle": "Mulakan perjalanan SMART on FHIR anda",
+      "officialDocs": "Dokumentasi Rasmi",
+      "officialDocsDesc": "Dokumentasi dan panduan pembangun rasmi SMART Health IT",
+      "fhirSpec": "Spesifikasi FHIR",
+      "fhirSpecDesc": "Spesifikasi lengkap HL7 FHIR R4",
+      "sandbox": "Persekitaran Sandbox",
+      "sandboxDesc": "Pelayan ujian FHIR percuma — mula membangun hari ini"
     }
   }
 }

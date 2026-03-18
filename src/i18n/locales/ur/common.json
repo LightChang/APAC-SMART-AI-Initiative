@@ -1,42 +1,42 @@
 {
   "site": {
-    "title": "APAC Precision Health Initiative",
-    "description": "Advancing SMART on FHIR open healthcare standards across the Asia-Pacific region",
-    "tagline": "Open Standards · Connected Health · Asia-Pacific Future"
+    "title": "ایپیک پریسیژن ہیلتھ انیشی ایٹو",
+    "description": "ایشیا پیسیفک خطے میں SMART on FHIR کھلے صحت کے معیارات کو فروغ دینا",
+    "tagline": "کھلے معیارات · منسلک صحت · ایشیا پیسیفک کا مستقبل"
   },
   "nav": {
-    "home": "Home",
+    "home": "ہوم",
     "smart": "SMART on FHIR",
-    "apps": "App Gallery",
-    "apac": "APAC Opportunity",
-    "involve": "Get Involved",
-    "about": "About",
-    "contact": "Contact"
+    "apps": "ایپ گیلری",
+    "apac": "ایپیک موقع",
+    "involve": "شامل ہوں",
+    "about": "ہمارے بارے میں",
+    "contact": "رابطہ"
   },
   "footer": {
-    "description": "The APAC Precision Health Initiative promotes SMART on FHIR open healthcare standards across Asia-Pacific, connecting healthcare institutions, developers, and policymakers to build an interoperable digital health ecosystem.",
-    "quickLinks": "Quick Links",
-    "resources": "Resources",
-    "resourceDoc": "Developer Docs",
-    "resourceFhir": "FHIR Specification",
-    "resourceSandbox": "Sandbox",
+    "description": "ایپیک پریسیژن ہیلتھ انیشی ایٹو ایشیا پیسیفک میں SMART on FHIR کھلے صحت کے معیارات کو فروغ دیتی ہے، صحت کے اداروں، ڈویلپرز، اور پالیسی سازوں کو جوڑ کر ایک باہم مربوط ڈیجیٹل ہیلتھ ایکو سسٹم بناتی ہے۔",
+    "quickLinks": "فوری لنکس",
+    "resources": "وسائل",
+    "resourceDoc": "ڈویلپر دستاویزات",
+    "resourceFhir": "FHIR تفصیلات",
+    "resourceSandbox": "سینڈ باکس",
     "resourceGithub": "GitHub",
-    "connect": "Connect",
-    "newsletter": "Newsletter",
-    "emailPlaceholder": "Enter your email",
-    "subscribe": "Subscribe",
-    "copyright": "© 2026 APAC Precision Health Initiative. All rights reserved."
+    "connect": "رابطہ کریں",
+    "newsletter": "نیوز لیٹر",
+    "emailPlaceholder": "اپنا ای میل درج کریں",
+    "subscribe": "سبسکرائب کریں",
+    "copyright": "© 2026 ایپیک پریسیژن ہیلتھ انیشی ایٹو۔ جملہ حقوق محفوظ ہیں۔"
   },
   "cta": {
-    "learnMore": "Learn More",
-    "getStarted": "Get Started",
-    "contactUs": "Contact Us",
-    "readMore": "Read More",
-    "download": "Download",
-    "viewAll": "View All"
+    "learnMore": "مزید جانیں",
+    "getStarted": "شروع کریں",
+    "contactUs": "ہم سے رابطہ کریں",
+    "readMore": "مزید پڑھیں",
+    "download": "ڈاؤن لوڈ",
+    "viewAll": "سب دیکھیں"
   },
   "lang": {
-    "switch": "Switch Language",
-    "current": "English"
+    "switch": "زبان تبدیل کریں",
+    "current": "اردو"
   }
 }

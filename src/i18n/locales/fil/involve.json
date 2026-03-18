@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "Makiisa",
+    "pageDescription": "Hanapin ang iyong landas upang makibahagi sa APAC digital health transformation",
+    "heroTitle": "Hanapin ang Iyong Landas",
+    "heroSubtitle": "Anuman ang iyong papel, may lugar para sa iyo sa APAC digital health ecosystem",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "Tatlong Landas sa Pakikilahok",
+      "subtitle": "Piliin ang pinakamahusay na paraan para magsimula"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
+      "title": "Mga Healthcare Institutions",
+      "subtitle": "Suriin ang kahandaan at planuhin ang iyong adoption journey",
       "item1": "SMART on FHIR readiness assessment tool",
       "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
+      "item3": "Mga success stories at best practices",
       "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "cta": "Kumuha ng Implementation Guide"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
+      "title": "Mga Developer",
+      "subtitle": "Kumuha ng mga tools at resources para magsimulang mag-build",
       "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "item2": "Libreng sandbox testing environment",
+      "item3": "Open-source projects at code samples",
+      "item4": "Developer community at forums",
+      "cta": "Magsimulang Mag-develop"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
+      "title": "Mga Policymakers",
+      "subtitle": "Unawain ang policy value ng standardized interoperability",
       "item1": "International adoption case studies",
       "item2": "Policy framework white papers",
       "item3": "Economic impact assessment reports",
       "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "cta": "I-download ang White Paper"
     },
     "resources": {
       "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "subtitle": "I-access ang mga pinakabagong research reports, technical docs, at policy white papers"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "Mag-subscribe sa Aming Newsletter",
+      "subtitle": "Manatiling updated sa APAC SMART on FHIR news, events, at resource updates",
+      "placeholder": "Ilagay ang iyong email address",
+      "button": "Mag-subscribe",
+      "privacy": "Nirerespeto namin ang iyong privacy. Maaaring mag-unsubscribe anumang oras."
     }
   }
 }

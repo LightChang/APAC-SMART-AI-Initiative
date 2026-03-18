@@ -1,59 +1,59 @@
 {
   "apac": {
-    "pageTitle": "APAC Opportunity",
-    "pageDescription": "Discover the SMART on FHIR market opportunity in Asia-Pacific",
-    "heroTitle": "Asia-Pacific: The New Frontier of Digital Health",
-    "heroSubtitle": "Home to 60% of the world's population, Asia-Pacific is at a critical inflection point for health interoperability",
+    "pageTitle": "APAC Боломж",
+    "pageDescription": "Ази-Номхон далайн SMART on FHIR зах зээлийн боломжийг олж мэдэх",
+    "heroTitle": "Ази-Номхон Далай: Дижитал Эрүүл Мэндийн Шинэ Хил",
+    "heroSubtitle": "Дэлхийн хүн амын 60%-ийн нутаг болохын хувьд Ази-Номхон далай нь эрүүл мэндийн харилцан ажиллагааны чухал эргэлтийн цэгт байна",
     "painPoints": {
-      "title": "Three Core Challenges",
-      "subtitle": "Structural challenges facing APAC healthcare systems"
+      "title": "Гурван Үндсэн Сорилт",
+      "subtitle": "APAC эрүүл мэндийн системүүдийн тулгарч буй бүтцийн сорилтууд"
     },
     "pain1": {
-      "title": "Data Fragmentation",
-      "description": "Over 90% of APAC healthcare facilities use incompatible information systems. When patients visit different hospitals, records cannot be shared automatically — leading to duplicate tests, lost information, and medical errors."
+      "title": "Өгөгдлийн Задаргаа",
+      "description": "APAC-ийн эрүүл мэндийн байгууллагуудын 90 гаруй хувь нь нийцдэггүй мэдээллийн системүүд ашигладаг. Өвчтөнүүд өөр өөр эмнэлэгт очиход бүртгэлийг автоматаар хуваалцах боломжгүй — давхардсан шинжилгээ, алдагдсан мэдээлэл, анагаах ухааны алдаа гарахад хүргэдэг."
     },
     "pain2": {
-      "title": "Aging Population",
-      "description": "By 2050, APAC's 65+ population will exceed 1.3 billion — double the current figure. Chronic disease management and long-term care demand seamless cross-institutional data flow."
+      "title": "Хүн Амын Хөгшрөлт",
+      "description": "2050 он гэхэд APAC-ийн 65+ насны хүн ам 1.3 тэрбумаас давна — одоогийн тооноос хоёр дахин их. Архаг өвчний менежмент, урт хугацааны асаргаа нь байгууллага хоорондын саадгүй өгөгдлийн урсгалыг шаарддаг."
     },
     "pain3": {
-      "title": "Rising Healthcare Costs",
-      "description": "APAC healthcare spending grows 7-10% annually, far exceeding GDP growth. Redundant system builds and manual data integration waste billions of dollars each year."
+      "title": "Эрүүл Мэндийн Зардал Нэмэгдэж Байна",
+      "description": "APAC-ийн эрүүл мэндийн зардал жил бүр 7-10% өсч байгаа нь ДНБ-ий өсөлтөөс хамаагүй давсан. Давхардсан системийн бүтээн байгуулалт, гараар өгөгдөл нэгтгэх нь жил бүр тэрбум долларуудыг дэмий зарцуулдаг."
     },
     "market": {
-      "title": "Market Data",
-      "subtitle": "The APAC SMART on FHIR market is growing rapidly",
-      "size": "APAC FHIR Market Size",
+      "title": "Зах Зээлийн Өгөгдөл",
+      "subtitle": "APAC SMART on FHIR зах зээл хурдацтай өсч байна",
+      "size": "APAC FHIR Зах Зээлийн Хэмжээ",
       "sizeValue": "$7.8B",
-      "sizeYear": "2025 Estimate",
-      "cagr": "Annual Growth Rate",
+      "sizeYear": "2025 оны тооцоо",
+      "cagr": "Жилийн Өсөлтийн Хувь",
       "cagrValue": "27%",
       "cagrPeriod": "2023-2030",
-      "adoption": "FHIR Adoption Rate",
+      "adoption": "FHIR Нэвтрэлтийн Түвшин",
       "adoptionValue": "45%",
-      "adoptionDesc": "Major APAC Hospitals"
+      "adoptionDesc": "APAC-ийн Томоохон Эмнэлгүүд"
     },
     "map": {
-      "title": "APAC Adoption Status",
-      "subtitle": "SMART on FHIR deployment progress across countries and regions",
-      "statusAdvanced": "Advanced Adoption",
-      "statusGrowing": "Rapid Growth",
-      "statusEmerging": "Early Exploration"
+      "title": "APAC Нэвтрэлтийн Байдал",
+      "subtitle": "Улс, бүс нутгуудад SMART on FHIR-ийн нэвтрэлтийн явц",
+      "statusAdvanced": "Дэвшилтэт Нэвтрэлт",
+      "statusGrowing": "Хурдан Өсөлт",
+      "statusEmerging": "Эхний Шатны Судалгаа"
     },
     "caseStudy": {
-      "title": "Case Spotlight: AI Medical Imaging in Timor-Leste",
-      "subtitle": "Bringing AI-powered diagnostics to underserved regions through open standards",
-      "description": "In Timor-Leste, where medical resources are scarce, we have deployed AI-assisted medical imaging diagnostic services to elevate local diagnostic capabilities. By integrating our dual-standard data architecture (FHIR + GB/T), patient data generated locally can seamlessly connect with healthcare systems across borders — enabling efficient cross-country referrals and follow-up care.",
-      "stat1Label": "Diagnostic Accuracy",
-      "stat1Value": "AI-Powered",
-      "stat2Label": "Data Standard",
+      "title": "Кейс Судалгаа: Тимор-Лестед AI Эмнэлгийн Дүрс Оношилгоо",
+      "subtitle": "Нээлттэй стандартаар дамжуулан хөгжиж буй бүс нутагт AI-д суурилсан оношилгоо авчрах",
+      "description": "Анагаах ухааны нөөц хомс Тимор-Лестед бид AI-тусламжтай эмнэлгийн дүрс оношилгооны үйлчилгээг нэвтрүүлж, орон нутгийн оношилгооны чадварыг дээшлүүлсэн. Манай давхар стандартын өгөгдлийн архитектурыг (FHIR + GB/T) нэгтгэснээр орон нутагт үүссэн өвчтөний өгөгдөл хил дамнасан эрүүл мэндийн системүүдтэй саадгүй холбогдох боломжтой болж — улс хоорондын үр дүнтэй илгээлт, дараа дагаварын асаргааг боломжтой болгосон.",
+      "stat1Label": "Оношилгооны Нарийвчлал",
+      "stat1Value": "AI-Хүчирхэг",
+      "stat2Label": "Өгөгдлийн Стандарт",
       "stat2Value": "FHIR + GB/T",
-      "stat3Label": "Cross-Border",
-      "stat3Value": "Enabled"
+      "stat3Label": "Хил Дамнасан",
+      "stat3Value": "Идэвхжсэн"
     },
     "countries": {
-      "title": "Country Spotlight",
-      "subtitle": "Explore FHIR adoption progress and unique strengths across APAC"
+      "title": "Улс Орнуудын Тойм",
+      "subtitle": "APAC даяар FHIR нэвтрэлтийн явц болон өвөрмөц давуу талуудыг судлах"
     }
   }
 }

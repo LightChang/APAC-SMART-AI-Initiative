@@ -6,7 +6,7 @@
     "heroSubtitle": "The global open standard for health data interoperability",
     "whatIsFhir": {
       "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardised way."
     },
     "whatIsSmart": {
       "title": "What Does SMART Add?",
@@ -30,7 +30,7 @@
     },
     "ecosystem": {
       "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
+      "subtitle": "SMART on FHIR is supported and adopted by leading organisations worldwide",
       "standards": "Standards Bodies",
       "government": "Government",
       "vendors": "EHR Vendors",

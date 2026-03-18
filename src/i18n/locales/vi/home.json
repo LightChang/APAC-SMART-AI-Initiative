@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "Định hình lại Y tế Châu Á - Thái Bình Dương với Tiêu chuẩn Mở",
+    "subtitle": "Sáng kiến Y tế Chính xác APAC thúc đẩy việc áp dụng SMART on FHIR trên toàn khu vực — cho phép liên thông dữ liệu y tế an toàn và đổi mới y học chính xác.",
+    "cta1": "Khám phá SMART on FHIR",
+    "cta2": "Tham gia sáng kiến"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
+    "title": "Cơ hội tăng trưởng Y tế số tại APAC",
+    "subtitle": "Châu Á - Thái Bình Dương là khu vực có tốc độ áp dụng SMART on FHIR nhanh nhất thế giới",
+    "hospitals": "Bệnh viện đối tác",
     "hospitalsValue": "500+",
-    "market": "Market Size",
-    "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
+    "market": "Quy mô thị trường",
+    "marketValue": "7,8 tỷ USD",
+    "growth": "Tốc độ tăng trưởng hàng năm",
     "growthValue": "27%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "SMART on FHIR là gì?",
+    "description": "SMART on FHIR là nền tảng tiêu chuẩn mở được phát triển bởi Chương trình Tin học Y tế Tính toán (CHIP) của Bệnh viện Nhi Boston. Nền tảng này cho phép các ứng dụng bên thứ ba đọc và ghi hồ sơ sức khỏe điện tử một cách an toàn — giống như một kho ứng dụng cho ngành y tế, nơi bất kỳ nhà phát triển nào cũng có thể xây dựng ứng dụng y tế chạy trên bất kỳ hệ thống hỗ trợ FHIR nào.",
+    "link": "Tìm hiểu thêm về SMART on FHIR →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "Tại sao là Châu Á - Thái Bình Dương?",
+    "subtitle": "Nơi sinh sống của 60% dân số thế giới, Châu Á - Thái Bình Dương đang đối mặt với những thách thức nghiêm trọng — dữ liệu y tế phân mảnh, dân số già hóa và chi phí gia tăng. SMART on FHIR mang đến giải pháp thống nhất và mở.",
+    "pain1Title": "Dữ liệu phân mảnh",
+    "pain1Desc": "90% cơ sở y tế APAC sử dụng các hệ thống không tương thích. Dữ liệu riêng lẻ cản trở nghiêm trọng việc chăm sóc phối hợp.",
+    "pain2Title": "Dân số già hóa",
+    "pain2Desc": "Đến năm 2050, dân số trên 65 tuổi tại APAC sẽ tăng gấp đôi. Quản lý bệnh mạn tính đòi hỏi cơ sở hạ tầng số liên kết.",
+    "pain3Title": "Áp lực chi phí",
+    "pain3Desc": "Liên thông theo tiêu chuẩn có thể tiết kiệm hàng triệu USD mỗi năm cho mỗi bệnh viện trong chi phí tích hợp và bảo trì.",
+    "link": "Khám phá cơ hội tại APAC →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "Đối tác hệ sinh thái toàn cầu",
+    "subtitle": "Cùng xây dựng với các tổ chức tiêu chuẩn y tế hàng đầu, công ty công nghệ và cơ quan chính phủ"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
-    "name": "Yongjun Zhao",
-    "title": "Founder"
+    "quote": "Kết nối nguồn lực y tế của Trung Quốc với thế giới thông qua đổi mới công nghệ — thực sự hoàn thành sứ mệnh 'Y tế không biên giới'.",
+    "name": "Triệu Vĩnh Quân",
+    "title": "Nhà sáng lập"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "Sẵn sàng tham gia cuộc cách mạng Y tế số tại Châu Á - Thái Bình Dương?",
+    "subtitle": "Dù bạn là cơ sở y tế, nhà phát triển hay nhà hoạch định chính sách — đều có con đường dành cho bạn.",
+    "button": "Tham gia ngay"
   }
 }

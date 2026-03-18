@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "私たちについて",
+    "pageDescription": "アジア太平洋プレシジョンヘルス・イニシアチブのミッション、ビジョン、チームについて",
+    "heroTitle": "アジア太平洋プレシジョンヘルス・イニシアチブについて",
+    "heroSubtitle": "アジア太平洋をつなぎ、オープンで相互運用可能な、患者中心のデジタルヘルス・エコシステムを構築する",
     "founder": {
-      "sectionTitle": "Message from the Founder",
-      "name": "Yongjun Zhao",
-      "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "sectionTitle": "創設者メッセージ",
+      "name": "趙勇軍",
+      "title": "創設者",
+      "quote": "技術革新を通じて中国の医療リソースと世界をつなぐ——「医療に国境なし」というミッションを真に実現します。",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "技術基盤とイノベーション",
+        "text": "イノベーションを核心的な推進力とするAI医療テクノロジー企業として、私たちは2つの重要な領域——医薬品研究開発と医用画像——において長年の深い取り組みを通じて、確かな技術力を蓄積してまいりました。医薬品分野では、豊富な医薬品中間体の蓄積と独自の研究開発による技術的ブレークスルーを有しています。2026年には、コア知的財産を保護するため国家特許出願を体系的に開始するとともに、既存化合物の新たな適応症・用途を発見する「ドラッグ・リポジショニング」研究を推進しています。医用画像分野では、自社開発のAI支援診断ソフトウェアが高精度でインテリジェントな画像解析を提供し、2026年にNMPA認証を取得予定で、規制に準拠した臨床展開を確保しています。"
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "戦略的パートナーシップと事業化",
+        "text": "私たちは国内連携と国際協力の二軸戦略を推進しています。国内では、中国通用技術集団のクラウド医用画像プラットフォームとの統合を進め、国機集団・国薬集団と連携してデジタル医薬品卸売・小売プラットフォームを構築し、医薬品流通のインテリジェント化・精緻化管理を推進しています。国際的には、シーメンスなどのグローバル医療リーダー企業とのパートナーシップを積極的に推進し、グローバル市場でのプレゼンスを継続的に拡大しています。"
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "海外展開とデュアル標準データアーキテクチャ",
+        "text": "海外市場において、私たちは東ティモールなど医療資源の乏しい地域でAI支援医用画像診断サービスの展開を先駆けて行い、国際標準（FHIR）と中国国家標準（GB/T）の互換性を確保する「FHIR + GB/T」デュアル標準データアーキテクチャを革新的に導入しました。このアーキテクチャは現地の診断能力を向上させるだけでなく、越境医療データ交換の架け橋を構築し、国を越えたシームレスな患者紹介を可能にしています。"
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "私たちのミッション",
+        "text": "越境医療へのグローバルな需要が高まり続ける中、私たちはデュアル標準データアーキテクチャをコア競争力として確立し、中国の医療リソースと世界をつなぐハブとして自らを位置づけ、「医療に国境なし」というミッションを真に実現していきます。"
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "ミッションとビジョン",
+      "mission": "アジア太平洋全域でSMART on FHIRオープン医療標準の普及を推進し、データサイロを打破してプレシジョンメディシンのイノベーションを加速します。",
+      "vision": "2030年までに、アジア太平洋のすべての患者がシームレスな医療データ相互運用の恩恵を受け、より精密で効率的かつ公平な医療を享受できる世界を目指します。"
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
-      "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
-      "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "title": "コアバリュー",
+      "value1Title": "オープン標準",
+      "value1Desc": "オープンで透明な技術標準を堅持。データロックインなし。業界の公正な競争を促進。",
+      "value2Title": "地域間連携",
+      "value2Desc": "越境連携プラットフォームを構築し、ベストプラクティスを共有し、アジア太平洋の医療課題に共に取り組みます。",
+      "value3Title": "患者中心",
+      "value3Desc": "すべての技術的意思決定は、患者体験と健康アウトカムの向上という究極の目標に導かれます。"
     }
   }
 }

@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "참여 안내",
+    "pageDescription": "아시아태평양 디지털 헬스케어 혁신에 참여하는 방법 찾기",
+    "heroTitle": "나만의 참여 방법 찾기",
+    "heroSubtitle": "어떤 역할이든 아시아태평양 디지털 헬스케어 생태계에 여러분의 자리가 있습니다",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "3가지 참여 방법",
+      "subtitle": "가장 적합한 시작 방법을 선택하세요"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
-      "item1": "SMART on FHIR readiness assessment tool",
-      "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
-      "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "title": "의료기관",
+      "subtitle": "도입 준비 상태를 평가하고 도입 계획을 수립",
+      "item1": "SMART on FHIR 준비도 평가 도구",
+      "item2": "단계별 구현 로드맵",
+      "item3": "성공 사례 및 모범 사례",
+      "item4": "전문가 컨설팅 서비스",
+      "cta": "구현 가이드 받기"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
-      "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "title": "개발자",
+      "subtitle": "개발 시작에 필요한 도구와 리소스 확보",
+      "item1": "FHIR API 빠른 시작 튜토리얼",
+      "item2": "무료 샌드박스 테스트 환경",
+      "item3": "오픈소스 프로젝트 및 코드 샘플",
+      "item4": "개발자 커뮤니티 및 포럼",
+      "cta": "개발 시작하기"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
-      "item1": "International adoption case studies",
-      "item2": "Policy framework white papers",
-      "item3": "Economic impact assessment reports",
-      "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "title": "정책입안자",
+      "subtitle": "표준화된 상호운용성의 정책적 가치 이해",
+      "item1": "국제 도입 사례 연구",
+      "item2": "정책 프레임워크 백서",
+      "item3": "경제적 영향 평가 보고서",
+      "item4": "국경 간 협력 기회",
+      "cta": "백서 다운로드"
     },
     "resources": {
-      "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "title": "리소스 다운로드",
+      "subtitle": "최신 연구 보고서, 기술 문서, 정책 백서에 접근"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "뉴스레터 구독",
+      "subtitle": "아시아태평양 SMART on FHIR 최신 뉴스, 이벤트, 리소스 업데이트를 받아보세요",
+      "placeholder": "이메일 주소 입력",
+      "button": "구독하기",
+      "privacy": "개인정보를 존중합니다. 언제든지 구독을 해지할 수 있습니다."
     }
   }
 }

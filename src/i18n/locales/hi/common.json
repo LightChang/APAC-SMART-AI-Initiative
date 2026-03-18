@@ -1,42 +1,42 @@
 {
   "site": {
-    "title": "APAC Precision Health Initiative",
-    "description": "Advancing SMART on FHIR open healthcare standards across the Asia-Pacific region",
-    "tagline": "Open Standards · Connected Health · Asia-Pacific Future"
+    "title": "APAC प्रिसिजन हेल्थ इनिशिएटिव",
+    "description": "एशिया-प्रशांत क्षेत्र में SMART on FHIR ओपन हेल्थकेयर मानकों को बढ़ावा देना",
+    "tagline": "खुले मानक · जुड़ी स्वास्थ्य सेवाएं · एशिया-प्रशांत का भविष्य"
   },
   "nav": {
-    "home": "Home",
+    "home": "होम",
     "smart": "SMART on FHIR",
-    "apps": "App Gallery",
-    "apac": "APAC Opportunity",
-    "involve": "Get Involved",
-    "about": "About",
-    "contact": "Contact"
+    "apps": "ऐप गैलरी",
+    "apac": "APAC अवसर",
+    "involve": "जुड़ें",
+    "about": "हमारे बारे में",
+    "contact": "संपर्क करें"
   },
   "footer": {
-    "description": "The APAC Precision Health Initiative promotes SMART on FHIR open healthcare standards across Asia-Pacific, connecting healthcare institutions, developers, and policymakers to build an interoperable digital health ecosystem.",
-    "quickLinks": "Quick Links",
-    "resources": "Resources",
-    "resourceDoc": "Developer Docs",
-    "resourceFhir": "FHIR Specification",
-    "resourceSandbox": "Sandbox",
+    "description": "APAC प्रिसिजन हेल्थ इनिशिएटिव एशिया-प्रशांत में SMART on FHIR ओपन हेल्थकेयर मानकों को बढ़ावा देता है, स्वास्थ्य संस्थानों, डेवलपर्स और नीति निर्माताओं को जोड़कर एक इंटरऑपरेबल डिजिटल स्वास्थ्य इकोसिस्टम का निर्माण करता है।",
+    "quickLinks": "त्वरित लिंक",
+    "resources": "संसाधन",
+    "resourceDoc": "डेवलपर दस्तावेज़",
+    "resourceFhir": "FHIR विनिर्देश",
+    "resourceSandbox": "सैंडबॉक्स",
     "resourceGithub": "GitHub",
-    "connect": "Connect",
-    "newsletter": "Newsletter",
-    "emailPlaceholder": "Enter your email",
-    "subscribe": "Subscribe",
-    "copyright": "© 2026 APAC Precision Health Initiative. All rights reserved."
+    "connect": "जुड़ें",
+    "newsletter": "न्यूज़लेटर",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें",
+    "subscribe": "सब्सक्राइब करें",
+    "copyright": "© 2026 APAC प्रिसिजन हेल्थ इनिशिएटिव। सर्वाधिकार सुरक्षित।"
   },
   "cta": {
-    "learnMore": "Learn More",
-    "getStarted": "Get Started",
-    "contactUs": "Contact Us",
-    "readMore": "Read More",
-    "download": "Download",
-    "viewAll": "View All"
+    "learnMore": "और जानें",
+    "getStarted": "शुरू करें",
+    "contactUs": "संपर्क करें",
+    "readMore": "और पढ़ें",
+    "download": "डाउनलोड करें",
+    "viewAll": "सभी देखें"
   },
   "lang": {
-    "switch": "Switch Language",
-    "current": "English"
+    "switch": "भाषा बदलें",
+    "current": "हिन्दी"
   }
 }

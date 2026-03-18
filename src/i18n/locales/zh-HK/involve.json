@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "參與我們",
+    "pageDescription": "尋找您參與亞太數碼健康轉型的途徑",
+    "heroTitle": "尋找您的途徑",
+    "heroSubtitle": "無論您的角色是甚麼，在亞太數碼健康生態系統中都有您的位置",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "三種參與途徑",
+      "subtitle": "選擇最適合您的起步方式"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
-      "item1": "SMART on FHIR readiness assessment tool",
-      "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
-      "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "title": "醫療機構",
+      "subtitle": "評估準備度並規劃採用路線圖",
+      "item1": "SMART on FHIR 準備度評估工具",
+      "item2": "分階段導入藍圖",
+      "item3": "成功案例與最佳實踐",
+      "item4": "專家諮詢服務",
+      "cta": "取得導入指南"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
-      "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "title": "開發者",
+      "subtitle": "取得開始開發所需的工具與資源",
+      "item1": "FHIR API 快速入門教學",
+      "item2": "免費沙盒測試環境",
+      "item3": "開源項目與程式碼範例",
+      "item4": "開發者社群與論壇",
+      "cta": "開始開發"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
-      "item1": "International adoption case studies",
-      "item2": "Policy framework white papers",
-      "item3": "Economic impact assessment reports",
-      "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "title": "政策制定者",
+      "subtitle": "了解標準化互通性的政策價值",
+      "item1": "國際採用案例研究",
+      "item2": "政策框架白皮書",
+      "item3": "經濟影響評估報告",
+      "item4": "跨境合作機會",
+      "cta": "下載白皮書"
     },
     "resources": {
-      "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "title": "資源下載",
+      "subtitle": "取得最新的研究報告、技術文檔與政策白皮書"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "訂閱電子通訊",
+      "subtitle": "掌握亞太 SMART on FHIR 最新消息、活動與資源更新",
+      "placeholder": "輸入您的電郵地址",
+      "button": "訂閱",
+      "privacy": "我們尊重您的私隱。您可以隨時取消訂閱。"
     }
   }
 }

@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "ပါဝင်ရန်",
+    "pageDescription": "APAC ဒီဂျစ်တယ်ကျန်းမာရေး အသွင်ကူးပြောင်းမှုတွင် ပါဝင်ရန် သင့်လမ်းကြောင်းကို ရှာဖွေပါ",
+    "heroTitle": "သင့်လမ်းကြောင်းကို ရှာဖွေပါ",
+    "heroSubtitle": "သင့်အခန်းကဏ္ဍ မည်သို့ပင်ဖြစ်စေ APAC ဒီဂျစ်တယ်ကျန်းမာရေး ecosystem တွင် သင့်အတွက် နေရာရှိသည်",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "ပါဝင်ရန် လမ်းကြောင်းသုံးသွယ်",
+      "subtitle": "စတင်ရန် အကောင်းဆုံးနည်းလမ်းကို ရွေးချယ်ပါ"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
-      "item1": "SMART on FHIR readiness assessment tool",
-      "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
-      "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "title": "ကျန်းမာရေးအဖွဲ့အစည်းများ",
+      "subtitle": "အဆင်သင့်ဖြစ်မှုကို အကဲဖြတ်ပြီး သင့်အသုံးပြုမှုခရီးကို စီစဉ်ပါ",
+      "item1": "SMART on FHIR အဆင်သင့်ဖြစ်မှု အကဲဖြတ်ရေးကိရိယာ",
+      "item2": "အဆင့်ဆင့်အကောင်အထည်ဖော်ရေး လမ်းပြမြေပုံ",
+      "item3": "အောင်မြင်မှုဇာတ်လမ်းများနှင့် အကောင်းဆုံးအလေ့အကျင့်များ",
+      "item4": "ကျွမ်းကျင်သူတိုင်ပင်ဆွေးနွေးရေးဝန်ဆောင်မှုများ",
+      "cta": "အကောင်အထည်ဖော်ရေးလမ်းညွှန် ရယူရန်"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
-      "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "title": "Developer များ",
+      "subtitle": "တည်ဆောက်ရန် စတင်ရန် ကိရိယာများနှင့် အရင်းအမြစ်များ ရယူပါ",
+      "item1": "FHIR API အမြန်စတင်သင်ခန်းစာများ",
+      "item2": "အခမဲ့ sandbox စမ်းသပ်ပတ်ဝန်းကျင်",
+      "item3": "Open-source ပရောဂျက်များနှင့် ကုဒ်နမူနာများ",
+      "item4": "Developer အသိုင်းအဝိုင်းနှင့် ဖိုရမ်များ",
+      "cta": "Develop စတင်ရန်"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
-      "item1": "International adoption case studies",
-      "item2": "Policy framework white papers",
-      "item3": "Economic impact assessment reports",
-      "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "title": "မူဝါဒရေးဆွဲသူများ",
+      "subtitle": "စံနှုန်းချမှတ်ထားသော အပြန်အလှန်လုပ်ဆောင်နိုင်မှု၏ မူဝါဒတန်ဖိုးကို နားလည်ပါ",
+      "item1": "နိုင်ငံတကာအသုံးပြုမှု ဖြစ်ရပ်လေ့လာမှုများ",
+      "item2": "မူဝါဒမူဘောင် အဖြူရောင်စာတမ်းများ",
+      "item3": "စီးပွားရေးအကျိုးသက်ရောက်မှု အကဲဖြတ်အစီရင်ခံစာများ",
+      "item4": "နယ်စပ်ဖြတ်ကျော်ပူးပေါင်းဆောင်ရွက်မှု အခွင့်အလမ်းများ",
+      "cta": "အဖြူရောင်စာတမ်း ဒေါင်းလုဒ်ရန်"
     },
     "resources": {
-      "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "title": "အရင်းအမြစ်ဒေါင်းလုဒ်များ",
+      "subtitle": "နောက်ဆုံးပေါ်သုတေသနအစီရင်ခံစာများ၊ နည်းပညာစာရွက်စာတမ်းများနှင့် မူဝါဒအဖြူရောင်စာတမ်းများကို ရယူပါ"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "ကျွန်ုပ်တို့၏ သတင်းလွှာကို စာရင်းသွင်းပါ",
+      "subtitle": "APAC SMART on FHIR သတင်းများ၊ ပွဲများနှင့် အရင်းအမြစ်အပ်ဒိတ်များနှင့် နောက်ဆုံးရအခြေအနေကို ရယူပါ",
+      "placeholder": "သင့်အီးမေးလ်လိပ်စာ ထည့်ပါ",
+      "button": "စာရင်းသွင်းရန်",
+      "privacy": "ကျွန်ုပ်တို့သည် သင့်ကိုယ်ရေးကိုယ်တာကို လေးစားသည်။ အချိန်မရွေး စာရင်းပယ်ဖျက်နိုင်သည်။"
     }
   }
 }

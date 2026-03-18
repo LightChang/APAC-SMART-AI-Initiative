@@ -1,42 +1,42 @@
 {
   "site": {
     "title": "APAC Precision Health Initiative",
-    "description": "Advancing SMART on FHIR open healthcare standards across the Asia-Pacific region",
-    "tagline": "Open Standards · Connected Health · Asia-Pacific Future"
+    "description": "ส่งเสริมมาตรฐานเปิด SMART on FHIR เพื่อการแพทย์ดิจิทัลทั่วภูมิภาคเอเชียแปซิฟิก",
+    "tagline": "มาตรฐานเปิด · สุขภาพเชื่อมต่อ · อนาคตเอเชียแปซิฟิก"
   },
   "nav": {
-    "home": "Home",
+    "home": "หน้าหลัก",
     "smart": "SMART on FHIR",
-    "apps": "App Gallery",
-    "apac": "APAC Opportunity",
-    "involve": "Get Involved",
-    "about": "About",
-    "contact": "Contact"
+    "apps": "แกลเลอรีแอปพลิเคชัน",
+    "apac": "โอกาสในเอเชียแปซิฟิก",
+    "involve": "ร่วมเป็นส่วนหนึ่ง",
+    "about": "เกี่ยวกับเรา",
+    "contact": "ติดต่อเรา"
   },
   "footer": {
-    "description": "The APAC Precision Health Initiative promotes SMART on FHIR open healthcare standards across Asia-Pacific, connecting healthcare institutions, developers, and policymakers to build an interoperable digital health ecosystem.",
-    "quickLinks": "Quick Links",
-    "resources": "Resources",
-    "resourceDoc": "Developer Docs",
-    "resourceFhir": "FHIR Specification",
-    "resourceSandbox": "Sandbox",
+    "description": "APAC Precision Health Initiative ส่งเสริมมาตรฐานเปิด SMART on FHIR ในภูมิภาคเอเชียแปซิฟิก เชื่อมต่อสถานพยาบาล นักพัฒนา และผู้กำหนดนโยบาย เพื่อสร้างระบบนิเวศสุขภาพดิจิทัลที่เชื่อมต่อกันได้",
+    "quickLinks": "ลิงก์ด่วน",
+    "resources": "แหล่งข้อมูล",
+    "resourceDoc": "เอกสารสำหรับนักพัฒนา",
+    "resourceFhir": "ข้อกำหนด FHIR",
+    "resourceSandbox": "สภาพแวดล้อมทดสอบ",
     "resourceGithub": "GitHub",
-    "connect": "Connect",
-    "newsletter": "Newsletter",
-    "emailPlaceholder": "Enter your email",
-    "subscribe": "Subscribe",
-    "copyright": "© 2026 APAC Precision Health Initiative. All rights reserved."
+    "connect": "ติดตาม",
+    "newsletter": "จดหมายข่าว",
+    "emailPlaceholder": "กรอกอีเมลของคุณ",
+    "subscribe": "สมัครรับข่าวสาร",
+    "copyright": "© 2026 APAC Precision Health Initiative สงวนลิขสิทธิ์"
   },
   "cta": {
-    "learnMore": "Learn More",
-    "getStarted": "Get Started",
-    "contactUs": "Contact Us",
-    "readMore": "Read More",
-    "download": "Download",
-    "viewAll": "View All"
+    "learnMore": "เรียนรู้เพิ่มเติม",
+    "getStarted": "เริ่มต้นใช้งาน",
+    "contactUs": "ติดต่อเรา",
+    "readMore": "อ่านเพิ่มเติม",
+    "download": "ดาวน์โหลด",
+    "viewAll": "ดูทั้งหมด"
   },
   "lang": {
-    "switch": "Switch Language",
-    "current": "English"
+    "switch": "เปลี่ยนภาษา",
+    "current": "ภาษาไทย"
   }
 }

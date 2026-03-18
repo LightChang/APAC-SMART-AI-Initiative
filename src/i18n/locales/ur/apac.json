@@ -1,59 +1,59 @@
 {
   "apac": {
-    "pageTitle": "APAC Opportunity",
-    "pageDescription": "Discover the SMART on FHIR market opportunity in Asia-Pacific",
-    "heroTitle": "Asia-Pacific: The New Frontier of Digital Health",
-    "heroSubtitle": "Home to 60% of the world's population, Asia-Pacific is at a critical inflection point for health interoperability",
+    "pageTitle": "ایپیک موقع",
+    "pageDescription": "ایشیا پیسیفک میں SMART on FHIR مارکیٹ کا موقع دریافت کریں",
+    "heroTitle": "ایشیا پیسیفک: ڈیجیٹل ہیلتھ کی نئی سرحد",
+    "heroSubtitle": "دنیا کی ۶۰٪ آبادی کا گھر، ایشیا پیسیفک صحت انٹرآپریبلٹی کے لیے ایک اہم موڑ پر ہے",
     "painPoints": {
-      "title": "Three Core Challenges",
-      "subtitle": "Structural challenges facing APAC healthcare systems"
+      "title": "تین بنیادی چیلنجز",
+      "subtitle": "ایپیک صحت کے نظاموں کو درپیش ساختی چیلنجز"
     },
     "pain1": {
-      "title": "Data Fragmentation",
-      "description": "Over 90% of APAC healthcare facilities use incompatible information systems. When patients visit different hospitals, records cannot be shared automatically — leading to duplicate tests, lost information, and medical errors."
+      "title": "ڈیٹا کی تقسیم",
+      "description": "ایپیک کی ۹۰٪ سے زیادہ صحت کی سہولیات غیر مطابقت پذیر معلوماتی نظام استعمال کرتی ہیں۔ جب مریض مختلف ہسپتالوں کا دورہ کرتے ہیں، ریکارڈز خود بخود شیئر نہیں ہو سکتے — جس سے دہرائے گئے ٹیسٹ، کھوئی ہوئی معلومات، اور طبی غلطیاں ہوتی ہیں۔"
     },
     "pain2": {
-      "title": "Aging Population",
-      "description": "By 2050, APAC's 65+ population will exceed 1.3 billion — double the current figure. Chronic disease management and long-term care demand seamless cross-institutional data flow."
+      "title": "بڑھتی عمر کی آبادی",
+      "description": "۲۰۵۰ تک، ایپیک کی ۶۵+ آبادی ۱.۳ ارب سے تجاوز کر جائے گی — موجودہ تعداد سے دوگنی۔ دائمی بیماریوں کے انتظام اور طویل مدتی دیکھ بھال کے لیے اداروں میں بغیر رکاوٹ ڈیٹا کے بہاؤ کی ضرورت ہے۔"
     },
     "pain3": {
-      "title": "Rising Healthcare Costs",
-      "description": "APAC healthcare spending grows 7-10% annually, far exceeding GDP growth. Redundant system builds and manual data integration waste billions of dollars each year."
+      "title": "بڑھتے صحت کے اخراجات",
+      "description": "ایپیک صحت کے اخراجات سالانہ ۷-۱۰٪ بڑھتے ہیں، GDP کی ترقی سے کہیں زیادہ۔ فاضل نظام کی تعمیر اور دستی ڈیٹا انٹیگریشن ہر سال اربوں روپے ضائع کرتے ہیں۔"
     },
     "market": {
-      "title": "Market Data",
-      "subtitle": "The APAC SMART on FHIR market is growing rapidly",
-      "size": "APAC FHIR Market Size",
-      "sizeValue": "$7.8B",
-      "sizeYear": "2025 Estimate",
-      "cagr": "Annual Growth Rate",
-      "cagrValue": "27%",
-      "cagrPeriod": "2023-2030",
-      "adoption": "FHIR Adoption Rate",
-      "adoptionValue": "45%",
-      "adoptionDesc": "Major APAC Hospitals"
+      "title": "مارکیٹ ڈیٹا",
+      "subtitle": "ایپیک SMART on FHIR مارکیٹ تیزی سے بڑھ رہی ہے",
+      "size": "ایپیک FHIR مارکیٹ سائز",
+      "sizeValue": "$۷.۸B",
+      "sizeYear": "۲۰۲۵ تخمینہ",
+      "cagr": "سالانہ ترقی کی شرح",
+      "cagrValue": "۲۷٪",
+      "cagrPeriod": "۲۰۲۳-۲۰۳۰",
+      "adoption": "FHIR اپنانے کی شرح",
+      "adoptionValue": "۴۵٪",
+      "adoptionDesc": "ایپیک کے بڑے ہسپتال"
     },
     "map": {
-      "title": "APAC Adoption Status",
-      "subtitle": "SMART on FHIR deployment progress across countries and regions",
-      "statusAdvanced": "Advanced Adoption",
-      "statusGrowing": "Rapid Growth",
-      "statusEmerging": "Early Exploration"
+      "title": "ایپیک اپنانے کی صورتحال",
+      "subtitle": "ممالک اور خطوں میں SMART on FHIR تعیناتی کی پیش رفت",
+      "statusAdvanced": "ترقی یافتہ اپنانا",
+      "statusGrowing": "تیز ترقی",
+      "statusEmerging": "ابتدائی کھوج"
     },
     "caseStudy": {
-      "title": "Case Spotlight: AI Medical Imaging in Timor-Leste",
-      "subtitle": "Bringing AI-powered diagnostics to underserved regions through open standards",
-      "description": "In Timor-Leste, where medical resources are scarce, we have deployed AI-assisted medical imaging diagnostic services to elevate local diagnostic capabilities. By integrating our dual-standard data architecture (FHIR + GB/T), patient data generated locally can seamlessly connect with healthcare systems across borders — enabling efficient cross-country referrals and follow-up care.",
-      "stat1Label": "Diagnostic Accuracy",
-      "stat1Value": "AI-Powered",
-      "stat2Label": "Data Standard",
+      "title": "کیس اسپاٹ لائٹ: تیمور لیستے میں AI میڈیکل امیجنگ",
+      "subtitle": "کھلے معیارات کے ذریعے پسماندہ علاقوں میں AI سے چلنے والی تشخیص لانا",
+      "description": "تیمور لیستے میں، جہاں طبی وسائل کم ہیں، ہم نے مقامی تشخیصی صلاحیتوں کو بڑھانے کے لیے AI معاون میڈیکل امیجنگ تشخیصی خدمات تعینات کی ہیں۔ ہمارے دوہرے معیار کے ڈیٹا فن تعمیر (FHIR + GB/T) کو شامل کرکے، مقامی طور پر پیدا ہونے والا مریض ڈیٹا سرحدوں کے پار صحت کے نظاموں سے بغیر رکاوٹ جڑ سکتا ہے — موثر بین ملکی ریفرلز اور فالو اپ دیکھ بھال کو ممکن بناتا ہے۔",
+      "stat1Label": "تشخیصی درستگی",
+      "stat1Value": "AI سے چلنے والی",
+      "stat2Label": "ڈیٹا معیار",
       "stat2Value": "FHIR + GB/T",
-      "stat3Label": "Cross-Border",
-      "stat3Value": "Enabled"
+      "stat3Label": "سرحد پار",
+      "stat3Value": "فعال"
     },
     "countries": {
-      "title": "Country Spotlight",
-      "subtitle": "Explore FHIR adoption progress and unique strengths across APAC"
+      "title": "ملکی اسپاٹ لائٹ",
+      "subtitle": "پورے ایپیک میں FHIR اپنانے کی پیش رفت اور منفرد طاقتوں کو دریافت کریں"
     }
   }
 }

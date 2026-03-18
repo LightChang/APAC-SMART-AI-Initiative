@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "개방형 표준으로 아시아태평양 의료를 혁신합니다",
+    "subtitle": "아시아태평양 정밀의료 이니셔티브는 역내 SMART on FHIR 도입을 추진하여, 안전한 의료 데이터 상호운용과 정밀의료 혁신을 실현합니다.",
+    "cta1": "SMART on FHIR 알아보기",
+    "cta2": "이니셔티브 참여하기"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
+    "title": "아시아태평양 디지털 헬스케어의 성장 기회",
+    "subtitle": "아시아태평양은 전 세계에서 SMART on FHIR 도입이 가장 빠르게 성장하는 지역입니다",
+    "hospitals": "협력 의료기관",
     "hospitalsValue": "500+",
-    "market": "Market Size",
-    "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
+    "market": "시장 규모",
+    "marketValue": "78억 달러",
+    "growth": "연간 성장률",
     "growthValue": "27%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "SMART on FHIR란?",
+    "description": "SMART on FHIR는 보스턴 어린이병원 전산건강정보학 프로그램(CHIP)에서 개발한 개방형 표준 플랫폼입니다. 서드파티 앱이 전자의무기록을 안전하게 읽고 쓸 수 있게 하며, 의료용 앱스토어처럼 모든 개발자가 FHIR 지원 시스템에서 작동하는 의료 애플리케이션을 개발할 수 있습니다.",
+    "link": "SMART on FHIR 자세히 알아보기 →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "왜 아시아태평양인가?",
+    "subtitle": "전 세계 인구의 60%가 거주하는 아시아태평양은 의료 데이터 단절, 고령화, 비용 상승이라는 심각한 과제에 직면해 있습니다. SMART on FHIR는 통합되고 개방된 솔루션을 제공합니다.",
+    "pain1Title": "데이터 단절",
+    "pain1Desc": "아시아태평양 의료기관의 90%가 호환되지 않는 시스템을 사용합니다. 데이터 사일로가 협진을 심각하게 방해합니다.",
+    "pain2Title": "고령화 사회",
+    "pain2Desc": "2050년까지 아시아태평양 65세 이상 인구가 2배로 증가합니다. 만성질환 관리에는 상호연결된 디지털 인프라가 필수적입니다.",
+    "pain3Title": "비용 증가 압박",
+    "pain3Desc": "표준화된 상호운용성으로 각 병원은 연간 수백만 달러의 통합 및 유지보수 비용을 절감할 수 있습니다.",
+    "link": "APAC 기회 살펴보기 →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "글로벌 생태계 파트너",
+    "subtitle": "주요 의료 표준화 기구, 기술 기업, 정부 기관과 함께 구축"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
-    "name": "Yongjun Zhao",
-    "title": "Founder"
+    "quote": "기술 혁신을 통해 중국의 의료 자원과 세계를 연결합니다 — '국경 없는 의료'라는 미션을 진정으로 실현합니다.",
+    "name": "자오융쥔",
+    "title": "설립자"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "아시아태평양 디지털 헬스케어 혁신에 함께하시겠습니까?",
+    "subtitle": "의료기관, 개발자, 정책입안자 — 누구에게나 참여의 길이 있습니다.",
+    "button": "지금 참여하기"
   }
 }

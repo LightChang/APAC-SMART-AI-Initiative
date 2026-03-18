@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "हाम्रो बारेमा",
+    "pageDescription": "APAC प्रिसिजन हेल्थ इनिसियटिभको मिसन, भिजन र टोलीको बारेमा जान्नुहोस्",
+    "heroTitle": "APAC प्रिसिजन हेल्थ इनिसियटिभको बारेमा",
+    "heroSubtitle": "खुला, अन्तरसञ्चालनयोग्य, बिरामी-केन्द्रित डिजिटल स्वास्थ्य पारिस्थितिकी प्रणाली निर्माण गर्न एसिया-प्यासिफिकलाई जोड्दै",
     "founder": {
-      "sectionTitle": "Message from the Founder",
-      "name": "Yongjun Zhao",
-      "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "sectionTitle": "संस्थापकको सन्देश",
+      "name": "योङ्जुन झाओ",
+      "title": "संस्थापक",
+      "quote": "प्राविधिक नवीनताको माध्यमबाट चीनको चिकित्सा स्रोतहरूलाई विश्वसँग जोड्दै — साँच्चिकै 'सीमाहीन चिकित्सा' को हाम्रो मिसन पूरा गर्दै।",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "प्राविधिक आधार र नवीनता",
+        "text": "नवीनतालाई मूल चालकको रूपमा राख्ने AI चिकित्सा प्रविधि कम्पनीको रूपमा, हामीले दुई प्रमुख क्षेत्रहरूमा वर्षौंको गहिरो प्रतिबद्धताको माध्यमबाट शक्तिशाली विशेषज्ञता निर्माण गरेका छौं: औषधि अनुसन्धान र विकास तथा चिकित्सा इमेजिङ। औषधि क्षेत्रमा, हामीले व्यापक औषधि मध्यवर्ती भण्डार र स्वामित्व अनुसन्धान उपलब्धिहरू संकलन गरेका छौं। २०२६ मा, हाम्रो मूल बौद्धिक सम्पत्ति सुरक्षित गर्न हामी व्यवस्थित रूपमा राष्ट्रिय पेटेन्ट आवेदनहरू सुरु गर्दैछौं, साथै अवस्थित यौगिकहरूको नयाँ संकेतहरू र अनुप्रयोगहरू पत्ता लगाउन 'औषधि पुनर्उद्देश्य' अनुसन्धानलाई अगाडि बढाउँदैछौं। चिकित्सा इमेजिङमा, हाम्रो स्व-विकसित AI-सहायित निदान सफ्टवेयरले उच्च-परिशुद्धता, बुद्धिमान छवि विश्लेषण प्रदान गर्दछ, नियामक-अनुपालन क्लिनिकल तैनाथी सुनिश्चित गर्न २०२६ मा NMPA प्रमाणीकरण जारी छ।"
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "रणनीतिक साझेदारी र व्यवसायीकरण",
+        "text": "हामी घरेलु समन्वय र अन्तर्राष्ट्रिय सहकार्यको दोहोरो-इन्जिन रणनीति अनुसरण गर्दछौं। घरेलु रूपमा, हामी चाइना जनरल टेक्नोलोजी ग्रुपको क्लाउड-आधारित चिकित्सा इमेजिङ प्लेटफर्मसँग एकीकृत हुँदैछौं र चाइना नेशनल युनाइटेड कर्पोरेशन र सिनोफार्म ग्रुपसँग साझेदारी गर्दै डिजिटल औषधि थोक र खुद्रा प्लेटफर्म निर्माण गर्दैछौं, औषधि वितरणको बुद्धिमान, परिष्कृत व्यवस्थापनलाई अगाडि बढाउँदैछौं। अन्तर्राष्ट्रिय रूपमा, हामी सक्रिय रूपमा Siemens जस्ता विश्वव्यापी स्वास्थ्य नेताहरूसँग साझेदारी अगाडि बढाउँदैछौं, निरन्तर हाम्रो विश्वव्यापी बजार उपस्थिति विस्तार गर्दैछौं।"
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "विदेशी अभ्यास र दोहोरो-मापदण्ड डाटा वास्तुकला",
+        "text": "विदेशी बजारहरूमा, हामीले टिमोर-लेस्टे जस्ता कम सेवा प्राप्त क्षेत्रहरूमा AI-सहायित चिकित्सा इमेजिङ निदान सेवाहरू तैनाथ गर्ने अग्रगामी भूमिका खेलेका छौं, अन्तर्राष्ट्रिय मापदण्डहरू (FHIR) र चिनियाँ राष्ट्रिय मापदण्डहरू (GB/T) बीच अनुकूलता सुनिश्चित गर्ने 'FHIR + GB/T' दोहोरो-मापदण्ड डाटा वास्तुकला नवीन रूपमा परिचय गरेका छौं। यो वास्तुकलाले स्थानीय निदान क्षमताहरू मात्र नबढाएर सीमापार चिकित्सा डाटा आदानप्रदानको लागि पुल पनि निर्माण गर्दछ, देशहरू भरि निर्बाध बिरामी रेफरलहरू सक्षम गर्दै।"
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "हाम्रो मिसन",
+        "text": "सीमापार स्वास्थ्य सेवाको लागि विश्वव्यापी माग निरन्तर बढ्दै जाँदा, हामी हाम्रो दोहोरो-मापदण्ड डाटा वास्तुकलालाई मूल प्रतिस्पर्धात्मक फाइदाको रूपमा आकार दिँदैछौं — आफूलाई चीनको चिकित्सा स्रोतहरूलाई विश्वसँग जोड्ने केन्द्रबिन्दुको रूपमा राख्दै, र साँच्चिकै 'सीमाहीन चिकित्सा' को हाम्रो मिसन पूरा गर्दै।"
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "मिसन र भिजन",
+      "mission": "एसिया-प्यासिफिकभर SMART on FHIR खुला स्वास्थ्य मापदण्डहरूको व्यापक अपनाउने कार्यलाई अगाडि बढाउने, डाटा साइलोहरू भत्काउने र प्रिसिजन मेडिसिन नवीनतालाई सशक्त बनाउने।",
+      "vision": "२०३० सम्ममा, एसिया-प्यासिफिकका प्रत्येक बिरामीले निर्बाध स्वास्थ्य डाटा अन्तरसञ्चालनबाट लाभ लिनेछन् — अधिक परिशुद्ध, कुशल, र समान स्वास्थ्य सेवा प्राप्त गर्दै।"
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
-      "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
-      "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "title": "मूल मूल्यहरू",
+      "value1Title": "खुला मापदण्डहरू",
+      "value1Desc": "खुला, पारदर्शी प्रविधि मापदण्डहरूप्रति प्रतिबद्ध। कुनै डाटा लक-इन छैन। उद्योगमा निष्पक्ष प्रतिस्पर्धालाई प्रवर्द्धन गर्दै।",
+      "value2Title": "क्षेत्रीय सहकार्य",
+      "value2Desc": "उत्तम अभ्यासहरू साझा गर्न र APAC स्वास्थ्य चुनौतीहरूलाई सँगै सामना गर्न सीमापार सहकार्य मञ्चहरू निर्माण गर्दै।",
+      "value3Title": "बिरामी-केन्द्रित",
+      "value3Desc": "प्रत्येक प्राविधिक निर्णय बिरामी अनुभव र स्वास्थ्य परिणामहरू सुधार्ने अन्तिम लक्ष्यबाट निर्देशित हुन्छ।"
     }
   }
 }

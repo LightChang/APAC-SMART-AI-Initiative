@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "ပွင့်လင်းစံနှုန်းများဖြင့် အာရှ-ပစိဖိတ်ကျန်းမာရေးစောင့်ရှောက်မှုကို ပြန်လည်ပုံဖော်ခြင်း",
+    "subtitle": "APAC တိကျသောကျန်းမာရေးစီမံချက်သည် ဒေသတစ်ခုလုံးတွင် SMART on FHIR အသုံးပြုမှုကို မောင်းနှင်ပြီး — လုံခြုံသောကျန်းမာရေးဒေတာ အပြန်အလှန်လုပ်ဆောင်နိုင်မှုနှင့် တိကျသောဆေးပညာဆန်းသစ်တီထွင်မှုကို ဖြစ်နိုင်စေသည်။",
+    "cta1": "SMART on FHIR လေ့လာရန်",
+    "cta2": "စီမံချက်သို့ ပါဝင်ရန်"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
+    "title": "APAC ဒီဂျစ်တယ်ကျန်းမာရေး တိုးတက်မှုအခွင့်အလမ်း",
+    "subtitle": "အာရှ-ပစိဖိတ်သည် ကမ္ဘာတစ်ဝှမ်း SMART on FHIR အသုံးပြုမှုအတွက် အမြန်ဆုံးတိုးတက်နေသော ဒေသဖြစ်သည်",
+    "hospitals": "မိတ်ဖက်ဆေးရုံများ",
     "hospitalsValue": "500+",
-    "market": "Market Size",
+    "market": "စျေးကွက်အရွယ်အစား",
     "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
+    "growth": "နှစ်စဉ်တိုးတက်မှုနှုန်း",
     "growthValue": "27%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "SMART on FHIR ဆိုတာဘာလဲ?",
+    "description": "SMART on FHIR သည် Boston ကလေးဆေးရုံ၏ Computational Health Informatics Program (CHIP) မှ ဖန်တီးထားသော ပွင့်လင်းစံနှုန်း platform ဖြစ်သည်။ ၎င်းသည် third-party အက်ပ်များအား လျှို့ဝှက်ကျန်းမာရေးမှတ်တမ်းများကို လုံခြုံစွာဖတ်ရှုရေးသားနိုင်စေသည် — ကျန်းမာရေးအတွက် အက်ပ်စတိုးကဲ့သို့၊ developer မည်သူမဆို FHIR-enabled စနစ်များတွင် အလုပ်လုပ်သော ဆေးဘက်ဆိုင်ရာ application များကို တည်ဆောက်နိုင်သည်။",
+    "link": "SMART on FHIR အကြောင်း ပိုမိုလေ့လာရန် →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "ဘာကြောင့် အာရှ-ပစိဖိတ်လဲ?",
+    "subtitle": "ကမ္ဘာ့လူဦးရေ ၆၀% ၏အိမ်ရာအနေဖြင့် အာရှ-ပစိဖိတ်သည် အရေးကြီးသောစိန်ခေါ်မှုများနှင့် ရင်ဆိုင်နေရသည် — ပြိုကွဲနေသောကျန်းမာရေးဒေတာ၊ သက်ကြီးရွယ်အိုလူဦးရေနှင့် မြင့်တက်နေသောကုန်ကျစရိတ်များ။ SMART on FHIR သည် ပေါင်းစည်းထားသော ပွင့်လင်းသောဖြေရှင်းချက်ကို ပေးသည်။",
+    "pain1Title": "ဒေတာပြိုကွဲမှု",
+    "pain1Desc": "APAC ကျန်းမာရေးအဆောက်အအုံများ၏ ၉၀% သည် အပြန်အလှန်လုပ်ဆောင်၍မရသော စနစ်များကို အသုံးပြုသည်။ ဒေတာကျွန်းများသည် ပူးပေါင်းဆောင်ရွက်သောကုသမှုကို ပြင်းထန်စွာဟန့်တားသည်။",
+    "pain2Title": "သက်ကြီးရွယ်အိုလူဦးရေ",
+    "pain2Desc": "၂၀၅၀ တွင် APAC ၏ ၆၅+ နှစ်အရွယ် လူဦးရေသည် နှစ်ဆတိုးလာမည်။ နာတာရှည်ရောဂါစီမံခန့်ခွဲမှုအတွက် ချိတ်ဆက်ထားသော ဒီဂျစ်တယ်အခြေခံအဆောက်အအုံ လိုအပ်သည်။",
+    "pain3Title": "ကုန်ကျစရိတ်ဖိအား",
+    "pain3Desc": "စံနှုန်းချမှတ်ထားသော အပြန်အလှန်လုပ်ဆောင်နိုင်မှုသည် ဆေးရုံတစ်ခုစီအား ပေါင်းစပ်ခြင်းနှင့် ထိန်းသိမ်းခြင်းကုန်ကျစရိတ်တွင် နှစ်စဉ်သန်းပေါင်းများစွာ သက်သာစေနိုင်သည်။",
+    "link": "APAC အခွင့်အလမ်းကို လေ့လာရန် →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "ကမ္ဘာလုံးဆိုင်ရာ Ecosystem မိတ်ဖက်များ",
+    "subtitle": "ထိပ်တန်းကျန်းမာရေးစံနှုန်းအဖွဲ့အစည်းများ၊ နည်းပညာကုမ္ပဏီများနှင့် အစိုးရအေဂျင်စီများနှင့် အတူတကွတည်ဆောက်ခြင်း"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+    "quote": "နည်းပညာဆန်းသစ်တီထွင်မှုမှတစ်ဆင့် တရုတ်၏ဆေးဘက်ဆိုင်ရာအရင်းအမြစ်များကို ကမ္ဘာနှင့်ချိတ်ဆက်ခြင်း — 'နယ်နိမိတ်မရှိသောဆေးပညာ' မစ်ရှင်ကို အမှန်တကယ်ဖြည့်ဆည်းခြင်း။",
     "name": "Yongjun Zhao",
-    "title": "Founder"
+    "title": "တည်ထောင်သူ"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "အာရှ-ပစိဖိတ်ဒီဂျစ်တယ်ကျန်းမာရေးအသွင်ကူးပြောင်းမှုတွင် ပါဝင်ရန် အဆင်သင့်ဖြစ်ပြီလား?",
+    "subtitle": "သင်သည် ကျန်းမာရေးအဖွဲ့အစည်း၊ developer သို့မဟုတ် မူဝါဒရေးဆွဲသူ ဖြစ်စေ — သင့်အတွက် လမ်းကြောင်းရှိသည်။",
+    "button": "ယခုပါဝင်ရန်"
   }
 }

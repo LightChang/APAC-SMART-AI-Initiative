@@ -1,50 +1,50 @@
 {
   "involve": {
-    "pageTitle": "Get Involved",
-    "pageDescription": "Find your path to participate in the APAC digital health transformation",
-    "heroTitle": "Find Your Path",
-    "heroSubtitle": "Whatever your role, there's a place for you in the APAC digital health ecosystem",
+    "pageTitle": "जुड़ें",
+    "pageDescription": "APAC डिजिटल स्वास्थ्य परिवर्तन में भाग लेने के लिए अपना रास्ता खोजें",
+    "heroTitle": "अपना रास्ता खोजें",
+    "heroSubtitle": "आपकी भूमिका चाहे जो भी हो, APAC डिजिटल स्वास्थ्य इकोसिस्टम में आपके लिए जगह है",
     "paths": {
-      "title": "Three Paths to Participation",
-      "subtitle": "Choose the best way to get started"
+      "title": "भागीदारी के तीन रास्ते",
+      "subtitle": "शुरू करने का सबसे अच्छा तरीका चुनें"
     },
     "healthcare": {
-      "title": "Healthcare Institutions",
-      "subtitle": "Assess readiness and plan your adoption journey",
-      "item1": "SMART on FHIR readiness assessment tool",
-      "item2": "Phased implementation roadmap",
-      "item3": "Success stories and best practices",
-      "item4": "Expert consultation services",
-      "cta": "Get Implementation Guide"
+      "title": "स्वास्थ्य संस्थान",
+      "subtitle": "तैयारी का आकलन करें और अपनी अपनाने की यात्रा की योजना बनाएं",
+      "item1": "SMART on FHIR तैयारी मूल्यांकन उपकरण",
+      "item2": "चरणबद्ध कार्यान्वयन रोडमैप",
+      "item3": "सफलता की कहानियां और सर्वोत्तम प्रथाएं",
+      "item4": "विशेषज्ञ परामर्श सेवाएं",
+      "cta": "कार्यान्वयन गाइड प्राप्त करें"
     },
     "developer": {
-      "title": "Developers",
-      "subtitle": "Get the tools and resources to start building",
-      "item1": "FHIR API quick-start tutorials",
-      "item2": "Free sandbox testing environment",
-      "item3": "Open-source projects and code samples",
-      "item4": "Developer community and forums",
-      "cta": "Start Developing"
+      "title": "डेवलपर्स",
+      "subtitle": "निर्माण शुरू करने के लिए उपकरण और संसाधन प्राप्त करें",
+      "item1": "FHIR API क्विक-स्टार्ट ट्यूटोरियल",
+      "item2": "मुफ्त सैंडबॉक्स परीक्षण वातावरण",
+      "item3": "ओपन-सोर्स प्रोजेक्ट और कोड सैंपल",
+      "item4": "डेवलपर समुदाय और फोरम",
+      "cta": "विकास शुरू करें"
     },
     "policy": {
-      "title": "Policymakers",
-      "subtitle": "Understand the policy value of standardized interoperability",
-      "item1": "International adoption case studies",
-      "item2": "Policy framework white papers",
-      "item3": "Economic impact assessment reports",
-      "item4": "Cross-border collaboration opportunities",
-      "cta": "Download White Paper"
+      "title": "नीति निर्माता",
+      "subtitle": "मानकीकृत इंटरऑपरेबिलिटी के नीति मूल्य को समझें",
+      "item1": "अंतर्राष्ट्रीय अपनाने के केस स्टडी",
+      "item2": "नीति फ्रेमवर्क श्वेत पत्र",
+      "item3": "आर्थिक प्रभाव मूल्यांकन रिपोर्ट",
+      "item4": "सीमा-पार सहयोग के अवसर",
+      "cta": "श्वेत पत्र डाउनलोड करें"
     },
     "resources": {
-      "title": "Resource Downloads",
-      "subtitle": "Access the latest research reports, technical docs, and policy white papers"
+      "title": "संसाधन डाउनलोड",
+      "subtitle": "नवीनतम शोध रिपोर्ट, तकनीकी दस्तावेज़ और नीति श्वेत पत्र तक पहुंचें"
     },
     "newsletter": {
-      "title": "Subscribe to Our Newsletter",
-      "subtitle": "Stay updated on APAC SMART on FHIR news, events, and resource updates",
-      "placeholder": "Enter your email address",
-      "button": "Subscribe",
-      "privacy": "We respect your privacy. Unsubscribe anytime."
+      "title": "हमारे न्यूज़लेटर की सदस्यता लें",
+      "subtitle": "APAC SMART on FHIR समाचार, कार्यक्रमों और संसाधन अपडेट के बारे में अपडेट रहें",
+      "placeholder": "अपना ईमेल पता दर्ज करें",
+      "button": "सब्सक्राइब करें",
+      "privacy": "हम आपकी गोपनीयता का सम्मान करते हैं। किसी भी समय सदस्यता रद्द करें।"
     }
   }
 }

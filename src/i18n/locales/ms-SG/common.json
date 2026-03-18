@@ -1,42 +1,42 @@
 {
   "site": {
-    "title": "APAC Precision Health Initiative",
-    "description": "Advancing SMART on FHIR open healthcare standards across the Asia-Pacific region",
-    "tagline": "Open Standards · Connected Health · Asia-Pacific Future"
+    "title": "Inisiatif Kesihatan Presisi APAC",
+    "description": "Memajukan piawaian terbuka penjagaan kesihatan SMART on FHIR di seluruh Asia-Pasifik",
+    "tagline": "Piawaian Terbuka · Kesihatan Berhubung · Masa Depan Asia-Pasifik"
   },
   "nav": {
-    "home": "Home",
+    "home": "Laman Utama",
     "smart": "SMART on FHIR",
-    "apps": "App Gallery",
-    "apac": "APAC Opportunity",
-    "involve": "Get Involved",
-    "about": "About",
-    "contact": "Contact"
+    "apps": "Galeri Aplikasi",
+    "apac": "Peluang APAC",
+    "involve": "Sertai Kami",
+    "about": "Tentang Kami",
+    "contact": "Hubungi Kami"
   },
   "footer": {
-    "description": "The APAC Precision Health Initiative promotes SMART on FHIR open healthcare standards across Asia-Pacific, connecting healthcare institutions, developers, and policymakers to build an interoperable digital health ecosystem.",
-    "quickLinks": "Quick Links",
-    "resources": "Resources",
-    "resourceDoc": "Developer Docs",
-    "resourceFhir": "FHIR Specification",
+    "description": "Inisiatif Kesihatan Presisi APAC mempromosikan piawaian terbuka penjagaan kesihatan SMART on FHIR di seluruh Asia-Pasifik, menghubungkan kemudahan penjagaan kesihatan, pembangun, dan pembuat dasar untuk membina ekosistem kesihatan digital yang boleh saling beroperasi.",
+    "quickLinks": "Pautan Pantas",
+    "resources": "Sumber",
+    "resourceDoc": "Dokumentasi Pembangun",
+    "resourceFhir": "Spesifikasi FHIR",
     "resourceSandbox": "Sandbox",
     "resourceGithub": "GitHub",
-    "connect": "Connect",
-    "newsletter": "Newsletter",
-    "emailPlaceholder": "Enter your email",
-    "subscribe": "Subscribe",
-    "copyright": "© 2026 APAC Precision Health Initiative. All rights reserved."
+    "connect": "Berhubung",
+    "newsletter": "Surat Berita",
+    "emailPlaceholder": "Masukkan e-mel anda",
+    "subscribe": "Langgan",
+    "copyright": "© 2026 Inisiatif Kesihatan Presisi APAC. Hak cipta terpelihara."
   },
   "cta": {
-    "learnMore": "Learn More",
-    "getStarted": "Get Started",
-    "contactUs": "Contact Us",
-    "readMore": "Read More",
-    "download": "Download",
-    "viewAll": "View All"
+    "learnMore": "Ketahui Lebih Lanjut",
+    "getStarted": "Mula Sekarang",
+    "contactUs": "Hubungi Kami",
+    "readMore": "Baca Lagi",
+    "download": "Muat Turun",
+    "viewAll": "Lihat Semua"
   },
   "lang": {
-    "switch": "Switch Language",
-    "current": "English"
+    "switch": "Tukar Bahasa",
+    "current": "Bahasa Melayu (Singapura)"
   }
 }

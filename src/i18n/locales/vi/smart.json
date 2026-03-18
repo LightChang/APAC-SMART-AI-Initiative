@@ -1,61 +1,61 @@
 {
   "smart": {
     "pageTitle": "SMART on FHIR",
-    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
-    "heroTitle": "Understanding SMART on FHIR",
-    "heroSubtitle": "The global open standard for health data interoperability",
+    "pageDescription": "Tìm hiểu về nền tảng tiêu chuẩn mở y tế SMART on FHIR",
+    "heroTitle": "Tìm hiểu SMART on FHIR",
+    "heroSubtitle": "Tiêu chuẩn mở toàn cầu cho liên thông dữ liệu y tế",
     "whatIsFhir": {
-      "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "title": "FHIR là gì?",
+      "description": "FHIR (Fast Healthcare Interoperability Resources) là tiêu chuẩn trao đổi dữ liệu y tế được phát triển bởi HL7 International. Sử dụng công nghệ web hiện đại (RESTful API, JSON, OAuth2), nó cho phép các hệ thống y tế khác nhau trao đổi dữ liệu theo cách chuẩn hóa."
     },
     "whatIsSmart": {
-      "title": "What Does SMART Add?",
-      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+      "title": "SMART bổ sung gì?",
+      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) bổ sung một khung ứng dụng trên nền FHIR. Nó xác định cách các ứng dụng kết nối an toàn với hệ thống hồ sơ sức khỏe điện tử, xử lý xác thực và phân quyền — giúp các ứng dụng y tế hoạt động theo kiểu plug-and-play, giống như ứng dụng trên điện thoại thông minh."
     },
     "whyMatters": {
-      "title": "Why Does This Matter?",
-      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+      "title": "Tại sao điều này quan trọng?",
+      "description": "Hầu hết các hệ thống y tế trên thế giới đều đóng và không tương thích. SMART on FHIR phá vỡ các rào cản dữ liệu, cho phép dữ liệu bệnh nhân luân chuyển an toàn giữa các bệnh viện và hệ thống — đặt nền móng cho y học chính xác, y tế từ xa và chẩn đoán hỗ trợ AI."
     },
     "conceptDiagram": {
-      "ehr": "Electronic Health Records (EHR)",
-      "smartLayer": "SMART Platform Layer",
-      "apps": "Healthcare Apps",
-      "ehrDesc": "Existing hospital systems",
-      "smartDesc": "Secure auth + API standards",
-      "appsDesc": "Third-party innovation"
+      "ehr": "Hồ sơ sức khỏe điện tử (EMR)",
+      "smartLayer": "Tầng nền tảng SMART",
+      "apps": "Ứng dụng y tế",
+      "ehrDesc": "Hệ thống bệnh viện hiện có",
+      "smartDesc": "Xác thực an toàn + tiêu chuẩn API",
+      "appsDesc": "Đổi mới từ bên thứ ba"
     },
     "timeline": {
-      "title": "Key Milestones",
-      "subtitle": "The journey from academic research to global standard"
+      "title": "Các cột mốc quan trọng",
+      "subtitle": "Hành trình từ nghiên cứu học thuật đến tiêu chuẩn toàn cầu"
     },
     "ecosystem": {
-      "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
-      "standards": "Standards Bodies",
-      "government": "Government",
-      "vendors": "EHR Vendors",
-      "cloud": "Cloud Platforms"
+      "title": "Hệ sinh thái toàn cầu",
+      "subtitle": "SMART on FHIR được hỗ trợ và áp dụng bởi các tổ chức hàng đầu trên toàn thế giới",
+      "standards": "Tổ chức tiêu chuẩn",
+      "government": "Chính phủ",
+      "vendors": "Nhà cung cấp EMR",
+      "cloud": "Nền tảng đám mây"
     },
     "caseStudy": {
-      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
-      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
-      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
-      "benefit1Title": "Cross-Border Interoperability",
-      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
-      "benefit2Title": "Compliance by Design",
-      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
-      "benefit3Title": "Seamless Referrals",
-      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+      "title": "Thực tiễn: Kiến trúc tiêu chuẩn kép FHIR + GB/T",
+      "subtitle": "Kết nối tiêu chuẩn quốc tế và tiêu chuẩn quốc gia Trung Quốc để trao đổi dữ liệu xuyên biên giới liền mạch",
+      "description": "Sáng kiến của chúng tôi đã tiên phong xây dựng kiến trúc dữ liệu tiêu chuẩn kép đảm bảo tương thích hoàn toàn giữa tiêu chuẩn quốc tế FHIR và tiêu chuẩn quốc gia Trung Quốc GB/T. Đổi mới này cho phép dữ liệu y tế luân chuyển liền mạch xuyên biên giới — khi bệnh nhân di chuyển giữa các quốc gia, hồ sơ sức khỏe vẫn có thể truy cập và liên thông, bất kể hệ thống địa phương sử dụng tiêu chuẩn nào.",
+      "benefit1Title": "Liên thông xuyên biên giới",
+      "benefit1Desc": "Hồ sơ bệnh nhân luân chuyển liền mạch giữa hệ thống quốc tế dựa trên FHIR và hệ thống Trung Quốc dựa trên GB/T.",
+      "benefit2Title": "Tuân thủ từ thiết kế",
+      "benefit2Desc": "Đáp ứng yêu cầu quy định trong cả môi trường y tế quốc tế và Trung Quốc cùng lúc.",
+      "benefit3Title": "Chuyển tuyến liền mạch",
+      "benefit3Desc": "Cho phép chuyển tuyến bệnh nhân xuyên quốc gia một cách trơn tru mà không có rào cản định dạng dữ liệu."
     },
     "resources": {
-      "title": "Technical Resources",
-      "subtitle": "Start your SMART on FHIR journey",
-      "officialDocs": "Official Documentation",
-      "officialDocsDesc": "SMART Health IT official developer docs and guides",
-      "fhirSpec": "FHIR Specification",
-      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
-      "sandbox": "Sandbox Environment",
-      "sandboxDesc": "Free FHIR test servers — start developing today"
+      "title": "Tài nguyên kỹ thuật",
+      "subtitle": "Bắt đầu hành trình SMART on FHIR của bạn",
+      "officialDocs": "Tài liệu chính thức",
+      "officialDocsDesc": "Tài liệu và hướng dẫn chính thức cho nhà phát triển từ SMART Health IT",
+      "fhirSpec": "Đặc tả FHIR",
+      "fhirSpecDesc": "Đặc tả đầy đủ HL7 FHIR R4",
+      "sandbox": "Môi trường thử nghiệm",
+      "sandboxDesc": "Máy chủ FHIR thử nghiệm miễn phí — bắt đầu phát triển ngay hôm nay"
     }
   }
 }

@@ -1,42 +1,42 @@
 {
   "site": {
-    "title": "APAC Precision Health Initiative",
-    "description": "Advancing SMART on FHIR open healthcare standards across the Asia-Pacific region",
-    "tagline": "Open Standards · Connected Health · Asia-Pacific Future"
+    "title": "아시아태평양 정밀의료 이니셔티브",
+    "description": "아시아태평양 지역에서 SMART on FHIR 개방형 의료 표준 확산 추진",
+    "tagline": "개방형 표준 · 연결된 의료 · 아시아태평양의 미래"
   },
   "nav": {
-    "home": "Home",
+    "home": "홈",
     "smart": "SMART on FHIR",
-    "apps": "App Gallery",
-    "apac": "APAC Opportunity",
-    "involve": "Get Involved",
-    "about": "About",
-    "contact": "Contact"
+    "apps": "앱 갤러리",
+    "apac": "APAC 기회",
+    "involve": "참여 안내",
+    "about": "소개",
+    "contact": "문의하기"
   },
   "footer": {
-    "description": "The APAC Precision Health Initiative promotes SMART on FHIR open healthcare standards across Asia-Pacific, connecting healthcare institutions, developers, and policymakers to build an interoperable digital health ecosystem.",
-    "quickLinks": "Quick Links",
-    "resources": "Resources",
-    "resourceDoc": "Developer Docs",
-    "resourceFhir": "FHIR Specification",
-    "resourceSandbox": "Sandbox",
+    "description": "아시아태평양 정밀의료 이니셔티브는 아시아태평양 지역 전역에서 SMART on FHIR 개방형 의료 표준을 확산하고, 의료기관, 개발자, 정책입안자를 연결하여 상호운용 가능한 디지털 헬스케어 생태계를 구축합니다.",
+    "quickLinks": "바로가기",
+    "resources": "리소스",
+    "resourceDoc": "개발자 문서",
+    "resourceFhir": "FHIR 규격",
+    "resourceSandbox": "샌드박스",
     "resourceGithub": "GitHub",
-    "connect": "Connect",
-    "newsletter": "Newsletter",
-    "emailPlaceholder": "Enter your email",
-    "subscribe": "Subscribe",
-    "copyright": "© 2026 APAC Precision Health Initiative. All rights reserved."
+    "connect": "연결하기",
+    "newsletter": "뉴스레터",
+    "emailPlaceholder": "이메일 주소 입력",
+    "subscribe": "구독하기",
+    "copyright": "© 2026 아시아태평양 정밀의료 이니셔티브. All rights reserved."
   },
   "cta": {
-    "learnMore": "Learn More",
-    "getStarted": "Get Started",
-    "contactUs": "Contact Us",
-    "readMore": "Read More",
-    "download": "Download",
-    "viewAll": "View All"
+    "learnMore": "자세히 알아보기",
+    "getStarted": "시작하기",
+    "contactUs": "문의하기",
+    "readMore": "더 읽기",
+    "download": "다운로드",
+    "viewAll": "전체 보기"
   },
   "lang": {
-    "switch": "Switch Language",
-    "current": "English"
+    "switch": "언어 변경",
+    "current": "한국어"
   }
 }

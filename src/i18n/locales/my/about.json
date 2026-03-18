@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "အကြောင်း",
+    "pageDescription": "APAC တိကျသောကျန်းမာရေးစီမံချက်၏ မစ်ရှင်၊ ရူပါရုံနှင့် အဖွဲ့အကြောင်း လေ့လာပါ",
+    "heroTitle": "APAC တိကျသောကျန်းမာရေးစီမံချက် အကြောင်း",
+    "heroSubtitle": "ပွင့်လင်းပြီး အပြန်အလှန်လုပ်ဆောင်နိုင်သော လူနာဗဟိုပြု ဒီဂျစ်တယ်ကျန်းမာရေး ecosystem တစ်ခုတည်ဆောက်ရန် အာရှ-ပစိဖိတ်ကို ချိတ်ဆက်ခြင်း",
     "founder": {
-      "sectionTitle": "Message from the Founder",
+      "sectionTitle": "တည်ထောင်သူထံမှ သတင်းစကား",
       "name": "Yongjun Zhao",
-      "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "title": "တည်ထောင်သူ",
+      "quote": "နည်းပညာဆန်းသစ်တီထွင်မှုမှတစ်ဆင့် တရုတ်၏ဆေးဘက်ဆိုင်ရာအရင်းအမြစ်များကို ကမ္ဘာနှင့်ချိတ်ဆက်ခြင်း — 'နယ်နိမိတ်မရှိသောဆေးပညာ' မစ်ရှင်ကို အမှန်တကယ်ဖြည့်ဆည်းခြင်း။",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "နည်းပညာအခြေခံနှင့် ဆန်းသစ်တီထွင်မှု",
+        "text": "ဆန်းသစ်တီထွင်မှုဖြင့် မောင်းနှင်သော AI ဆေးဘက်ဆိုင်ရာနည်းပညာကုမ္ပဏီအနေဖြင့် ကျွန်ုပ်တို့သည် အဓိကနယ်ပယ်နှစ်ခုတွင် နှစ်ပေါင်းများစွာ နက်ရှိုင်းစွာကတိကဝတ်ယူမှုဖြင့် ခိုင်မာသောကျွမ်းကျင်မှုကို တည်ဆောက်ခဲ့သည်: ဆေးဝါးသုတေသနနှင့် ဆေးဘက်ဆိုင်ရာပုံရိပ်ဖတ်ခြင်း။ ဆေးဝါးတွင် ကျွန်ုပ်တို့သည် ကျယ်ပြန့်သောဆေးဝါးကြားခံသိုလှောင်မှုနှင့် ပိုင်ဆိုင်မှုသုတေသနထွက်ပေါက်များ စုဆောင်းထားသည်။ ၂၀၂၆ တွင် ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏အဓိကဉာဏပစ္စည်းကို ကာကွယ်ရန် အမျိုးသားမူပိုင်ခွင့်လျှောက်ထားမှုများကို စနစ်တကျစတင်နေပြီး 'ဆေးဝါးပြန်လည်အသုံးချမှု' သုတေသနကို ရှေ့ဆက်နေသည်။ ဆေးဘက်ဆိုင်ရာပုံရိပ်ဖတ်ခြင်းတွင် ကျွန်ုပ်တို့၏ကိုယ်ပိုင်ဖန်တီးထားသော AI-အကူအညီ ရောဂါရှာဖွေဆော့ဖ်ဝဲသည် မြင့်မားသောတိကျမှုဖြင့် ဉာဏ်ရည်ပါသော ပုံရိပ်ခွဲခြမ်းစိတ်ဖြာမှုကို ပေးဆောင်ပြီး ၂၀၂၆ တွင် NMPA အသိအမှတ်ပြုမှု လုပ်ဆောင်နေသည်။"
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "မဟာဗျူဟာမိတ်ဖက်မှုများနှင့် စီးပွားရေးလုပ်ငန်း",
+        "text": "ကျွန်ုပ်တို့သည် ပြည်တွင်းညှိနှိုင်းမှုနှင့် နိုင်ငံတကာပူးပေါင်းဆောင်ရွက်မှု နှစ်ထပ်အင်ဂျင်မဟာဗျူဟာကို လိုက်နာသည်။ ပြည်တွင်းတွင် ကျွန်ုပ်တို့သည် China General Technology Group ၏ cloud-based ဆေးဘက်ဆိုင်ရာပုံရိပ် platform နှင့် ပေါင်းစပ်နေပြီး China National United Corporation နှင့် Sinopharm Group နှင့် ပူးပေါင်းကာ ဒီဂျစ်တယ်ဆေးဝါးလက်ကားနှင့် လက်လီ platform တည်ဆောက်နေသည်။ နိုင်ငံတကာတွင် ကျွန်ုပ်တို့သည် Siemens ကဲ့သို့သော ကမ္ဘာ့ကျန်းမာရေးခေါင်းဆောင်များနှင့် မိတ်ဖက်မှုများကို တက်ကြွစွာတိုးချဲ့နေသည်။"
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "နိုင်ငံရပ်ခြားလက်တွေ့ကျင့်သုံးမှုနှင့် နှစ်ထပ်စံနှုန်းဒေတာဗိသုကာ",
+        "text": "နိုင်ငံရပ်ခြားစျေးကွက်များတွင် ကျွန်ုပ်တို့သည် တီမော-လက်စ်တေကဲ့သို့သော ဝန်ဆောင်မှုမရသောဒေသများတွင် AI-အကူအညီ ဆေးဘက်ဆိုင်ရာပုံရိပ်ရောဂါရှာဖွေခြင်းဝန်ဆောင်မှုများကို ရှေ့ဆောင်အသုံးပြုခဲ့ပြီး နိုင်ငံတကာစံနှုန်းများ (FHIR) နှင့် တရုတ်အမျိုးသားစံနှုန်းများ (GB/T) ကြား လိုက်ဖက်မှုရှိစေသော 'FHIR + GB/T' နှစ်ထပ်စံနှုန်းဒေတာဗိသုကာကို ဆန်းသစ်စွာမိတ်ဆက်ခဲ့သည်။ ဤဗိသုကာသည် ဒေသခံရောဂါရှာဖွေနိုင်စွမ်းကို မြှင့်တင်ရုံသာမက နယ်စပ်ဖြတ်ကျော်ဆေးဘက်ဆိုင်ရာဒေတာလဲလှယ်ခြင်းအတွက် တံတားတည်ဆောက်ပေးသည်။"
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "ကျွန်ုပ်တို့၏မစ်ရှင်",
+        "text": "နယ်စပ်ဖြတ်ကျော်ကျန်းမာရေးစောင့်ရှောက်မှုအတွက် ကမ္ဘာလုံးဆိုင်ရာလိုအပ်ချက် ဆက်လက်တိုးတက်နေသဖြင့် ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏နှစ်ထပ်စံနှုန်းဒေတာဗိသုကာကို အဓိကယှဉ်ပြိုင်နိုင်စွမ်းအဖြစ် တည်ဆောက်နေသည် — တရုတ်၏ဆေးဘက်ဆိုင်ရာအရင်းအမြစ်များကို ကမ္ဘာနှင့်ချိတ်ဆက်သော ချိတ်ဆက်မှတ်အဖြစ် နေရာယူပြီး 'နယ်နိမိတ်မရှိသောဆေးပညာ' မစ်ရှင်ကို အမှန်တကယ်ဖြည့်ဆည်းသည်။"
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "မစ်ရှင်နှင့် ရူပါရုံ",
+      "mission": "အာရှ-ပစိဖိတ်တစ်လျှောက် SMART on FHIR ပွင့်လင်းကျန်းမာရေးစံနှုန်းများ ကျယ်ပြန့်စွာအသုံးပြုမှုကို မောင်းနှင်ခြင်း၊ ဒေတာကျွန်းများကို ဖြိုဖျက်ခြင်းနှင့် တိကျသောဆေးပညာဆန်းသစ်တီထွင်မှုကို အားပေးခြင်း။",
+      "vision": "၂၀၃၀ တွင် အာရှ-ပစိဖိတ်ရှိ လူနာတိုင်းသည် ချောမွေ့သောကျန်းမာရေးဒေတာ အပြန်အလှန်လုပ်ဆောင်နိုင်မှုမှ အကျိုးခံစားရမည် — ပိုမိုတိကျ၊ ထိရောက်ပြီး မျှတသောကျန်းမာရေးစောင့်ရှောက်မှု ရရှိမည်။"
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
-      "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
-      "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "title": "အဓိကတန်ဖိုးများ",
+      "value1Title": "ပွင့်လင်းစံနှုန်းများ",
+      "value1Desc": "ပွင့်လင်း၊ ပွင့်လင်းမြင်သာသော နည်းပညာစံနှုန်းများကို ကတိကဝတ်ယူသည်။ ဒေတာချုပ်ခြယ်မှုမရှိ။ မျှတသောစက်မှုလုပ်ငန်းယှဉ်ပြိုင်မှုကို မြှင့်တင်သည်။",
+      "value2Title": "ဒေသဆိုင်ရာပူးပေါင်းဆောင်ရွက်မှု",
+      "value2Desc": "အကောင်းဆုံးအလေ့အကျင့်များမျှဝေရန်နှင့် APAC ကျန်းမာရေးစိန်ခေါ်မှုများကို အတူတကွကိုင်တွယ်ရန် နယ်စပ်ဖြတ်ကျော်ပူးပေါင်းဆောင်ရွက်မှု platform များတည်ဆောက်ခြင်း။",
+      "value3Title": "လူနာဗဟိုပြု",
+      "value3Desc": "နည်းပညာဆုံးဖြတ်ချက်တိုင်းသည် လူနာအတွေ့အကြုံနှင့် ကျန်းမာရေးရလဒ်များ တိုးတက်စေခြင်းဟူသော အဆုံးစွန်ပန်းတိုင်ဖြင့် လမ်းညွှန်သည်။"
     }
   }
 }

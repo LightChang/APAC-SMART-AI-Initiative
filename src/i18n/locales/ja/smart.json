@@ -1,61 +1,61 @@
 {
   "smart": {
     "pageTitle": "SMART on FHIR",
-    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
-    "heroTitle": "Understanding SMART on FHIR",
-    "heroSubtitle": "The global open standard for health data interoperability",
+    "pageDescription": "SMART on FHIRオープン医療標準プラットフォームのご紹介",
+    "heroTitle": "SMART on FHIRを理解する",
+    "heroSubtitle": "医療データ相互運用性のグローバルオープン標準",
     "whatIsFhir": {
-      "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "title": "FHIRとは？",
+      "description": "FHIR（Fast Healthcare Interoperability Resources）は、HL7 Internationalが策定した医療データ交換標準です。最新のWeb技術（RESTful API、JSON、OAuth2）を活用し、異なる医療システム間で標準化された方法によるデータ交換を可能にします。"
     },
     "whatIsSmart": {
-      "title": "What Does SMART Add?",
-      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+      "title": "SMARTが加える価値とは？",
+      "description": "SMART（Substitutable Medical Applications, Reusable Technologies）は、FHIRの上にアプリケーション層のフレームワークを追加します。アプリが電子カルテシステムに安全に接続し、認証・認可を処理する方法を定義し、スマートフォンのアプリのように医療アプリのプラグアンドプレイを実現します。"
     },
     "whyMatters": {
-      "title": "Why Does This Matter?",
-      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+      "title": "なぜこれが重要なのか？",
+      "description": "世界の医療システムの大半はクローズドで互換性がありません。SMART on FHIRはデータサイロを打破し、患者データが病院やシステム間で安全に流通することを可能にし、プレシジョンメディシン、遠隔医療、AI支援診断の基盤を築きます。"
     },
     "conceptDiagram": {
-      "ehr": "Electronic Health Records (EHR)",
-      "smartLayer": "SMART Platform Layer",
-      "apps": "Healthcare Apps",
-      "ehrDesc": "Existing hospital systems",
-      "smartDesc": "Secure auth + API standards",
-      "appsDesc": "Third-party innovation"
+      "ehr": "電子カルテ（EHR）",
+      "smartLayer": "SMARTプラットフォーム層",
+      "apps": "医療アプリケーション",
+      "ehrDesc": "既存の病院システム",
+      "smartDesc": "セキュア認証 + API標準",
+      "appsDesc": "サードパーティによるイノベーション"
     },
     "timeline": {
-      "title": "Key Milestones",
-      "subtitle": "The journey from academic research to global standard"
+      "title": "主要なマイルストーン",
+      "subtitle": "学術研究からグローバル標準への道のり"
     },
     "ecosystem": {
-      "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
-      "standards": "Standards Bodies",
-      "government": "Government",
-      "vendors": "EHR Vendors",
-      "cloud": "Cloud Platforms"
+      "title": "グローバル・エコシステム",
+      "subtitle": "SMART on FHIRは世界の主要組織によって支持・採用されています",
+      "standards": "標準化団体",
+      "government": "政府機関",
+      "vendors": "電子カルテベンダー",
+      "cloud": "クラウドプラットフォーム"
     },
     "caseStudy": {
-      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
-      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
-      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
-      "benefit1Title": "Cross-Border Interoperability",
-      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
-      "benefit2Title": "Compliance by Design",
-      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
-      "benefit3Title": "Seamless Referrals",
-      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+      "title": "実践事例：FHIR + GB/T デュアル標準アーキテクチャ",
+      "subtitle": "国際標準と中国国家標準をブリッジし、シームレスな越境データ交換を実現",
+      "description": "私たちのイニシアチブは、国際的なFHIR標準と中国のGB/T国家標準との完全な互換性を確保するデュアル標準データアーキテクチャを先駆けて構築しました。この革新により、医療データは国境を越えてシームレスに流通し、患者が国をまたいで移動しても、現地システムがどちらの標準を使用していても、健康記録にアクセス・相互運用が可能になります。",
+      "benefit1Title": "越境相互運用性",
+      "benefit1Desc": "FHIRベースの国際システムとGB/Tベースの中国システム間で、患者記録がシームレスに流通。",
+      "benefit2Title": "設計段階からのコンプライアンス",
+      "benefit2Desc": "国際医療環境と中国医療環境の両方の規制要件に同時に適合。",
+      "benefit3Title": "シームレスな紹介",
+      "benefit3Desc": "データフォーマットの障壁なく、国を越えたスムーズな患者紹介を実現。"
     },
     "resources": {
-      "title": "Technical Resources",
-      "subtitle": "Start your SMART on FHIR journey",
-      "officialDocs": "Official Documentation",
-      "officialDocsDesc": "SMART Health IT official developer docs and guides",
-      "fhirSpec": "FHIR Specification",
-      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
-      "sandbox": "Sandbox Environment",
-      "sandboxDesc": "Free FHIR test servers — start developing today"
+      "title": "技術リソース",
+      "subtitle": "SMART on FHIRの旅を始めましょう",
+      "officialDocs": "公式ドキュメント",
+      "officialDocsDesc": "SMART Health IT公式の開発者ドキュメントとガイド",
+      "fhirSpec": "FHIR仕様",
+      "fhirSpecDesc": "HL7 FHIR R4完全仕様",
+      "sandbox": "サンドボックス環境",
+      "sandboxDesc": "無料のFHIRテストサーバー——今すぐ開発を始めましょう"
     }
   }
 }

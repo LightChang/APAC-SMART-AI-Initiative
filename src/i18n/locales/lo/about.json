@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "ກ່ຽວກັບ",
+    "pageDescription": "ຮຽນຮູ້ກ່ຽວກັບພາລະກິດ, ວິໄສທັດ, ແລະ ທີມງານຂອງໂຄງການສຸຂະພາບແມ່ນຍຳ APAC",
+    "heroTitle": "ກ່ຽວກັບໂຄງການສຸຂະພາບແມ່ນຍຳ APAC",
+    "heroSubtitle": "ເຊື່ອມຕໍ່ອາຊີ-ປາຊີຟິກເພື່ອສ້າງລະບົບນິເວດສຸຂະພາບດິຈິຕອນທີ່ເປີດ, ເຮັດວຽກຮ່ວມກັນໄດ້, ແລະ ຍຶດຄົນເຈັບເປັນສູນກາງ",
     "founder": {
-      "sectionTitle": "Message from the Founder",
+      "sectionTitle": "ຂໍ້ຄວາມຈາກຜູ້ກໍ່ຕັ້ງ",
       "name": "Yongjun Zhao",
-      "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "title": "ຜູ້ກໍ່ຕັ້ງ",
+      "quote": "ເຊື່ອມຕໍ່ຊັບພະຍາກອນທາງການແພດຂອງຈີນກັບໂລກຜ່ານນະວັດຕະກຳເຕັກໂນໂລຊີ — ປະຕິບັດພາລະກິດ 'ການແພດບໍ່ມີຂອບເຂດ' ຢ່າງແທ້ຈິງ.",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "ພື້ນຖານ ແລະ ນະວັດຕະກຳເຕັກໂນໂລຊີ",
+        "text": "ໃນຖານະບໍລິສັດເຕັກໂນໂລຊີການແພດ AI ທີ່ຂັບເຄື່ອນໂດຍນະວັດຕະກຳເປັນຫຼັກ, ພວກເຮົາໄດ້ສ້າງຄວາມຊ່ຽວຊານທີ່ແຂງແກ່ນຜ່ານການອຸທິດຕົນຢ່າງເລິກເຊິ່ງໃນສອງໂດເມນຫຼັກ: ການພັດທະນາຢາ ແລະ ພາບຖ່າຍທາງການແພດ. ໃນດ້ານຢາ, ພວກເຮົາໄດ້ສະສົມຄັງສຳຮອງສານສື່ກາງຢາຢ່າງກວ້າງຂວາງ ແລະ ຜົນການຄົ້ນຄວ້າສິດທິບັດ. ໃນປີ 2026, ພວກເຮົາກຳລັງຍື່ນຂໍສິດທິບັດແຫ່ງຊາດຢ່າງເປັນລະບົບເພື່ອປົກປ້ອງຊັບສິນທາງປັນຍາຫຼັກ, ພ້ອມທັງກ້າວໜ້າການຄົ້ນຄວ້າ 'ການນຳໃຊ້ຢາໃໝ່' ເພື່ອຄົ້ນພົບການນຳໃຊ້ໃໝ່ສຳລັບສານປະສົມທີ່ມີຢູ່. ໃນດ້ານພາບຖ່າຍທາງການແພດ, ຊອບແວວິນິດໄສດ້ວຍ AI ທີ່ພວກເຮົາພັດທະນາເອງໃຫ້ການວິເຄາະພາບທີ່ມີຄວາມແມ່ນຍຳສູງ, ໂດຍການຢັ້ງຢືນ NMPA ກຳລັງດຳເນີນຢູ່ໃນປີ 2026 ເພື່ອຮັບປະກັນການນຳໃຊ້ທາງຄລີນິກທີ່ປະຕິບັດຕາມກົດລະບຽບ."
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "ຄູ່ຮ່ວມມືຍຸດທະສາດ ແລະ ການຄ້າ",
+        "text": "ພວກເຮົາດຳເນີນຍຸດທະສາດສອງເຄື່ອງຈັກຂອງການຮ່ວມມືພາຍໃນ ແລະ ຮ່ວມມືສາກົນ. ພາຍໃນປະເທດ, ພວກເຮົາກຳລັງເຊື່ອມຕໍ່ກັບແພລດຟອມພາບຖ່າຍທາງການແພດຄລາວຂອງ China General Technology Group ແລະ ຮ່ວມມືກັບ China National United Corporation ແລະ Sinopharm Group ເພື່ອສ້າງແພລດຟອມການຄ້າຢາດິຈິຕອນ, ຂັບເຄື່ອນການຄຸ້ມຄອງການແຈກຢາຍຢາທີ່ສະຫຼາດ ແລະ ລະອຽດ. ສາກົນ, ພວກເຮົາກຳລັງກ້າວໜ້າການຮ່ວມມືກັບຜູ້ນຳສຸຂະພາບທົ່ວໂລກເຊັ່ນ Siemens, ຂະຫຍາຍຕະຫຼາດທົ່ວໂລກຢ່າງຕໍ່ເນື່ອງ."
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "ການປະຕິບັດຕ່າງປະເທດ ແລະ ສະຖາປັດຕະຍະກຳຂໍ້ມູນສອງມາດຕະຖານ",
+        "text": "ໃນຕະຫຼາດຕ່າງປະເທດ, ພວກເຮົາໄດ້ນຳໜ້າໃນການນຳໃຊ້ບໍລິການວິນິດໄສພາບຖ່າຍທາງການແພດດ້ວຍ AI ໃນພື້ນທີ່ຂາດແຄນເຊັ່ນ ຕີມໍ-ເລສເຕ, ນຳສະເໜີສະຖາປັດຕະຍະກຳຂໍ້ມູນ 'FHIR + GB/T' ສອງມາດຕະຖານຢ່າງນະວັດຕະກຳທີ່ຮັບປະກັນຄວາມເຂົ້າກັນໄດ້ລະຫວ່າງມາດຕະຖານສາກົນ (FHIR) ແລະ ມາດຕະຖານແຫ່ງຊາດຈີນ (GB/T). ສະຖາປັດຕະຍະກຳນີ້ບໍ່ພຽງແຕ່ຍົກລະດັບຄວາມສາມາດການວິນິດໄສທ້ອງຖິ່ນ ແຕ່ຍັງສ້າງຂົວເຊື່ອມຕໍ່ສຳລັບການແລກປ່ຽນຂໍ້ມູນທາງການແພດຂ້າມຊາຍແດນ, ເຮັດໃຫ້ການສົ່ງຕໍ່ຄົນເຈັບຂ້າມປະເທດບໍ່ມີອຸປະສັກ."
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "ພາລະກິດຂອງພວກເຮົາ",
+        "text": "ໃນຂະນະທີ່ຄວາມຕ້ອງການສຸຂະພາບຂ້າມຊາຍແດນທົ່ວໂລກຍັງຄົງເຕີບໂຕ, ພວກເຮົາກຳລັງສ້າງສະຖາປັດຕະຍະກຳຂໍ້ມູນສອງມາດຕະຖານໃຫ້ເປັນຂໍ້ໄດ້ປຽບການແຂ່ງຂັນຫຼັກ — ຕັ້ງຕຳແໜ່ງຕົນເອງເປັນຈຸດເຊື່ອມຕໍ່ລະຫວ່າງຊັບພະຍາກອນທາງການແພດຂອງຈີນກັບໂລກ, ແລະ ປະຕິບັດພາລະກິດ 'ການແພດບໍ່ມີຂອບເຂດ' ຢ່າງແທ້ຈິງ."
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "ພາລະກິດ ແລະ ວິໄສທັດ",
+      "mission": "ຊຸກຍູ້ການນຳໃຊ້ມາດຕະຖານສຸຂະພາບເປີດ SMART on FHIR ຢ່າງກວ້າງຂວາງໃນທົ່ວອາຊີ-ປາຊີຟິກ, ທຳລາຍການແຍກຂໍ້ມູນ ແລະ ສ້າງຄວາມເຂັ້ມແຂງໃຫ້ນະວັດຕະກຳການແພດແມ່ນຍຳ.",
+      "vision": "ຮອດປີ 2030, ຄົນເຈັບທຸກຄົນໃນອາຊີ-ປາຊີຟິກຈະໄດ້ຮັບຜົນປະໂຫຍດຈາກການເຮັດວຽກຮ່ວມກັນຂອງຂໍ້ມູນສຸຂະພາບຢ່າງບໍ່ມີອຸປະສັກ — ໄດ້ຮັບການດູແລສຸຂະພາບທີ່ແມ່ນຍຳ, ມີປະສິດທິພາບ, ແລະ ເທົ່າທຽມກວ່າ."
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
-      "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
-      "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "title": "ຄ່ານິຍົມຫຼັກ",
+      "value1Title": "ມາດຕະຖານເປີດ",
+      "value1Desc": "ອຸທິດຕົນຕໍ່ມາດຕະຖານເຕັກໂນໂລຊີເປີດ ແລະ ໂປ່ງໃສ. ບໍ່ມີການລັອກຂໍ້ມູນ. ສົ່ງເສີມການແຂ່ງຂັນທີ່ຍຸຕິທຳໃນອຸດສາຫະກຳ.",
+      "value2Title": "ການຮ່ວມມືພາກພື້ນ",
+      "value2Desc": "ສ້າງແພລດຟອມການຮ່ວມມືຂ້າມຊາຍແດນເພື່ອແບ່ງປັນການປະຕິບັດທີ່ດີທີ່ສຸດ ແລະ ແກ້ໄຂສິ່ງທ້າທາຍສຸຂະພາບ APAC ຮ່ວມກັນ.",
+      "value3Title": "ຍຶດຄົນເຈັບເປັນສູນກາງ",
+      "value3Desc": "ທຸກການຕັດສິນໃຈດ້ານເຕັກໂນໂລຊີຖືກນຳພາໂດຍເປົ້າໝາຍສູງສຸດຂອງການປັບປຸງປະສົບການ ແລະ ຜົນໄດ້ຮັບສຸຂະພາບຂອງຄົນເຈັບ."
     }
   }
 }

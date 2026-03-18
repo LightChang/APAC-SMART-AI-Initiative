@@ -1,44 +1,44 @@
 {
   "about": {
-    "pageTitle": "About",
-    "pageDescription": "Learn about the mission, vision, and team behind the APAC Precision Health Initiative",
-    "heroTitle": "About APAC Precision Health Initiative",
-    "heroSubtitle": "Connecting Asia-Pacific to build an open, interoperable, patient-centered digital health ecosystem",
+    "pageTitle": "Giới thiệu",
+    "pageDescription": "Tìm hiểu về sứ mệnh, tầm nhìn và đội ngũ của Sáng kiến Y tế Chính xác APAC",
+    "heroTitle": "Giới thiệu Sáng kiến Y tế Chính xác APAC",
+    "heroSubtitle": "Kết nối Châu Á - Thái Bình Dương để xây dựng hệ sinh thái y tế số mở, liên thông và lấy bệnh nhân làm trung tâm",
     "founder": {
-      "sectionTitle": "Message from the Founder",
-      "name": "Yongjun Zhao",
-      "title": "Founder",
-      "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+      "sectionTitle": "Thông điệp từ Nhà sáng lập",
+      "name": "Triệu Vĩnh Quân",
+      "title": "Nhà sáng lập",
+      "quote": "Kết nối nguồn lực y tế của Trung Quốc với thế giới thông qua đổi mới công nghệ — thực sự hoàn thành sứ mệnh 'Y tế không biên giới'.",
       "techFoundation": {
-        "heading": "Technological Foundation & Innovation",
-        "text": "As an AI medical technology company driven by innovation at its core, we have built formidable expertise through years of deep commitment in two key domains: pharmaceutical R&D and medical imaging. In pharmaceuticals, we have accumulated extensive pharmaceutical intermediate reserves and proprietary research breakthroughs. In 2026, we are systematically initiating national patent applications to protect our core intellectual property, while advancing 'drug repurposing' research to uncover new indications and applications for existing compounds. In medical imaging, our self-developed AI-assisted diagnostic software delivers high-precision, intelligent image analysis, with NMPA certification underway in 2026 to ensure regulatory-compliant clinical deployment."
+        "heading": "Nền tảng công nghệ và đổi mới",
+        "text": "Là một công ty công nghệ y tế AI với đổi mới là động lực cốt lõi, chúng tôi đã xây dựng chuyên môn vững chắc qua nhiều năm cam kết sâu sắc trong hai lĩnh vực then chốt: R&D dược phẩm và chẩn đoán hình ảnh y tế. Trong lĩnh vực dược phẩm, chúng tôi đã tích lũy dự trữ nguyên liệu trung gian dược phẩm phong phú và các đột phá nghiên cứu độc quyền. Năm 2026, chúng tôi hệ thống hóa việc nộp đơn xin cấp bằng sáng chế quốc gia để bảo vệ tài sản trí tuệ cốt lõi, đồng thời thúc đẩy nghiên cứu 'tái sử dụng thuốc' để khám phá chỉ định và ứng dụng mới cho các hợp chất hiện có. Trong lĩnh vực chẩn đoán hình ảnh y tế, phần mềm chẩn đoán hỗ trợ AI tự phát triển của chúng tôi cung cấp phân tích hình ảnh độ chính xác cao và thông minh, đang trong quá trình chứng nhận NMPA năm 2026 để đảm bảo triển khai lâm sàng tuân thủ quy định."
       },
       "strategy": {
-        "heading": "Strategic Partnerships & Commercialization",
-        "text": "We pursue a dual-engine strategy of domestic synergy and international collaboration. Domestically, we are integrating with China General Technology Group's cloud-based medical imaging platform and partnering with China National United Corporation and Sinopharm Group to build a digital pharmaceutical wholesale and retail platform, driving intelligent, refined management of drug distribution. Internationally, we are actively advancing partnerships with global healthcare leaders such as Siemens, continuously expanding our global market presence."
+        "heading": "Đối tác chiến lược và thương mại hóa",
+        "text": "Chúng tôi theo đuổi chiến lược hai động cơ: hợp lực trong nước và hợp tác quốc tế. Trong nước, chúng tôi tích hợp với nền tảng chẩn đoán hình ảnh y tế đám mây của China General Technology Group và hợp tác với China National United Corporation và Sinopharm Group để xây dựng nền tảng bán buôn và bán lẻ dược phẩm số, thúc đẩy quản lý phân phối thuốc thông minh và tinh vi. Quốc tế, chúng tôi đang tích cực thúc đẩy quan hệ đối tác với các công ty y tế hàng đầu toàn cầu như Siemens, liên tục mở rộng sự hiện diện trên thị trường toàn cầu."
       },
       "overseas": {
-        "heading": "Overseas Practice & Dual-Standard Data Architecture",
-        "text": "In overseas markets, we have pioneered the deployment of AI-assisted medical imaging diagnostic services in underserved regions such as Timor-Leste, innovatively introducing a 'FHIR + GB/T' dual-standard data architecture that ensures compatibility between international standards (FHIR) and Chinese national standards (GB/T). This architecture not only elevates local diagnostic capabilities but also builds a bridge for cross-border medical data exchange, enabling seamless patient referrals across countries."
+        "heading": "Hoạt động nước ngoài và kiến trúc dữ liệu tiêu chuẩn kép",
+        "text": "Tại thị trường nước ngoài, chúng tôi đã tiên phong triển khai dịch vụ chẩn đoán hình ảnh y tế hỗ trợ AI tại các vùng thiếu nguồn lực như Timor-Leste, đổi mới giới thiệu kiến trúc dữ liệu tiêu chuẩn kép 'FHIR + GB/T' đảm bảo tương thích giữa tiêu chuẩn quốc tế (FHIR) và tiêu chuẩn quốc gia Trung Quốc (GB/T). Kiến trúc này không chỉ nâng cao năng lực chẩn đoán địa phương mà còn xây dựng cầu nối cho trao đổi dữ liệu y tế xuyên biên giới, cho phép chuyển tuyến bệnh nhân liền mạch giữa các quốc gia."
       },
       "mission": {
-        "heading": "Our Mission",
-        "text": "As global demand for cross-border healthcare continues to grow, we are forging our dual-standard data architecture into a core competitive advantage — positioning ourselves as the nexus connecting China's medical resources with the world, and truly fulfilling our mission of 'Medicine Without Borders.'"
+        "heading": "Sứ mệnh của chúng tôi",
+        "text": "Khi nhu cầu y tế xuyên biên giới toàn cầu tiếp tục tăng, chúng tôi đang rèn giũa kiến trúc dữ liệu tiêu chuẩn kép thành lợi thế cạnh tranh cốt lõi — định vị bản thân là điểm kết nối nguồn lực y tế của Trung Quốc với thế giới, và thực sự hoàn thành sứ mệnh 'Y tế không biên giới'."
       }
     },
     "mission": {
-      "title": "Mission & Vision",
-      "mission": "To drive widespread adoption of SMART on FHIR open healthcare standards across Asia-Pacific, breaking down data silos and empowering precision medicine innovation.",
-      "vision": "By 2030, every patient in Asia-Pacific will benefit from seamless health data interoperability — receiving more precise, efficient, and equitable healthcare."
+      "title": "Sứ mệnh và Tầm nhìn",
+      "mission": "Thúc đẩy việc áp dụng rộng rãi tiêu chuẩn mở y tế SMART on FHIR trên toàn Châu Á - Thái Bình Dương, phá vỡ các rào cản dữ liệu và trao quyền cho đổi mới y học chính xác.",
+      "vision": "Đến năm 2030, mọi bệnh nhân tại Châu Á - Thái Bình Dương sẽ được hưởng lợi từ liên thông dữ liệu y tế liền mạch — nhận được chăm sóc y tế chính xác, hiệu quả và công bằng hơn."
     },
     "values": {
-      "title": "Core Values",
-      "value1Title": "Open Standards",
-      "value1Desc": "Committed to open, transparent technology standards. No data lock-in. Promoting fair industry competition.",
-      "value2Title": "Regional Collaboration",
-      "value2Desc": "Building cross-border cooperation platforms to share best practices and tackle APAC healthcare challenges together.",
-      "value3Title": "Patient-Centered",
-      "value3Desc": "Every technology decision is guided by the ultimate goal of improving patient experience and health outcomes."
+      "title": "Giá trị cốt lõi",
+      "value1Title": "Tiêu chuẩn mở",
+      "value1Desc": "Cam kết với tiêu chuẩn công nghệ mở và minh bạch. Không khóa dữ liệu. Thúc đẩy cạnh tranh công bằng trong ngành.",
+      "value2Title": "Hợp tác khu vực",
+      "value2Desc": "Xây dựng nền tảng hợp tác xuyên biên giới để chia sẻ thực tiễn tốt nhất và cùng giải quyết các thách thức y tế APAC.",
+      "value3Title": "Lấy bệnh nhân làm trung tâm",
+      "value3Desc": "Mọi quyết định công nghệ đều được định hướng bởi mục tiêu cuối cùng là cải thiện trải nghiệm bệnh nhân và kết quả sức khỏe."
     }
   }
 }

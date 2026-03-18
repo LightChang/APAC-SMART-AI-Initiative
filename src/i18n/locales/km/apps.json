@@ -1,224 +1,79 @@
 {
   "apps": {
-    "pageTitle": "SMART Health IT App Gallery",
-    "pageDescription": "Explore the comprehensive collection of SMART on FHIR healthcare applications — categorized by function for easy discovery",
-    "heroTitle": "SMART Health IT App Gallery",
-    "heroSubtitle": "A curated directory of SMART on FHIR applications transforming healthcare through open standards",
+    "pageTitle": "វិចិត្រសាល កម្មវិធី SMART Health IT",
+    "pageDescription": "ស្វែងយល់ពីការប្រមូលផ្តុំកម្មវិធីសុខាភិបាល SMART on FHIR — ចែកតាមមុខងារដើម្បីងាយស្រួលស្វែងរក",
+    "heroTitle": "វិចិត្រសាល កម្មវិធី SMART Health IT",
+    "heroSubtitle": "បញ្ជីកម្មវិធី SMART on FHIR ដែលបានជ្រើសរើសដែលកំពុងផ្លាស់ប្តូរសុខាភិបាលតាមរយៈស្តង់ដារបើកចំហ",
     "intro": {
-      "title": "What is the SMART App Gallery?",
-      "description": "The SMART App Gallery is a centralized directory that connects healthcare apps and users. It offers developers a free, open way to share their SMART on FHIR applications and gives healthcare providers an easy way to discover, evaluate, and try compatible apps. Unlike single-vendor app stores, the gallery is not restricted to any single EHR platform.",
+      "title": "វិចិត្រសាល SMART App ជាអ្វី?",
+      "description": "វិចិត្រសាល SMART App គឺជាបញ្ជីកណ្តាលដែលតភ្ជាប់កម្មវិធីសុខាភិបាល និងអ្នកប្រើប្រាស់។ វាផ្តល់ឱ្យអ្នកអភិវឌ្ឍន៍នូវវិធីឥតគិតថ្លៃ និងបើកចំហដើម្បីចែករំលែកកម្មវិធី SMART on FHIR របស់ពួកគេ និងផ្តល់ឱ្យអ្នកផ្តល់សេវាសុខាភិបាលនូវវិធីងាយស្រួលដើម្បីស្វែងរក វាយតម្លៃ និងសាកល្បងកម្មវិធីដែលឆបគ្នា។",
       "totalApps": "143",
-      "totalAppsLabel": "Applications Listed",
+      "totalAppsLabel": "កម្មវិធីក្នុងបញ្ជី",
       "categories": "12",
-      "categoriesLabel": "Functional Categories",
+      "categoriesLabel": "ប្រភេទមុខងារ",
       "ehrSupport": "4+",
-      "ehrSupportLabel": "EHR Platforms Supported"
+      "ehrSupportLabel": "វេទិកា EHR ដែលគាំទ្រ"
     },
     "categories": {
       "clinical-decision-support": {
-        "title": "Clinical Decision Support",
-        "description": "Tools that assist clinicians with evidence-based risk calculations, diagnostic decision-making, and precision dosing recommendations at the point of care."
+        "title": "ជំនួយការសម្រេចចិត្តគ្លីនិក",
+        "description": "ឧបករណ៍ដែលជួយគ្រូពេទ្យជាមួយការគណនាហានិភ័យផ្អែកលើភស្តុតាង ការសម្រេចចិត្តរោគវិនិច្ឆ័យ និងអនុសាសន៍កម្រិតថ្នាំជាក់លាក់។"
       },
       "ai-analytics": {
-        "title": "AI & Intelligent Analytics",
-        "description": "Applications leveraging artificial intelligence and machine learning to analyze health data, automate clinical queries, and provide predictive insights."
+        "title": "AI និងការវិភាគឆ្លាតវៃ",
+        "description": "កម្មវិធីដែលប្រើបញ្ញាសិប្បនិម្មិត និង machine learning ដើម្បីវិភាគទិន្នន័យសុខភាព ស្វ័យប្រវត្តិកម្មសំណួរគ្លីនិក និងផ្តល់ការយល់ដឹងព្យាករណ៍។"
       },
       "patient-engagement": {
-        "title": "Patient Engagement & Health Records",
-        "description": "Platforms empowering patients to collect, manage, aggregate, and share their health data across multiple healthcare systems and providers."
+        "title": "ការចូលរួមអ្នកជំងឺ និងកំណត់ត្រាសុខភាព",
+        "description": "វេទិកាដែលផ្តល់សិទ្ធិអំណាចដល់អ្នកជំងឺក្នុងការប្រមូល គ្រប់គ្រង រួមបញ្ចូល និងចែករំលែកទិន្នន័យសុខភាពរបស់ពួកគេ។"
       },
       "pediatrics": {
-        "title": "Pediatric Tools",
-        "description": "Specialized applications for pediatric care including growth tracking, blood pressure percentile calculations, bilirubin management, and emergency resuscitation."
+        "title": "ឧបករណ៍កុមារវេជ្ជសាស្រ្ត",
+        "description": "កម្មវិធីពិសេសសម្រាប់ការថែទាំកុមារ រួមទាំងការតាមដានកំណើន ការគណនាភាគរយសម្ពាធឈាម និងការគ្រប់គ្រង bilirubin។"
       },
       "care-coordination": {
-        "title": "Care Coordination",
-        "description": "Applications that streamline provider collaboration, specialist referrals, patient handoffs, and cross-organizational health information exchange."
+        "title": "ការសម្របសម្រួលការថែទាំ",
+        "description": "កម្មវិធីដែលសម្រួលកិច្ចសហប្រតិបត្តិការអ្នកផ្តល់សេវា ការបញ្ជូនទៅអ្នកឯកទេស និងការផ្លាស់ប្តូរព័ត៌មានសុខភាពរវាងអង្គការ។"
       },
       "medication-management": {
-        "title": "Medication Management",
-        "description": "Tools for medication reconciliation, adherence monitoring, prescription drug monitoring, and treatment plan management."
+        "title": "ការគ្រប់គ្រងថ្នាំ",
+        "description": "ឧបករណ៍សម្រាប់ការផ្សះផ្សាថ្នាំ ការត្រួតពិនិត្យការប្រកាន់ខ្ជាប់ ការត្រួតពិនិត្យថ្នាំតាមវេជ្ជបញ្ជា និងការគ្រប់គ្រងផែនការព្យាបាល។"
       },
       "data-visualization": {
-        "title": "Data Visualization & Interoperability",
-        "description": "Applications that present clinical data in innovative visual formats, enable patient education, and bridge interoperability gaps between systems."
+        "title": "ការមើលឃើញទិន្នន័យ និងអន្តរប្រតិបត្តិការ",
+        "description": "កម្មវិធីដែលបង្ហាញទិន្នន័យគ្លីនិកក្នុងទម្រង់មើលឃើញច្នៃប្រឌិត បើកការអប់រំអ្នកជំងឺ និងផ្សារភ្ជាប់ចន្លោះអន្តរប្រតិបត្តិការរវាងប្រព័ន្ធ។"
       },
       "clinical-research": {
-        "title": "Clinical Research",
-        "description": "Applications that connect patients with clinical trials, streamline research data collection, and automate EHR-to-research data transfers."
+        "title": "ស្រាវជ្រាវគ្លីនិក",
+        "description": "កម្មវិធីដែលតភ្ជាប់អ្នកជំងឺជាមួយការសាកល្បងគ្លីនិក សម្រួលការប្រមូលទិន្នន័យស្រាវជ្រាវ និងស្វ័យប្រវត្តិកម្មការផ្ទេរទិន្នន័យពី EHR ទៅស្រាវជ្រាវ។"
       },
       "telehealth-remote-monitoring": {
-        "title": "Telehealth & Remote Monitoring",
-        "description": "Applications enabling remote patient monitoring, telemedicine consultations, chronic disease management from home, and real-time health data collection from wearable devices."
+        "title": "Telehealth និងការត្រួតពិនិត្យពីចម្ងាយ",
+        "description": "កម្មវិធីដែលអាចធ្វើការត្រួតពិនិត្យអ្នកជំងឺពីចម្ងាយ ការពិគ្រោះ telemedicine ការគ្រប់គ្រងជំងឺរ៉ាំរ៉ៃពីផ្ទះ និងការប្រមូលទិន្នន័យសុខភាពពីឧបករណ៍ wearable។"
       },
       "population-health": {
-        "title": "Population Health",
-        "description": "Analytics platforms for population-level health management, quality metrics tracking, bulk FHIR data processing, and shared payor-provider health data views."
+        "title": "សុខភាពប្រជាជន",
+        "description": "វេទិកាវិភាគសម្រាប់ការគ្រប់គ្រងសុខភាពកម្រិតប្រជាជន ការតាមដានរង្វាស់គុណភាព និងការដំណើរការទិន្នន័យ FHIR ភាគច្រើន។"
       },
       "fhir-developer-tools": {
-        "title": "FHIR Tools & Developer Resources",
-        "description": "Developer-focused tools for FHIR data exploration, terminology browsing, bulk data testing, patient demographics viewing, and FHIR server management."
+        "title": "ឧបករណ៍ FHIR និងធនធានអ្នកអភិវឌ្ឍន៍",
+        "description": "ឧបករណ៍ផ្តោតលើអ្នកអភិវឌ្ឍន៍សម្រាប់ការស្វែងយល់ទិន្នន័យ FHIR ការរុករកពាក្យបច្ចេកទេស ការសាកល្បងទិន្នន័យភាគច្រើន និងការគ្រប់គ្រង server FHIR។"
       },
       "covid19-public-health": {
-        "title": "COVID-19 & Public Health",
-        "description": "Applications for COVID-19 vaccination verification, SMART Health Card issuance and validation, testing status tracking, and genomic variant mapping."
+        "title": "COVID-19 និងសុខភាពសាធារណៈ",
+        "description": "កម្មវិធីសម្រាប់ការផ្ទៀងផ្ទាត់វ៉ាក់សាំង COVID-19 ការចេញ និងផ្ទៀងផ្ទាត់ SMART Health Card ការតាមដានស្ថានភាពតេស្ត និងការគូសផែនទីវ៉ារ្យង់ genomic។"
       }
     },
-    "appDescriptions": {
-      "ASCVD Risk Calculator": "Estimates a 10-year and/or lifetime cardiovascular risk score and provides guidance on how to potentially reduce risk through lifestyle and medical interventions.",
-      "Cardiac Risk (Reynolds Risk Score)": "Uses the widely-adopted Reynolds Risk Score to estimate a patient's 10-year risk of heart attack or stroke, with interactive simulation for clinicians to explore risk reduction scenarios.",
-      "Atrial Fibrillation Tool": "Offers personalized risk profiles, clinical guidance, and interactive visualization of the benefits and harms of various treatments for atrial fibrillation.",
-      "EBMcalc": "The premier source of interactive Evidence-Based Medicine calculators, pre-populating clinical data via FHIR to save clinicians time while promoting evidence-based practice.",
-      "CDS Connect: Pain Management Summary": "Presents a comprehensive dashboard of pain-related information including diagnoses, medications, lab results, and assessment scores with visual cues for potential concerns.",
-      "Colchicine CYP3A4/PGP Interaction App": "Provides clinical decision support for identifying and managing drug interactions when a patient is prescribed both colchicine and a CYP3A4/PGP inhibitor.",
-      "Risk Benefit": "A centralized, searchable database for physicians to discuss risks and benefits of procedures and interventions with patients in an easy-to-understand manner.",
-      "Chest Pain App": "Retrieves and displays selected data relevant to a chest pain chief complaint from electronic health records and other clinical systems.",
-      "CRC Prediction Tool": "A prediction tool for colorectal cancer detection in symptomatic patients, integrating clinical data for risk assessment.",
-      "Rx Studio": "A HIPAA-compliant cloud platform providing clinical decision support for precision dosing using peer-reviewed PK/PD/PGx models.",
-      "DoseMeRx": "Integrates directly into EHR workflows to automatically extract patient data and calculate individualized drug doses based on how each patient responds to therapy.",
-      "Healthsuite": "Equips users to identify and test chronic cardiac and diabetes risks using multiple algorithms including heart failure mortality prediction and hospital readmission probability.",
-      "AI-Powered Health Chart": "A pioneering solution designed to offer physicians an efficient AI-driven way to access, understand, and analyze complex health data.",
-      "AutoMed Query": "Enables clinicians to query patient data using natural language, leveraging AI to translate clinical questions into structured FHIR data queries.",
-      "Abstractive Health": "A physician AI assistant that helps curate the optimal patient record by intelligently summarizing and organizing clinical information.",
-      "DxPrime": "A machine learning-powered analytical tool that provides diagnosis and procedure code suggestions, analyzing data from 3.2 billion patient visits.",
-      "NLP2FHIR": "A FHIR-based clinical data normalization pipeline developed at Mayo Clinic, applying NLP to identify clinical conditions from semi-structured discharge summaries.",
-      "Kickcall AI": "A HIPAA-compliant AI answering service built for healthcare clinics, ensuring every patient call is answered professionally during off-hours or peak times.",
-      "CHF Predictive Analytics": "Helps clinicians identify and assess chronic cardiac risks using predictive analytics models for congestive heart failure patients.",
-      "CommonHealth": "Helps patients collect and manage personal health data from 700+ sources including Mayo Clinic and Cleveland Clinic, sharing securely with trusted services.",
-      "MyLinks": "An interactive platform for patients to gather, manage, and share their medical information, linking them with physicians, researchers, and caregivers.",
-      "1upHealth": "Aggregates patient data from external health systems into one place, presenting demographics, medications, labs, conditions, and history in a unified timeline.",
-      "Fasten Health": "An open-source, self-hosted personal medical record aggregator supporting multiple EHR platforms for patient engagement and data visualization.",
-      "OneRecord": "Supports multiple FHIR versions (DSTU 2, STU 3, R4) across major EHR platforms for clinical research, population health, and patient engagement.",
-      "PatientCare Portal": "A connected healthcare model portal providing data consolidation, FHIR and PHR support, real-time device data collection, and health visualization.",
-      "Carefluence Patient Portal": "A comprehensive patient portal providing access to medical records, reports, and imaging studies through FHIR-based interoperability.",
-      "C-Now": "Enables providers to access patient records from anywhere using any device, with detailed tabs for Chart Summary, Documents, Vitals, History, and Demographics.",
-      "Flexpa": "A Patient Access connectivity layer (API) helping developers build experiences for health plan coverage verification and medical claims data viewing.",
-      "AppScript": "Classifies and evaluates 318,000+ digital health apps, enabling clinicians to electronically prescribe apps, devices, and digital content from their EMR workflow.",
-      "Bilirubin App": "A demonstration app designed to help clinicians treat newborn hyperbilirubinemia appropriately by visualizing bilirubin levels against treatment thresholds.",
-      "SMART BP Centiles": "A full-featured, clinically deployed app that calculates a child's blood pressure percentiles normalized by age, sex, and height.",
-      "BP Centiles (Updated)": "An updated version of the open-source BP Centiles app with enhanced features and modern FHIR R4 support.",
-      "Growth Chart": "Demonstrates a high-performance, concise, minimal-click presentation of a child's growth over time with interactive graphs, data tables, and parent view.",
-      "Growth Chart and Immunizations": "Includes WHO growth charts (length, weight, head circumference) for ages 0-2 and CDC growth charts (height, weight) for children 2 years and older.",
-      "Pediatric Growth Chart for iOS": "Includes 32 official growth charts from WHO and CDC, optimized for iOS mobile use in pediatric clinical settings.",
-      "Handtevy Hospital": "An award-winning rapid resuscitation system for pediatrics and adults, providing weight-based medication dosing and emergency protocols.",
-      "AristaMD": "Enables more efficient patient care by connecting providers to specialists via eConsults, improving patient satisfaction and reducing unnecessary referrals.",
-      "Convergent Provider Search": "A provider search tool based on your FHIR API, ensuring you only need to update provider data once across all integrated systems.",
-      "Cozeva": "Displays patient care opportunities within the EHR as an embedded SMART on FHIR iFrame, allowing clinicians to review and address quality care gaps.",
-      "Current Health": "Enables healthcare organizations to personalize and scale home healthcare delivery with a single, flexible remote monitoring and care solution.",
-      "ACT.md": "Extends EMRs across the community, removing data silos that prevent addressing social determinants of health for better care coordination.",
-      "HIE InContext": "Provides information from participating Health Information Exchanges within the context of a clinician's existing EHR workflow.",
-      "Physician Sign Out": "A HIPAA-compliant patient hand-off app for providers that increases the quality of patient hand-off care through innovative, secure software.",
-      "T System SMART App": "Provides Emergency Department clinical content and an intuitive workflow, generating readable clinical narratives that export automatically to Epic.",
-      "Doctor Care Portal": "Works in conjunction with PatientCare Portal, enabling doctors to review vitals, inspect PHR and family history, and conduct secure messaging.",
-      "Doximity on FHIR": "View collaborating providers' contact information, education, and certifications within the EHR, and securely message care teams.",
-      "Fullscript": "Facilitates seamless creation and management of treatment plans across dozens of EHRs using SMART on FHIR, compliant with HIPAA, SOC2, and PCI-DSS.",
-      "Meducation RS": "Summarizes patients' complex medication regimens in a single page with detailed instructions for 5,000+ medications in patient-friendly language.",
-      "MPR Monitor": "Uses an algorithm developed at Boston Children's Hospital to predict poor medication adherence based on the patient's prescription and fill history.",
-      "RxOrbit InWorkflow": "Embeds medication lists, alerts, and PDMP information directly into a patient's record within the clinician's EHR or pharmacy system.",
-      "MedTrue": "Integrates different medication data sources to assist with medication reconciliation and adherence, producing a verified medication list within the EMR.",
-      "COSRI": "Clinical Opioid Summary with Rx Integration — a decision support app using Prescription Drug Monitoring Program (PDMP) data for safer opioid prescribing.",
-      "DMEscripts": "Simplifies the durable medical equipment ordering process so patients, providers, and suppliers all get what they need faster and more efficiently.",
-      "Avatachart": "Visualizes clinical data in 3D, helping users easily understand health, disease, and surgery information without requiring medical knowledge.",
-      "Lush SMART on FHIR": "Demonstrates connecting with multiple EMRs to provide clinical data for a specified patient, running on iOS, Android, and Windows devices.",
-      "Aidbox Forms": "Integrates FHIR-based questionnaires into your EHR or patient portal, supporting both practitioner and patient launch contexts.",
-      "Krames On FHIR": "Integrates into existing EHR systems and clinical workflows, helping providers print award-winning patient education materials at the point of care.",
-      "SMART Precision Cancer Medicine": "Open-source software presenting individual patients within the population-level spectrum of cancer somatic mutations for precision oncology.",
-      "eDocSS": "Co-developed with the American College of Surgeons to meet Commission on Cancer Synoptic Operative Report requirements for standardized surgical documentation.",
-      "Clinical Trial Finder": "An EHR-launch app that searches for clinical trials matching patient demographics and conditions, with full MIT-licensed open source code.",
-      "Clinical Trials Search": "Provides clinical trials matching embedded directly in the EHR, built on a reusable library that operates standalone or within server environments.",
-      "ClinTrial Connector": "An EHR-to-EDC connector that transfers 30-70% of trial data, reducing time spent on double data entry in clinical research workflows.",
-      "SMART on FHIR Appointment Scheduler": "Allows patients to securely view upcoming appointments, book new ones, and cancel existing ones through FHIR-compliant EHR integration.",
-      "Stone LogiK": "A precision medicine tool that predicts success and complication rates for kidney stone treatments based on patient and stone demographics, helping select optimal therapy.",
-      "PE Calculator": "Auto-completes the Revised Geneva and PERC rules based on patient information in FHIR to calculate pulmonary embolism risk scores at the point of care.",
-      "YouScript": "Reduces costs and saves lives with polypharmacy risk mitigation through real-time, gene-based medication guidance and clinical decision support analytics.",
-      "HMS Library of Evidence": "Provides evidence-based decision rules to guide appropriate imaging orders in the context of patient clinical data, reducing unnecessary imaging studies.",
-      "Childhood Obesity Risk": "Assists primary care providers and families with identifying the risk of developing childhood obesity in the next 1-3 years using predictive models.",
-      "VisualDx Diagnostic CDS": "A diagnostic clinical decision support tool with extensive medical image library, helping clinicians identify conditions through visual pattern recognition.",
-      "HEART Pathway": "A validated decision tool that improves health outcomes and reduces unnecessary costs for patients presenting to the ED with chest pain.",
-      "HealthDecision": "Provides shared decision-making tools that help patients and clinicians collaborate on treatment choices using evidence-based risk and benefit information.",
-      "AI-Driven Medical Summaries": "Empowers medical professionals with AI-driven insights and comprehensive medical summaries to enhance patient care and clinical decision-making.",
-      "HealthConnect AI Cardiovascular Risk": "Leverages cutting-edge AI algorithms to evaluate cardiovascular health risks, providing personalized risk assessments and preventive recommendations.",
-      "HealthConnect AI Chat Questionnaires": "Engages patients with AI-driven chat-based questionnaires, personalizing responses to collect detailed health feedback and monitor treatment adherence.",
-      "HealthConnect Form Templates": "Efficiently collects patient responses using customizable form-based templates, ensuring accurate data capture for clinical documentation.",
-      "HealthConnect AI Care Plan Generator": "Uses artificial intelligence to automatically generate personalized patient care plans based on clinical data, conditions, and evidence-based guidelines.",
-      "HealthCheck AI": "An AI-powered health assessment tool that analyzes patient data to identify potential health risks and recommend preventive measures.",
-      "b.well Connected Health": "Aggregates patient data from connected healthcare facilities, giving patients access to all of their records in one single SMART patient portal.",
-      "PatientShare": "A SMART on FHIR clinical data viewer supporting USCDI resources, CMS Post-Acute Care assessments, advance directives, and international patient summaries.",
-      "Guava": "Available in 14 languages across web, Android, and iOS, connecting 50,000+ providers with support for glucose monitors, blood pressure monitors, and automatic lab extraction.",
-      "MyFHR": "Consolidates entire family medical information from multiple hospital and clinical portals, along with data from connected Apple Health devices.",
-      "Mere Medical": "An open-source, offline-first, privacy-focused, self-hostable personal health record web app connecting to multiple patient portals across major EHR platforms.",
-      "CarePassport": "A digital health passport enabling patients to securely store, manage, and share their medical records, vaccination status, and health credentials.",
-      "Complete Patient Portal": "A comprehensive FHIR-based patient portal allowing clinicians and patients to view all medical records, reports, and imaging studies in one place.",
-      "Growth Chart for Infants": "A growth chart web application designed for parents and pediatricians to visualize infant growth data from birth to 36 months including length, weight, and head circumference.",
-      "Hale Health": "Connects clinical teams and patients between visits through live video visits, secure messaging, photo and video sharing, and remote care coordination.",
-      "HealthConnect Referral Manager": "Streamlines patient referral workflows by automating referral creation, tracking, and communication between primary care and specialist providers.",
-      "Carefluence Open HIE": "An open health information exchange platform enabling seamless data sharing across healthcare organizations using FHIR-based interoperability standards.",
-      "NuboHealth": "Integrates Salesforce Health Cloud with FHIR-enabled EHR systems for enhanced care coordination, patient engagement, and population health management.",
-      "uPerform for Healthcare": "Provides in-application training and performance support for healthcare IT systems, helping clinical staff learn and use EHR systems more effectively.",
-      "Curation Health": "Uses AI to automate clinical documentation and hierarchical condition coding, improving risk adjustment accuracy and reducing physician burden.",
-      "Smartlist Platform": "A clinical workflow platform that creates smart, dynamic patient lists within the EHR to improve care team coordination and task management.",
-      "Duke PillBox": "A patient-centered, skill-based interactive learning tool designed to improve skills for medication management and patient-provider communication.",
-      "RxPrime": "Provides smart medication lists and prescription management tools, helping clinicians maintain accurate and up-to-date medication records.",
-      "Surescripts Medication Management": "Connects healthcare providers with comprehensive medication history data from pharmacies and PBMs for safer prescribing and medication reconciliation.",
-      "MedActionPlan": "Creates personalized, visual medication action plans that help patients understand their medications, dosing schedules, and important safety information.",
-      "Warfarin/NSAID Risk Tool": "Assesses bleeding risk for patients on warfarin who are prescribed NSAIDs, providing clinical decision support for safer pain management.",
-      "Drug Education (eDosing)": "Provides drug education materials and dosing guidance to help patients and clinicians understand medication regimens and potential interactions.",
-      "Meta Care AI": "An innovative AI-powered health app designed specifically for seniors, veterans, and individuals seeking personalized health management and wellness guidance.",
-      "MoleCare": "A dermatology self-management app for those wishing to take control of their skin health through photo tracking and AI-assisted mole analysis.",
-      "Caren mHealth": "Collects real-world health data including data from at-home medical devices, wearables, and patient-reported outcomes for comprehensive remote monitoring.",
-      "Caren RPM": "A remote patient monitoring platform that decreases the cost and complexity of remotely monitoring patients between telemedicine and clinic visits.",
-      "Propeller Health": "A digital respiratory health management platform connecting inhalers and sensors to provide insights for asthma and COPD patients.",
-      "Visiontree": "A patient-reported outcomes collection platform that automates health assessments, questionnaires, and surveys integrated with EHR workflows.",
-      "Rimidi": "A chronic disease management platform that aggregates patient data and provides clinical decision support for conditions like diabetes and hypertension.",
-      "Medocity": "A virtual care platform enabling remote patient monitoring, care navigation, and digital health management for chronic and post-acute care.",
-      "CLINIA": "Provides patient and clinician-facing interfaces to monitor and score rheumatic disease symptoms, supporting shared decision-making in rheumatology care.",
-      "Diabetes Monograph": "Displays patient information in a diabetes-specific monograph format, demonstrating the usability and cognitive efficiency of disease-focused data views.",
-      "MazikCare Timeline on FHIR": "Presents patient clinical data in an interactive timeline visualization, making it easier to understand the progression of care over time.",
-      "Smart Forms": "A reference implementation for SMART App Launch and Structured Data Capture specifications, integrating standardized health check forms into clinical management systems.",
-      "LHC-Forms SDC Questionnaire": "Uses LHC-Forms to handle FHIR Questionnaire and QuestionnaireResponse resources and their SDC profiles for standardized clinical data capture.",
-      "PHQ-9 Depression Tracker": "Enables clinicians to quickly view and track a patient's depression outcomes from PHQ-9 score history for mental health monitoring.",
-      "seeCOLe": "Allows clinicians to see clinical data on lens — providing an augmented view of patient information for enhanced clinical decision-making.",
-      "Diabetes EMR (DBEMR)": "A diabetes-focused electronic medical record view that consolidates diabetes-related clinical data for streamlined disease management and monitoring.",
-      "ClinView": "A clinical data viewer that presents patient information in organized, specialty-specific views for efficient clinical review and documentation.",
-      "HealthConnect AI Medical Summary": "Generates AI-powered comprehensive medical summaries from patient records, helping clinicians quickly understand complex patient histories.",
-      "Synoptic Operative Report": "A web-based postoperative report tool that maintains compliance and provides correct procedural codes, quality indicators, and immediate sign-out capabilities.",
-      "CDASH on FHIR": "Bridges Clinical Data Acquisition Standards Harmonization (CDASH) with FHIR, streamlining clinical research data collection from EHR systems.",
-      "Clinical Pipe": "A data pipeline tool that facilitates the extraction and transformation of clinical data from EHR systems for research and analytics purposes.",
-      "NGS Quality Reporting": "A FHIR-based web application for next-generation sequencing quality reporting and management in genomic medicine and precision oncology.",
-      "FHIR Data Capture Tool": "A developer tool for capturing and validating FHIR resources, helping clinical professionals retrieve, validate, and manage medical datasets on FHIR servers.",
-      "SMART-PopHealth": "A population health analytics app enabling payors and providers to share live data views and quality metrics on covered populations side by side.",
-      "SMART Cardiac Risk Population": "The SMART Cardiac Risk App re-implemented for population management, using bulk FHIR data to assess cardiovascular risk across patient cohorts.",
-      "Population Health Analytics": "Provides population-level health analytics and reporting capabilities using FHIR bulk data for quality improvement and care management programs.",
-      "Care Gaps Dashboard": "Identifies and displays quality care gaps across patient populations, helping healthcare organizations track and close gaps in preventive care.",
-      "Bulk Data Analytics": "Processes and analyzes FHIR bulk data exports for population health insights, quality reporting, and healthcare operations analytics.",
-      "Health Quality Dashboard": "A dashboard for tracking healthcare quality metrics and performance indicators across patient populations using standardized FHIR data.",
-      "PDemo": "A simple HTML+JavaScript single page application that queries patients' demographic information from a FHIR server for testing and development purposes.",
-      "Records": "A multi-version FHIR data viewer supporting DSTU 1 through R4, enabling developers and clinicians to browse and inspect FHIR resources.",
-      "Shrimp": "A FHIR resource browser and testing tool that helps developers explore and validate FHIR server implementations and resource structures.",
-      "FHIR Terminology Browser": "Browse and search FHIR terminology resources including code systems, value sets, and concept maps from the National Library of Medicine.",
-      "Bulk Data Client": "A reference implementation client for the FHIR Bulk Data Access specification, enabling automated export and download of large FHIR datasets.",
-      "Bulk Data Tester": "Tests FHIR servers for compliance with the Bulk Data Access specification, verifying export operations, authentication, and data format correctness.",
-      "OpenHRE": "An open health record exchange platform providing FHIR-based tools for health data interoperability, exchange, and integration across systems.",
-      "Patient Data Fetcher": "A developer utility for fetching and displaying patient data from FHIR servers, useful for testing FHIR API implementations and debugging.",
-      "FHIR Terminology Server Dashboard": "A management dashboard for FHIR terminology servers, providing visibility into code systems, value sets, and terminology service operations.",
-      "Genomics Advisor": "A SMART on FHIR application for genomic medicine that helps clinicians interpret and apply genomic data in clinical decision-making.",
-      "LA Wallet": "Louisiana's digital driver's license app that also displays SMART Health Card information for verifying proof of COVID-19 vaccination status.",
-      "VizCat SMART Card Verifier": "Verifies and displays SMART Health Card information, validating COVID-19 vaccination records and other health credentials.",
-      "Have I Been Tested": "A public health app for tracking COVID-19 testing status, helping individuals and organizations verify testing history and results.",
-      "COVID Vaccination QR Scanner": "Scans and verifies QR codes from COVID-19 vaccination cards, validating SMART Health Card-encoded vaccination records.",
-      "SMART Health Card Verifier": "An official verifier for SMART Health Cards, validating the cryptographic signatures and data integrity of digital health credentials.",
-      "VariantMapper": "Maps and visualizes genomic variants from sequencing data, supporting public health surveillance and precision medicine research efforts."
-    },
     "filters": {
-      "all": "All Categories",
-      "fhir": "FHIR Version",
-      "ehr": "EHR Support",
-      "os": "Platform"
+      "all": "ប្រភេទទាំងអស់",
+      "fhir": "កំណែ FHIR",
+      "ehr": "ការគាំទ្រ EHR",
+      "os": "វេទិកា"
     },
     "galleryLink": {
-      "title": "Explore the Full Gallery",
-      "description": "Visit the official SMART Health IT App Gallery for the most up-to-date application listings, try live demos, and discover new SMART on FHIR apps.",
-      "button": "Visit SMART App Gallery"
+      "title": "ស្វែងយល់វិចិត្រសាលពេញលេញ",
+      "description": "ចូលមើលវិចិត្រសាល SMART Health IT App ផ្លូវការសម្រាប់បញ្ជីកម្មវិធីថ្មីបំផុត សាកល្បង demo ផ្ទាល់ និងស្វែងរកកម្មវិធី SMART on FHIR ថ្មី។",
+      "button": "ចូលមើលវិចិត្រសាល SMART App"
     }
   }
 }

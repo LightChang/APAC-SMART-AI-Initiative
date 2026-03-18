@@ -1,61 +1,61 @@
 {
   "smart": {
     "pageTitle": "SMART on FHIR",
-    "pageDescription": "Understanding the SMART on FHIR open healthcare standards platform",
-    "heroTitle": "Understanding SMART on FHIR",
-    "heroSubtitle": "The global open standard for health data interoperability",
+    "pageDescription": "ស្វែងយល់វេទិកាស្តង់ដារសុខាភិបាលបើកចំហ SMART on FHIR",
+    "heroTitle": "ស្វែងយល់ SMART on FHIR",
+    "heroSubtitle": "ស្តង់ដារបើកចំហពិភពលោកសម្រាប់អន្តរប្រតិបត្តិការទិន្នន័យសុខភាព",
     "whatIsFhir": {
-      "title": "What is FHIR?",
-      "description": "FHIR (Fast Healthcare Interoperability Resources) is a healthcare data exchange standard developed by HL7 International. Using modern web technologies (RESTful APIs, JSON, OAuth2), it enables different healthcare systems to exchange data in a standardized way."
+      "title": "តើ FHIR ជាអ្វី?",
+      "description": "FHIR (Fast Healthcare Interoperability Resources) គឺជាស្តង់ដារផ្លាស់ប្តូរទិន្នន័យសុខាភិបាលដែលបង្កើតឡើងដោយ HL7 International។ ដោយប្រើបច្ចេកវិទ្យាវេបទំនើប (RESTful APIs, JSON, OAuth2) វាអនុញ្ញាតឱ្យប្រព័ន្ធសុខាភិបាលផ្សេងៗផ្លាស់ប្តូរទិន្នន័យតាមវិធីស្តង់ដារ។"
     },
     "whatIsSmart": {
-      "title": "What Does SMART Add?",
-      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) adds an application layer framework on top of FHIR. It defines how apps securely connect to EHR systems, handle authentication and authorization — making healthcare apps plug-and-play, like apps on a smartphone."
+      "title": "តើ SMART បន្ថែមអ្វី?",
+      "description": "SMART (Substitutable Medical Applications, Reusable Technologies) បន្ថែមក្របខ័ណ្ឌស្រទាប់កម្មវិធីនៅលើ FHIR។ វាកំណត់រចនាសម្ព័ន្ធរបៀបកម្មវិធីភ្ជាប់ប្រព័ន្ធ EHR ដោយសុវត្ថិភាព គ្រប់គ្រងការផ្ទៀងផ្ទាត់ និងការអនុញ្ញាត — ធ្វើឱ្យកម្មវិធីសុខាភិបាលដូចជាកម្មវិធីនៅលើស្មាតហ្វូន ភ្ជាប់ហើយប្រើបានភ្លាម។"
     },
     "whyMatters": {
-      "title": "Why Does This Matter?",
-      "description": "Most healthcare systems worldwide are closed and incompatible. SMART on FHIR breaks down data silos, enabling patient data to flow securely between hospitals and systems — laying the foundation for precision medicine, telemedicine, and AI-assisted diagnosis."
+      "title": "ហេតុអ្វីបានជាវាមានសារៈសំខាន់?",
+      "description": "ប្រព័ន្ធសុខាភិបាលភាគច្រើនទូទាំងពិភពលោកបិទ និងមិនឆបគ្នា។ SMART on FHIR បំបែក silo ទិន្នន័យ អនុញ្ញាតឱ្យទិន្នន័យអ្នកជំងឺហូរដោយសុវត្ថិភាពរវាងមន្ទីរពេទ្យ និងប្រព័ន្ធ — ដាក់គ្រឹះសម្រាប់វេជ្ជសាស្ត្រជាក់លាក់ telemedicine និងការធ្វើរោគវិនិច្ឆ័យដោយ AI។"
     },
     "conceptDiagram": {
-      "ehr": "Electronic Health Records (EHR)",
-      "smartLayer": "SMART Platform Layer",
-      "apps": "Healthcare Apps",
-      "ehrDesc": "Existing hospital systems",
-      "smartDesc": "Secure auth + API standards",
-      "appsDesc": "Third-party innovation"
+      "ehr": "កំណត់ត្រាសុខភាពអេឡិចត្រូនិក (EHR)",
+      "smartLayer": "ស្រទាប់វេទិកា SMART",
+      "apps": "កម្មវិធីសុខាភិបាល",
+      "ehrDesc": "ប្រព័ន្ធមន្ទីរពេទ្យដែលមានស្រាប់",
+      "smartDesc": "ការផ្ទៀងផ្ទាត់សុវត្ថិភាព + ស្តង់ដារ API",
+      "appsDesc": "នវានុវត្តន៍ភាគីទីបី"
     },
     "timeline": {
-      "title": "Key Milestones",
-      "subtitle": "The journey from academic research to global standard"
+      "title": "សមិទ្ធិផលសំខាន់ៗ",
+      "subtitle": "ដំណើរពីការស្រាវជ្រាវសិក្សាទៅស្តង់ដារពិភពលោក"
     },
     "ecosystem": {
-      "title": "Global Ecosystem",
-      "subtitle": "SMART on FHIR is supported and adopted by leading organizations worldwide",
-      "standards": "Standards Bodies",
-      "government": "Government",
-      "vendors": "EHR Vendors",
-      "cloud": "Cloud Platforms"
+      "title": "ប្រព័ន្ធអេកូពិភពលោក",
+      "subtitle": "SMART on FHIR ត្រូវបានគាំទ្រ និងទទួលយកដោយអង្គការឈានមុខទូទាំងពិភពលោក",
+      "standards": "ស្ថាប័នស្តង់ដារ",
+      "government": "រដ្ឋាភិបាល",
+      "vendors": "អ្នកលក់ EHR",
+      "cloud": "វេទិកា Cloud"
     },
     "caseStudy": {
-      "title": "In Practice: FHIR + GB/T Dual-Standard Architecture",
-      "subtitle": "Bridging international and Chinese national standards for seamless cross-border data exchange",
-      "description": "Our initiative has pioneered a dual-standard data architecture that ensures full compatibility between the international FHIR standard and China's GB/T national standard. This innovation enables medical data to flow seamlessly across borders — when a patient moves between countries, their health records remain accessible and interoperable, regardless of which standard the local system uses.",
-      "benefit1Title": "Cross-Border Interoperability",
-      "benefit1Desc": "Patient records flow seamlessly between FHIR-based international systems and GB/T-based Chinese systems.",
-      "benefit2Title": "Compliance by Design",
-      "benefit2Desc": "Meets regulatory requirements in both international and Chinese healthcare environments simultaneously.",
-      "benefit3Title": "Seamless Referrals",
-      "benefit3Desc": "Enables smooth patient referrals across countries without data format barriers."
+      "title": "ក្នុងការអនុវត្ត: ស្ថាបត្យកម្មស្តង់ដារពីរ FHIR + GB/T",
+      "subtitle": "ភ្ជាប់ស្តង់ដារអន្តរជាតិ និងស្តង់ដារជាតិចិនសម្រាប់ការផ្លាស់ប្តូរទិន្នន័យឆ្លងព្រំដែនដោយរលូន",
+      "description": "គំនិតផ្តួចផ្តើមរបស់យើងបានឈានមុខគេក្នុងស្ថាបត្យកម្មទិន្នន័យស្តង់ដារពីរដែលធានាភាពឆបគ្នាពេញលេញរវាងស្តង់ដារ FHIR អន្តរជាតិ និងស្តង់ដារជាតិ GB/T របស់ចិន។ នវានុវត្តន៍នេះអនុញ្ញាតឱ្យទិន្នន័យវេជ្ជសាស្ត្រហូរដោយរលូនឆ្លងព្រំដែន — នៅពេលអ្នកជំងឺផ្លាស់ប្តូររវាងប្រទេស កំណត់ត្រាសុខភាពរបស់ពួកគេនៅតែអាចចូលបាន និងអាចធ្វើអន្តរប្រតិបត្តិការបាន មិនថាប្រព័ន្ធមូលដ្ឋានប្រើស្តង់ដារមួយណា។",
+      "benefit1Title": "អន្តរប្រតិបត្តិការឆ្លងព្រំដែន",
+      "benefit1Desc": "កំណត់ត្រាអ្នកជំងឺហូរដោយរលូនរវាងប្រព័ន្ធអន្តរជាតិ FHIR និងប្រព័ន្ធចិន GB/T។",
+      "benefit2Title": "ការអនុលោមតាមការរចនា",
+      "benefit2Desc": "បំពេញតម្រូវការបទប្បញ្ញត្តិក្នុងបរិស្ថានសុខាភិបាលអន្តរជាតិ និងចិនក្នុងពេលដំណាលគ្នា។",
+      "benefit3Title": "ការបញ្ជូនបន្តរលូន",
+      "benefit3Desc": "អនុញ្ញាតឱ្យបញ្ជូនអ្នកជំងឺដោយរលូនឆ្លងប្រទេសដោយគ្មានឧបសគ្គទម្រង់ទិន្នន័យ។"
     },
     "resources": {
-      "title": "Technical Resources",
-      "subtitle": "Start your SMART on FHIR journey",
-      "officialDocs": "Official Documentation",
-      "officialDocsDesc": "SMART Health IT official developer docs and guides",
-      "fhirSpec": "FHIR Specification",
-      "fhirSpecDesc": "HL7 FHIR R4 complete specification",
-      "sandbox": "Sandbox Environment",
-      "sandboxDesc": "Free FHIR test servers — start developing today"
+      "title": "ធនធានបច្ចេកទេស",
+      "subtitle": "ចាប់ផ្តើមដំណើរ SMART on FHIR របស់អ្នក",
+      "officialDocs": "ឯកសារផ្លូវការ",
+      "officialDocsDesc": "ឯកសារ និងការណែនាំអ្នកអភិវឌ្ឍន៍ផ org SMART Health IT ផ្លូវការ",
+      "fhirSpec": "លក្ខណៈបច្ចេកទេស FHIR",
+      "fhirSpecDesc": "លក្ខណៈបច្ចេកទេសពេញលេញ HL7 FHIR R4",
+      "sandbox": "បរិស្ថាន Sandbox",
+      "sandboxDesc": "ម៉ាស៊ីនមេសាកល្បង FHIR ឥតគិតថ្លៃ — ចាប់ផ្តើមអភិវឌ្ឍនៅថ្ងៃនេះ"
     }
   }
 }

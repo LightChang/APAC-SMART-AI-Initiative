@@ -1,48 +1,48 @@
 {
   "hero": {
-    "title": "Reshaping Healthcare in Asia-Pacific with Open Standards",
-    "subtitle": "The APAC Precision Health Initiative drives SMART on FHIR adoption across the region — enabling secure health data interoperability and precision medicine innovation.",
-    "cta1": "Explore SMART on FHIR",
-    "cta2": "Join the Initiative"
+    "title": "Binabago ang Healthcare sa Asia-Pacific gamit ang Bukas na Pamantayan",
+    "subtitle": "Ang APAC Precision Health Initiative ay nagsusulong ng SMART on FHIR adoption sa buong rehiyon — nagbibigay-daan sa secure na health data interoperability at precision medicine innovation.",
+    "cta1": "Alamin ang SMART on FHIR",
+    "cta2": "Sumali sa Initiative"
   },
   "metrics": {
-    "title": "The Growth Opportunity in APAC Digital Health",
-    "subtitle": "Asia-Pacific is the fastest-growing region for SMART on FHIR adoption worldwide",
-    "hospitals": "Partner Hospitals",
+    "title": "Oportunidad sa Paglago ng Digital Health sa APAC",
+    "subtitle": "Ang Asia-Pacific ang pinakamabilis na lumalaking rehiyon para sa SMART on FHIR adoption sa buong mundo",
+    "hospitals": "Partner na Ospital",
     "hospitalsValue": "500+",
-    "market": "Market Size",
+    "market": "Laki ng Market",
     "marketValue": "$7.8B",
-    "growth": "Annual Growth Rate",
+    "growth": "Taunang Rate ng Paglago",
     "growthValue": "27%"
   },
   "smartIntro": {
-    "title": "What is SMART on FHIR?",
-    "description": "SMART on FHIR is an open-standards platform developed by Boston Children's Hospital's Computational Health Informatics Program (CHIP). It enables third-party apps to securely read and write electronic health records — like an app store for healthcare, where any developer can build medical applications that run on any FHIR-enabled system.",
-    "link": "Learn more about SMART on FHIR →"
+    "title": "Ano ang SMART on FHIR?",
+    "description": "Ang SMART on FHIR ay isang open-standards platform na binuo ng Computational Health Informatics Program (CHIP) ng Boston Children's Hospital. Binibigyang-kakayahan nito ang mga third-party apps na ligtas na magbasa at magsulat ng electronic health records — parang app store para sa healthcare, kung saan ang sinumang developer ay makakabuo ng mga medical application na tumatakbo sa anumang sistemang may suporta sa FHIR.",
+    "link": "Alamin pa ang tungkol sa SMART on FHIR →"
   },
   "apacPreview": {
-    "title": "Why Asia-Pacific?",
-    "subtitle": "Home to 60% of the world's population, Asia-Pacific faces critical challenges — fragmented health data, aging populations, and rising costs. SMART on FHIR offers a unified, open solution.",
-    "pain1Title": "Data Fragmentation",
-    "pain1Desc": "90% of APAC healthcare facilities use incompatible systems. Data silos severely hinder collaborative care.",
-    "pain2Title": "Aging Population",
-    "pain2Desc": "By 2050, APAC's 65+ population will double. Chronic disease management demands interconnected digital infrastructure.",
-    "pain3Title": "Cost Pressure",
-    "pain3Desc": "Standardized interoperability can save each hospital millions annually in integration and maintenance costs.",
-    "link": "Explore APAC Opportunity →"
+    "title": "Bakit Asia-Pacific?",
+    "subtitle": "Tahanan ng 60% ng populasyon ng mundo, ang Asia-Pacific ay nahaharap sa mga kritikal na hamon — nagkakahiwa-hiwalay na health data, tumandang populasyon, at tumataas na gastos. Nag-aalok ang SMART on FHIR ng isang nagkakaisang bukas na solusyon.",
+    "pain1Title": "Pagkakahiwa-hiwalay ng Data",
+    "pain1Desc": "90% ng mga pasilidad ng kalusugan sa APAC ay gumagamit ng mga hindi compatible na sistema. Ang mga data silo ay labis na humahadlang sa collaborative care.",
+    "pain2Title": "Tumandang Populasyon",
+    "pain2Desc": "Sa 2050, ang populasyong 65+ sa APAC ay doble na. Ang pamamahala ng chronic disease ay nangangailangan ng magkakakonektang digital infrastructure.",
+    "pain3Title": "Presyon sa Gastos",
+    "pain3Desc": "Ang standardized interoperability ay makakatipid sa bawat ospital ng milyun-milyong piso taun-taon sa integration at maintenance costs.",
+    "link": "Alamin ang Oportunidad sa APAC →"
   },
   "partners": {
-    "title": "Global Ecosystem Partners",
-    "subtitle": "Building together with leading healthcare standards bodies, tech companies, and government agencies"
+    "title": "Mga Global Ecosystem Partners",
+    "subtitle": "Bumubuo kasama ang mga nangungunang healthcare standards bodies, tech companies, at government agencies"
   },
   "founderQuote": {
-    "quote": "Connecting China's medical resources with the world through technological innovation — truly fulfilling our mission of 'Medicine Without Borders.'",
+    "quote": "Ikinokonekta ang mga medical resources ng China sa mundo sa pamamagitan ng technological innovation — tunay na tinutupad ang aming misyon ng 'Medicine Without Borders.'",
     "name": "Yongjun Zhao",
     "title": "Founder"
   },
   "bottomCta": {
-    "title": "Ready to Join the Digital Health Transformation in Asia-Pacific?",
-    "subtitle": "Whether you're a healthcare institution, developer, or policymaker — there's a path for you.",
-    "button": "Get Involved Now"
+    "title": "Handa ka na bang Sumali sa Digital Health Transformation sa Asia-Pacific?",
+    "subtitle": "Kung ikaw man ay mula sa healthcare institution, developer, o policymaker — may landas para sa iyo.",
+    "button": "Makiisa Ngayon"
   }
 }
